@@ -1,0 +1,1200 @@
+{"message": "سلام وقت بخیر، لطفاً دو تا شارژر انکر رنگ سفید برای آمل بفرستید", "order": {"product_id": "P5004", "quantity": 2, "color": "سفید", "city": "آمل"}}
+{"message": "یه سفارش داشتم: 5 تا لباسشویی سامسونگ ارسال به شیراز", "order": {"product_id": "P4002", "quantity": 5, "color": null, "city": "شیراز"}}
+{"message": "درود، ۴ تا براکت تلویزیون می‌خوام", "order": {"product_id": "P5006", "quantity": 4, "color": null, "city": null}}
+{"message": "موجوده WH-1000XM5؟ اگه هست 2 تا مشکی رنگ برام بذارید مرسی", "order": {"product_id": "P5001", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "درود، گوشی نوکیا G42 دارید؟ لازم دارم مرسی", "order": {"product_id": "P1006", "quantity": 1, "color": null, "city": null}}
+{"message": "می‌خواستم پنج عدد لپ‌تاپ گیمینگ ایسوس TUF سفارش بدم، به رنگ مشکی به مقصد آمل ممنون", "order": {"product_id": "P2004", "quantity": 5, "color": "مشکی", "city": "آمل"}}
+{"message": "سلام، برای تهران شیائومی نوت 14 پرو به رنگ بنفش ثبت کنید، سپاس", "order": {"product_id": "P1003", "quantity": 1, "color": "بنفش", "city": "تهران"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: یه براکت تلویزیون بفرستید قزوین لطفاً", "order": {"product_id": "P5006", "quantity": 1, "color": null, "city": "قزوین"}}
+{"message": "ببخشید، آدرسم تهرانه 5 تا شارژر ۶۵ وات انکر ثبت کنید لطفاً", "order": {"product_id": "P5004", "quantity": 5, "color": null, "city": "تهران"}}
+{"message": "سلام، لطفاً چهار تا ردمی بادز 6 به رنگ سفید آدرسم اهوازه بفرستید مرسی", "order": {"product_id": "P5002", "quantity": 4, "color": "سفید", "city": "اهواز"}}
+{"message": "درود، برای قزوین سه عدد گوشی A55 رنگ مشکی ثبت کنید ممنون", "order": {"product_id": "P1001", "quantity": 3, "color": "مشکی", "city": "قزوین"}}
+{"message": "سلام، یه دونه ردمی نوت 14 پرو رنگ مشکی می‌خوام ممنون", "order": {"product_id": "P1003", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "ببخشید، نوکیا G42 دارید؟ ۲ عدد لازم دارم آدرسم یزده ممنون", "order": {"product_id": "P1006", "quantity": 2, "color": null, "city": "یزد"}}
+{"message": "سلام وقت بخیر، موجوده هدفون سونی XM5؟ اگه هست یه دونه رنگ مشکی برام بذارید تحویل در کرمان", "order": {"product_id": "P5001", "quantity": 1, "color": "مشکی", "city": "کرمان"}}
+{"message": "ببخشید، می‌خواستم یک گلکسی A55 سفارش بدم، رنگ سفید به مقصد قزوین لطفاً", "order": {"product_id": "P1001", "quantity": 1, "color": "سفید", "city": "قزوین"}}
+{"message": "موجوده ویووبوک 15؟ اگه هست 4 تا برام بذارید بفرستید یزد", "order": {"product_id": "P2002", "quantity": 4, "color": null, "city": "یزد"}}
+{"message": "2 تا ردمی نوت 14 پرو بفرستید کرمان لطفاً", "order": {"product_id": "P1003", "quantity": 2, "color": null, "city": "کرمان"}}
+{"message": "ببخشید، ۵ تا شارژر انکر می‌خوام لطفاً", "order": {"product_id": "P5004", "quantity": 5, "color": null, "city": null}}
+{"message": "سلام وقت بخیر، سه تا تلویزیون شیائومی 43 مشکی می‌خوام به مقصد ارومیه ممنون", "order": {"product_id": "P3003", "quantity": 3, "color": "مشکی", "city": "ارومیه"}}
+{"message": "سلام، موجوده گلکسی A55؟ اگه هست 4 تا رنگ مشکی برام بذارید مرسی", "order": {"product_id": "P1001", "quantity": 4, "color": "مشکی", "city": null}}
+{"message": "درود، می‌خواستم مک بوک ایر M3 سفارش بدم، آدرسم قزوینه", "order": {"product_id": "P2003", "quantity": 1, "color": null, "city": "قزوین"}}
+{"message": "سلام، سامسونگ S24 FE سبز رنگ دارید؟ 1 عدد لازم دارم ارسال به کرمان", "order": {"product_id": "P1002", "quantity": 1, "color": "سبز", "city": "کرمان"}}
+{"message": "یه لپ‌تاپ ایسوس ویووبوک رنگ نقره‌ای ارسال به مشهد لطفاً", "order": {"product_id": "P2002", "quantity": 1, "color": "نقره‌ای", "city": "مشهد"}}
+{"message": "سلام، یه سفارش داشتم: ۲ عدد ردمی نوت ۱۴ پرو بنفش آدرسم یزده", "order": {"product_id": "P1003", "quantity": 2, "color": "بنفش", "city": "یزد"}}
+{"message": "یه ایسوس TUF می‌خوام", "order": {"product_id": "P2004", "quantity": 1, "color": null, "city": null}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: ۵ تا نوکیا G42 آدرسم شیرازه لطفاً", "order": {"product_id": "P1006", "quantity": 5, "color": null, "city": "شیراز"}}
+{"message": "ببخشید، 5 تا ساعت سامسونگ واچ ۷ نقره‌ای ارسال به تهران لطفاً", "order": {"product_id": "P5003", "quantity": 5, "color": "نقره‌ای", "city": "تهران"}}
+{"message": "سه عدد کولر گری ۱۸ هزار به رنگ سفید ثبت کنید ممنون", "order": {"product_id": "P4004", "quantity": 3, "color": "سفید", "city": null}}
+{"message": "سلام، می‌خواستم 3 تا پاوربانک ۲۰ هزار شیائومی سفارش بدم، مشکی رنگ برای رشت", "order": {"product_id": "P5005", "quantity": 3, "color": "مشکی", "city": "رشت"}}
+{"message": "سلام، موجوده ردمی نوت ۱۴ پرو؟ اگه هست ۳ تا بنفش رنگ برام بذارید تحویل در تبریز", "order": {"product_id": "P1003", "quantity": 3, "color": "بنفش", "city": "تبریز"}}
+{"message": "به مقصد کرمان ۲ تا پوکو X7 مشکی ثبت کنید", "order": {"product_id": "P1004", "quantity": 2, "color": "مشکی", "city": "کرمان"}}
+{"message": "پنج عدد لپ‌تاپ گیمینگ ایسوس TUF می‌خوام ارسال به زنجان لطفاً", "order": {"product_id": "P2004", "quantity": 5, "color": null, "city": "زنجان"}}
+{"message": "لطفاً نوکیا G42 خاکستری رنگ بفرستید", "order": {"product_id": "P1006", "quantity": 1, "color": "خاکستری", "city": null}}
+{"message": "لطفاً ۳ تا گلکسی واچ 7 رنگ سبز ارسال به کرج بفرستید، سپاس", "order": {"product_id": "P5003", "quantity": 3, "color": "سبز", "city": "کرج"}}
+{"message": "سلام وقت بخیر، موجوده ماشین لباسشویی ۹ کیلویی سامسونگ؟ اگه هست پنج عدد نقره‌ای برام بذارید به مقصد ارومیه لطفاً", "order": {"product_id": "P4002", "quantity": 5, "color": "نقره‌ای", "city": "ارومیه"}}
+{"message": "سلام وقت بخیر، ۳ تا اس ۲۴ اف ای به رنگ مشکی می‌خوام تحویل در کرمان", "order": {"product_id": "P1002", "quantity": 3, "color": "مشکی", "city": "کرمان"}}
+{"message": "لپ‌تاپ ایسوس ویووبوک رنگ نقره‌ای دارید؟ یه دونه لازم دارم ممنون", "order": {"product_id": "P2002", "quantity": 1, "color": "نقره‌ای", "city": null}}
+{"message": "موجوده هدفون سونی XM5؟ اگه هست 4 تا رنگ نقره‌ای برام بذارید", "order": {"product_id": "P5001", "quantity": 4, "color": "نقره‌ای", "city": null}}
+{"message": "سلام، 2 تا نوکیا G42 ثبت کنید", "order": {"product_id": "P1006", "quantity": 2, "color": null, "city": null}}
+{"message": "سلام، موجوده پاوربانک شیائومی؟ اگه هست برام بذارید بفرستید تبریز مرسی", "order": {"product_id": "P5005", "quantity": 1, "color": null, "city": "تبریز"}}
+{"message": "درود، می‌خواستم پنج عدد شارژر انکر سفارش بدم، بفرستید زنجان، سپاس", "order": {"product_id": "P5004", "quantity": 5, "color": null, "city": "زنجان"}}
+{"message": "درود، دو تا ردمی بادز 6 رنگ مشکی می‌خوام، سپاس", "order": {"product_id": "P5002", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "کولر گازی گری به رنگ سفید دارید؟ چهار عدد لازم دارم بفرستید گرگان مرسی", "order": {"product_id": "P4004", "quantity": 4, "color": "سفید", "city": "گرگان"}}
+{"message": "درود، یه سفارش داشتم: ۲ تا شیائومی پوکو X7 به رنگ مشکی", "order": {"product_id": "P1004", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "سلام، ۲ تا براکت تلویزیون مشکی رنگ می‌خوام تحویل در کرمان، سپاس", "order": {"product_id": "P5006", "quantity": 2, "color": "مشکی", "city": "کرمان"}}
+{"message": "درود، موجوده گوشی نوکیا G42؟ اگه هست پنج عدد برام بذارید مرسی", "order": {"product_id": "P1006", "quantity": 5, "color": null, "city": null}}
+{"message": "می‌خواستم ۱ عدد ایسوس TUF سفارش بدم، رنگ مشکی لطفاً", "order": {"product_id": "P2004", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "ببخشید، آدرسم شیرازه 4 تا شارژر ۶۵ وات انکر ثبت کنید مرسی", "order": {"product_id": "P5004", "quantity": 4, "color": null, "city": "شیراز"}}
+{"message": "ببخشید، ارسال به قزوین سه عدد لپ‌تاپ گیمینگ ایسوس TUF مشکی ثبت کنید لطفاً", "order": {"product_id": "P2004", "quantity": 3, "color": "مشکی", "city": "قزوین"}}
+{"message": "سلام وقت بخیر، می‌خواستم ۲ تا کولر گری ۱۸ هزار سفارش بدم، به رنگ سفید تحویل در تهران مرسی", "order": {"product_id": "P4004", "quantity": 2, "color": "سفید", "city": "تهران"}}
+{"message": "ببخشید، آدرسم تهرانه ۵ تا پاوربانک شیائومی ثبت کنید، سپاس", "order": {"product_id": "P5005", "quantity": 5, "color": null, "city": "تهران"}}
+{"message": "درود، لطفاً ۲ تا پایه دیواری تلویزیون بفرستید", "order": {"product_id": "P5006", "quantity": 2, "color": null, "city": null}}
+{"message": "درود، ارسال به همدان 4 تا مک بوک ایر M3 خاکستری ثبت کنید", "order": {"product_id": "P2003", "quantity": 4, "color": "خاکستری", "city": "همدان"}}
+{"message": "ببخشید، یه سفارش داشتم: شیائومی نوت 14 پرو رنگ آبی", "order": {"product_id": "P1003", "quantity": 1, "color": "آبی", "city": null}}
+{"message": "یه سفارش داشتم: ۲ تا پایه دیواری تلویزیون مشکی رنگ", "order": {"product_id": "P5006", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "سلام، ۱ عدد کولر گازی گری ثبت کنید ممنون", "order": {"product_id": "P4004", "quantity": 1, "color": null, "city": null}}
+{"message": "درود، می‌خواستم یه دونه تی وی شیائومی ۴۳ اینچ سفارش بدم، ارسال به رشت، سپاس", "order": {"product_id": "P3003", "quantity": 1, "color": null, "city": "رشت"}}
+{"message": "می‌خواستم 4 تا گوشی A55 سفارش بدم ممنون", "order": {"product_id": "P1001", "quantity": 4, "color": null, "city": null}}
+{"message": "درود، می‌خواستم ردمی نوت ۱۴ پرو سفارش بدم، رنگ آبی ممنون", "order": {"product_id": "P1003", "quantity": 1, "color": "آبی", "city": null}}
+{"message": "موجوده ردمی بادز 6؟ اگه هست برام بذارید آدرسم یزده", "order": {"product_id": "P5002", "quantity": 1, "color": null, "city": "یزد"}}
+{"message": "می‌خواستم یه دونه ایسوس TUF سفارش بدم، مشکی لطفاً", "order": {"product_id": "P2004", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "درود، 1 عدد IdeaPad Slim 3 می‌خوام مرسی", "order": {"product_id": "P2001", "quantity": 1, "color": null, "city": null}}
+{"message": "سلام، بفرستید تبریز یک عدد مک‌بوک ایر رنگ خاکستری ثبت کنید مرسی", "order": {"product_id": "P2003", "quantity": 1, "color": "خاکستری", "city": "تبریز"}}
+{"message": "یه سفارش داشتم: 2 تا لپ‌تاپ لنوو IdeaPad خاکستری", "order": {"product_id": "P2001", "quantity": 2, "color": "خاکستری", "city": null}}
+{"message": "4 تا هدفون سونی می‌خوام برای مشهد مرسی", "order": {"product_id": "P5001", "quantity": 4, "color": null, "city": "مشهد"}}
+{"message": "درود، لطفاً 4 تا گلکسی واچ 7 سبز برای یزد بفرستید", "order": {"product_id": "P5003", "quantity": 4, "color": "سبز", "city": "یزد"}}
+{"message": "ببخشید، لطفاً یک گلکسی S24 FE رنگ مشکی بفرستید مرسی", "order": {"product_id": "P1002", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "درود، یه سفارش داشتم: ۲ تا تلویزیون ۵۵ اینچ ال جی مشکی ارسال به گرگان مرسی", "order": {"product_id": "P3001", "quantity": 2, "color": "مشکی", "city": "گرگان"}}
+{"message": "می‌خواستم ساعت سامسونگ واچ ۷ سفارش بدم ممنون", "order": {"product_id": "P5003", "quantity": 1, "color": null, "city": null}}
+{"message": "لطفاً پوکو X7 بفرستید، سپاس", "order": {"product_id": "P1004", "quantity": 1, "color": null, "city": null}}
+{"message": "سلام وقت بخیر، هندزفری ردمی بادز ۶ دارید؟ سه تا لازم دارم برای قزوین، سپاس", "order": {"product_id": "P5002", "quantity": 3, "color": null, "city": "قزوین"}}
+{"message": "سلام، لطفاً تی وی شیائومی ۴۳ اینچ مشکی بفرستید", "order": {"product_id": "P3003", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "ببخشید، یه سفارش داشتم: 2 تا اس ۲۴ اف ای برای آمل ممنون", "order": {"product_id": "P1002", "quantity": 2, "color": null, "city": "آمل"}}
+{"message": "سلام وقت بخیر، لباسشویی سامسونگ دارید؟ 2 تا لازم دارم تحویل در آمل", "order": {"product_id": "P4002", "quantity": 2, "color": null, "city": "آمل"}}
+{"message": "سلام، لطفاً پایه دیواری تلویزیون بفرستید تبریز بفرستید مرسی", "order": {"product_id": "P5006", "quantity": 1, "color": null, "city": "تبریز"}}
+{"message": "سلام، آدرسم قزوینه ۳ تا شیائومی پوکو X7 مشکی رنگ ثبت کنید ممنون", "order": {"product_id": "P1004", "quantity": 3, "color": "مشکی", "city": "قزوین"}}
+{"message": "سلام وقت بخیر، یک MacBook Air خاکستری ثبت کنید ممنون", "order": {"product_id": "P2003", "quantity": 1, "color": "خاکستری", "city": null}}
+{"message": "موجوده کولر گری ۱۸ هزار؟ اگه هست چهار تا برام بذارید", "order": {"product_id": "P4004", "quantity": 4, "color": null, "city": null}}
+{"message": "سلام، موجوده شارژر ۶۵ وات انکر؟ اگه هست ۲ عدد برام بذارید آدرسم ساریه مرسی", "order": {"product_id": "P5004", "quantity": 2, "color": null, "city": "ساری"}}
+{"message": "سلام وقت بخیر، ۱ عدد گلکسی واچ 7 رنگ مشکی ثبت کنید، سپاس", "order": {"product_id": "P5003", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "یه شیائومی پوکو X7 می‌خوام برای اصفهان، سپاس", "order": {"product_id": "P1004", "quantity": 1, "color": null, "city": "اصفهان"}}
+{"message": "سلام وقت بخیر، لطفاً یک عدد هندزفری ردمی بادز ۶ تحویل در اهواز بفرستید", "order": {"product_id": "P5002", "quantity": 1, "color": null, "city": "اهواز"}}
+{"message": "سلام، یه سفارش داشتم: دو عدد کولر گری ۱۸ هزار مرسی", "order": {"product_id": "P4004", "quantity": 2, "color": null, "city": null}}
+{"message": "می‌خواستم چهار عدد گوشی A55 سفارش بدم، به رنگ سفید ممنون", "order": {"product_id": "P1001", "quantity": 4, "color": "سفید", "city": null}}
+{"message": "سلام وقت بخیر، موجوده سامسونگ A55؟ اگه هست دو تا آبی رنگ برام بذارید تحویل در قم لطفاً", "order": {"product_id": "P1001", "quantity": 2, "color": "آبی", "city": "قم"}}
+{"message": "ببخشید، یه سفارش داشتم: 5 تا پاوربانک ۲۰ هزار شیائومی رنگ آبی ارسال به قزوین", "order": {"product_id": "P5005", "quantity": 5, "color": "آبی", "city": "قزوین"}}
+{"message": "یه سفارش داشتم: سه عدد شارژر انکر سفید مرسی", "order": {"product_id": "P5004", "quantity": 3, "color": "سفید", "city": null}}
+{"message": "سلام، سه عدد کولر گری ۱۸ هزار آدرسم شیرازه", "order": {"product_id": "P4004", "quantity": 3, "color": null, "city": "شیراز"}}
+{"message": "درود، یه سفارش داشتم: آیفون 16 به رنگ مشکی ارسال به یزد ممنون", "order": {"product_id": "P1005", "quantity": 1, "color": "مشکی", "city": "یزد"}}
+{"message": "ببخشید، یه سفارش داشتم: سه عدد MacBook Air به رنگ خاکستری مرسی", "order": {"product_id": "P2003", "quantity": 3, "color": "خاکستری", "city": null}}
+{"message": "سلام وقت بخیر، ردمی نوت 14 پرو به رنگ مشکی دارید؟ ۲ تا لازم دارم برای مشهد، سپاس", "order": {"product_id": "P1003", "quantity": 2, "color": "مشکی", "city": "مشهد"}}
+{"message": "درود، لطفاً چهار تا سامسونگ A55 سفید به مقصد کرج بفرستید، سپاس", "order": {"product_id": "P1001", "quantity": 4, "color": "سفید", "city": "کرج"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: ۲ تا شیائومی پوکو X7 مشکی", "order": {"product_id": "P1004", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "درود، موجوده لپ‌تاپ گیمینگ ایسوس TUF؟ اگه هست چهار تا برام بذارید آدرسم مشهده، سپاس", "order": {"product_id": "P2004", "quantity": 4, "color": null, "city": "مشهد"}}
+{"message": "درود، می‌خواستم 4 تا گوشی نوکیا G42 سفارش بدم، بفرستید قزوین ممنون", "order": {"product_id": "P1006", "quantity": 4, "color": null, "city": "قزوین"}}
+{"message": "سلام، موجوده پوکو X7؟ اگه هست 3 تا رنگ زرد برام بذارید تحویل در شیراز ممنون", "order": {"product_id": "P1004", "quantity": 3, "color": "زرد", "city": "شیراز"}}
+{"message": "سلام، می‌خواستم یک عدد لباسشویی سامسونگ سفارش بدم، رنگ سفید آدرسم گرگانه ممنون", "order": {"product_id": "P4002", "quantity": 1, "color": "سفید", "city": "گرگان"}}
+{"message": "درود، موجوده لپ‌تاپ گیمینگ ایسوس TUF؟ اگه هست ۵ تا رنگ مشکی برام بذارید به مقصد تبریز، سپاس", "order": {"product_id": "P2004", "quantity": 5, "color": "مشکی", "city": "تبریز"}}
+{"message": "درود، موجوده گلکسی واچ 7؟ اگه هست 1 عدد برام بذارید ارسال به اهواز مرسی", "order": {"product_id": "P5003", "quantity": 1, "color": null, "city": "اهواز"}}
+{"message": "موجوده تلویزیون ال‌جی 55؟ اگه هست برام بذارید به مقصد قزوین لطفاً", "order": {"product_id": "P3001", "quantity": 1, "color": null, "city": "قزوین"}}
+{"message": "درود، لطفاً ۲ عدد پوکو X7 زرد ارسال به تهران بفرستید", "order": {"product_id": "P1004", "quantity": 2, "color": "زرد", "city": "تهران"}}
+{"message": "سلام، لپ‌تاپ ایسوس ویووبوک دارید؟ 3 تا لازم دارم برای تهران ممنون", "order": {"product_id": "P2002", "quantity": 3, "color": null, "city": "تهران"}}
+{"message": "لطفاً شیائومی پوکو X7 مشکی رنگ ارسال به شیراز بفرستید ممنون", "order": {"product_id": "P1004", "quantity": 1, "color": "مشکی", "city": "شیراز"}}
+{"message": "درود، یک عدد تلویزیون سامسونگ 65 مشکی رنگ می‌خوام برای قم ممنون", "order": {"product_id": "P3002", "quantity": 1, "color": "مشکی", "city": "قم"}}
+{"message": "تلویزیون سامسونگ 65 به رنگ مشکی دارید؟ دو عدد لازم دارم ارسال به قزوین، سپاس", "order": {"product_id": "P3002", "quantity": 2, "color": "مشکی", "city": "قزوین"}}
+{"message": "گلکسی واچ 7 مشکی رنگ تحویل در بابل ممنون", "order": {"product_id": "P5003", "quantity": 1, "color": "مشکی", "city": "بابل"}}
+{"message": "ببخشید، ۵ تا هندزفری ردمی بادز ۶ مشکی لطفاً", "order": {"product_id": "P5002", "quantity": 5, "color": "مشکی", "city": null}}
+{"message": "ببخشید، بفرستید اراک دو عدد گلکسی واچ 7 ثبت کنید", "order": {"product_id": "P5003", "quantity": 2, "color": null, "city": "اراک"}}
+{"message": "موجوده تلویزیون ۵۵ اینچ ال جی؟ اگه هست ۲ تا به رنگ مشکی برام بذارید لطفاً", "order": {"product_id": "P3001", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "درود، لطفاً یه MacBook Air به مقصد آمل بفرستید", "order": {"product_id": "P2003", "quantity": 1, "color": null, "city": "آمل"}}
+{"message": "موجوده گلکسی A55؟ اگه هست 4 تا برام بذارید آدرسم گرگانه", "order": {"product_id": "P1001", "quantity": 4, "color": null, "city": "گرگان"}}
+{"message": "سلام، موجوده اس ۲۴ اف ای؟ اگه هست برام بذارید تحویل در زنجان لطفاً", "order": {"product_id": "P1002", "quantity": 1, "color": null, "city": "زنجان"}}
+{"message": "سلام، ۵ تا شارژر ۶۵ وات انکر تحویل در شیراز", "order": {"product_id": "P5004", "quantity": 5, "color": null, "city": "شیراز"}}
+{"message": "سلام وقت بخیر، اس ۲۴ اف ای دارید؟ سه عدد لازم دارم تحویل در کرج مرسی", "order": {"product_id": "P1002", "quantity": 3, "color": null, "city": "کرج"}}
+{"message": "یه سفارش داشتم: سه عدد تی‌وی ۶۵ اینچ سامسونگ تحویل در گرگان", "order": {"product_id": "P3002", "quantity": 3, "color": null, "city": "گرگان"}}
+{"message": "سلام وقت بخیر، برای اراک 5 تا پوکو X7 ثبت کنید", "order": {"product_id": "P1004", "quantity": 5, "color": null, "city": "اراک"}}
+{"message": "ببخشید، یه سفارش داشتم: ۴ تا براکت تلویزیون مشکی رنگ", "order": {"product_id": "P5006", "quantity": 4, "color": "مشکی", "city": null}}
+{"message": "موجوده هدفون سونی؟ اگه هست ۵ تا به رنگ نقره‌ای برام بذارید ارسال به اراک", "order": {"product_id": "P5001", "quantity": 5, "color": "نقره‌ای", "city": "اراک"}}
+{"message": "سلام وقت بخیر، تی وی شیائومی ۴۳ اینچ می‌خوام مرسی", "order": {"product_id": "P3003", "quantity": 1, "color": null, "city": null}}
+{"message": "درود، آیفون 16 رنگ سفید، سپاس", "order": {"product_id": "P1005", "quantity": 1, "color": "سفید", "city": null}}
+{"message": "یه سفارش داشتم: دو عدد گوشی A55 به مقصد قم", "order": {"product_id": "P1001", "quantity": 2, "color": null, "city": "قم"}}
+{"message": "ببخشید، لطفاً یک عدد گوشی نوکیا G42 رنگ خاکستری بفرستید لطفاً", "order": {"product_id": "P1006", "quantity": 1, "color": "خاکستری", "city": null}}
+{"message": "سلام وقت بخیر، لپ‌تاپ ایسوس ویووبوک نقره‌ای دارید؟ پنج تا لازم دارم به مقصد قزوین", "order": {"product_id": "P2002", "quantity": 5, "color": "نقره‌ای", "city": "قزوین"}}
+{"message": "ببخشید، می‌خواستم دو عدد سامسونگ A55 سفارش بدم، آبی رنگ تحویل در مشهد مرسی", "order": {"product_id": "P1001", "quantity": 2, "color": "آبی", "city": "مشهد"}}
+{"message": "یه سفارش داشتم: چهار عدد گلکسی واچ 7 ارسال به کرمان ممنون", "order": {"product_id": "P5003", "quantity": 4, "color": null, "city": "کرمان"}}
+{"message": "سلام وقت بخیر، 3 تا نوکیا G42 ارسال به کرمان ممنون", "order": {"product_id": "P1006", "quantity": 3, "color": null, "city": "کرمان"}}
+{"message": "درود، موجوده سامسونگ A55؟ اگه هست رنگ مشکی برام بذارید مرسی", "order": {"product_id": "P1001", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "ببخشید، می‌خواستم پنج عدد شارژر انکر سفارش بدم، بفرستید اصفهان", "order": {"product_id": "P5004", "quantity": 5, "color": null, "city": "اصفهان"}}
+{"message": "سلام وقت بخیر، ۴ تا تی وی شیائومی ۴۳ اینچ مشکی می‌خوام بفرستید قزوین", "order": {"product_id": "P3003", "quantity": 4, "color": "مشکی", "city": "قزوین"}}
+{"message": "4 تا IdeaPad Slim 3 به مقصد یزد ممنون", "order": {"product_id": "P2001", "quantity": 4, "color": null, "city": "یزد"}}
+{"message": "سلام، موجوده ساعت سامسونگ واچ ۷؟ اگه هست یه دونه سبز برام بذارید تحویل در گرگان مرسی", "order": {"product_id": "P5003", "quantity": 1, "color": "سبز", "city": "گرگان"}}
+{"message": "پاوربانک شیائومی مشکی مرسی", "order": {"product_id": "P5005", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "می‌خواستم چهار تا IdeaPad Slim 3 سفارش بدم مرسی", "order": {"product_id": "P2001", "quantity": 4, "color": null, "city": null}}
+{"message": "درود، لطفاً شارژر ۶۵ وات انکر بفرستید مرسی", "order": {"product_id": "P5004", "quantity": 1, "color": null, "city": null}}
+{"message": "موجوده گلکسی واچ 7؟ اگه هست دو تا برام بذارید تحویل در قزوین مرسی", "order": {"product_id": "P5003", "quantity": 2, "color": null, "city": "قزوین"}}
+{"message": "سلام وقت بخیر، دو عدد ماشین لباسشویی ۹ کیلویی سامسونگ به رنگ سفید برای تهران", "order": {"product_id": "P4002", "quantity": 2, "color": "سفید", "city": "تهران"}}
+{"message": "یه سفارش داشتم: دو تا ساعت سامسونگ واچ ۷ به رنگ نقره‌ای بفرستید بابل لطفاً", "order": {"product_id": "P5003", "quantity": 2, "color": "نقره‌ای", "city": "بابل"}}
+{"message": "درود، می‌خواستم ۳ تا هندزفری ردمی بادز ۶ سفارش بدم، به رنگ مشکی برای کرج", "order": {"product_id": "P5002", "quantity": 3, "color": "مشکی", "city": "کرج"}}
+{"message": "سلام وقت بخیر، لطفاً یه لپ‌تاپ گیمینگ ایسوس TUF بفرستید", "order": {"product_id": "P2004", "quantity": 1, "color": null, "city": null}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: 4 تا هندزفری ردمی بادز ۶ تحویل در کرج", "order": {"product_id": "P5002", "quantity": 4, "color": null, "city": "کرج"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: 1 عدد لپ‌تاپ گیمینگ ایسوس TUF ارسال به گرگان مرسی", "order": {"product_id": "P2004", "quantity": 1, "color": null, "city": "گرگان"}}
+{"message": "سلام، یه شارژر انکر سفید می‌خوام به مقصد ساری لطفاً", "order": {"product_id": "P5004", "quantity": 1, "color": "سفید", "city": "ساری"}}
+{"message": "سلام، WH-1000XM5 مشکی رنگ دارید؟ لازم دارم", "order": {"product_id": "P5001", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "درود، لطفاً 1 عدد شارژر انکر سفید رنگ بفرستید ممنون", "order": {"product_id": "P5004", "quantity": 1, "color": "سفید", "city": null}}
+{"message": "درود، 2 تا ردمی نوت ۱۴ پرو می‌خوام تحویل در یزد", "order": {"product_id": "P1003", "quantity": 2, "color": null, "city": "یزد"}}
+{"message": "سلام وقت بخیر، گوشی نوکیا G42 خاکستری رنگ دارید؟ چهار تا لازم دارم به مقصد شیراز", "order": {"product_id": "P1006", "quantity": 4, "color": "خاکستری", "city": "شیراز"}}
+{"message": "یه دونه IdeaPad Slim 3", "order": {"product_id": "P2001", "quantity": 1, "color": null, "city": null}}
+{"message": "ببخشید، موجوده تلویزیون سامسونگ 65؟ اگه هست مشکی برام بذارید لطفاً", "order": {"product_id": "P3002", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "یه سفارش داشتم: دو تا نوکیا G42 به رنگ خاکستری", "order": {"product_id": "P1006", "quantity": 2, "color": "خاکستری", "city": null}}
+{"message": "آدرسم تهرانه ۳ تا کولر گری ۱۸ هزار ثبت کنید", "order": {"product_id": "P4004", "quantity": 3, "color": null, "city": "تهران"}}
+{"message": "سلام وقت بخیر، یه گلکسی واچ 7 رنگ مشکی بفرستید زنجان ممنون", "order": {"product_id": "P5003", "quantity": 1, "color": "مشکی", "city": "زنجان"}}
+{"message": "درود، می‌خواستم 3 تا WH-1000XM5 سفارش بدم، رنگ مشکی به مقصد تبریز ممنون", "order": {"product_id": "P5001", "quantity": 3, "color": "مشکی", "city": "تبریز"}}
+{"message": "درود، یه سفارش داشتم: سه تا پاوربانک ۲۰ هزار شیائومی به رنگ مشکی به مقصد اراک ممنون", "order": {"product_id": "P5005", "quantity": 3, "color": "مشکی", "city": "اراک"}}
+{"message": "درود، ۴ تا ردمی نوت ۱۴ پرو ثبت کنید لطفاً", "order": {"product_id": "P1003", "quantity": 4, "color": null, "city": null}}
+{"message": "درود، موجوده پاوربانک ۲۰ هزار شیائومی؟ اگه هست ۵ تا برام بذارید ارسال به زنجان مرسی", "order": {"product_id": "P5005", "quantity": 5, "color": null, "city": "زنجان"}}
+{"message": "سلام وقت بخیر، MacBook Air رنگ خاکستری تحویل در ساری", "order": {"product_id": "P2003", "quantity": 1, "color": "خاکستری", "city": "ساری"}}
+{"message": "ببخشید، موجوده تلویزیون ال‌جی 55؟ اگه هست چهار عدد مشکی رنگ برام بذارید تحویل در تهران", "order": {"product_id": "P3001", "quantity": 4, "color": "مشکی", "city": "تهران"}}
+{"message": "ببخشید، 3 تا تلویزیون شیائومی 43 مشکی رنگ برای اصفهان، سپاس", "order": {"product_id": "P3003", "quantity": 3, "color": "مشکی", "city": "اصفهان"}}
+{"message": "ببخشید، آیفون ۱۶ دارید؟ دو عدد لازم دارم تحویل در تبریز لطفاً", "order": {"product_id": "P1005", "quantity": 2, "color": null, "city": "تبریز"}}
+{"message": "چهار عدد لپ‌تاپ گیمینگ ایسوس TUF ثبت کنید", "order": {"product_id": "P2004", "quantity": 4, "color": null, "city": null}}
+{"message": "سلام، یه سفارش داشتم: ۲ تا ویووبوک 15 رنگ نقره‌ای به مقصد گرگان، سپاس", "order": {"product_id": "P2002", "quantity": 2, "color": "نقره‌ای", "city": "گرگان"}}
+{"message": "سلام، تحویل در ساری دو عدد گوشی A55 به رنگ سفید ثبت کنید لطفاً", "order": {"product_id": "P1001", "quantity": 2, "color": "سفید", "city": "ساری"}}
+{"message": "ببخشید، موجوده تلویزیون ال‌جی 55؟ اگه هست ۲ عدد برام بذارید برای یزد مرسی", "order": {"product_id": "P3001", "quantity": 2, "color": null, "city": "یزد"}}
+{"message": "سلام، ردمی بادز 6 رنگ مشکی دارید؟ دو عدد لازم دارم بفرستید گرگان", "order": {"product_id": "P5002", "quantity": 2, "color": "مشکی", "city": "گرگان"}}
+{"message": "درود، لنوو آیدیاپد دارید؟ ۱ عدد لازم دارم برای تهران ممنون", "order": {"product_id": "P2001", "quantity": 1, "color": null, "city": "تهران"}}
+{"message": "بفرستید زنجان یک عدد گوشی A55 آبی رنگ ثبت کنید", "order": {"product_id": "P1001", "quantity": 1, "color": "آبی", "city": "زنجان"}}
+{"message": "ببخشید، یه سفارش داشتم: پنج تا سامسونگ S24 FE رنگ سبز تحویل در اراک", "order": {"product_id": "P1002", "quantity": 5, "color": "سبز", "city": "اراک"}}
+{"message": "لطفاً یه لنوو آیدیاپد رنگ خاکستری بفرستید مرسی", "order": {"product_id": "P2001", "quantity": 1, "color": "خاکستری", "city": null}}
+{"message": "لطفاً 2 تا ویووبوک 15 رنگ نقره‌ای برای رشت بفرستید", "order": {"product_id": "P2002", "quantity": 2, "color": "نقره‌ای", "city": "رشت"}}
+{"message": "2 تا پوکو X7 می‌خوام به مقصد رشت، سپاس", "order": {"product_id": "P1004", "quantity": 2, "color": null, "city": "رشت"}}
+{"message": "3 تا لپ‌تاپ لنوو IdeaPad به رنگ خاکستری مرسی", "order": {"product_id": "P2001", "quantity": 3, "color": "خاکستری", "city": null}}
+{"message": "سلام، می‌خواستم هدفون سونی سفارش بدم، به رنگ مشکی لطفاً", "order": {"product_id": "P5001", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "چهار عدد تلویزیون ۵۵ اینچ ال جی مشکی ارسال به ارومیه ممنون", "order": {"product_id": "P3001", "quantity": 4, "color": "مشکی", "city": "ارومیه"}}
+{"message": "سلام، لطفاً ۱ عدد ایسوس TUF تحویل در اصفهان بفرستید", "order": {"product_id": "P2004", "quantity": 1, "color": null, "city": "اصفهان"}}
+{"message": "برای ساری یک عدد پایه دیواری تلویزیون به رنگ مشکی ثبت کنید، سپاس", "order": {"product_id": "P5006", "quantity": 1, "color": "مشکی", "city": "ساری"}}
+{"message": "یه ردمی نوت ۱۴ پرو ثبت کنید، سپاس", "order": {"product_id": "P1003", "quantity": 1, "color": null, "city": null}}
+{"message": "سلام، برای آمل 3 تا تی‌وی ۶۵ اینچ سامسونگ ثبت کنید لطفاً", "order": {"product_id": "P3002", "quantity": 3, "color": null, "city": "آمل"}}
+{"message": "ببخشید، می‌خواستم 2 تا سامسونگ S24 FE سفارش بدم، رنگ مشکی ارسال به کرج لطفاً", "order": {"product_id": "P1002", "quantity": 2, "color": "مشکی", "city": "کرج"}}
+{"message": "سلام، 1 عدد لنوو آیدیاپد می‌خوام برای رشت لطفاً", "order": {"product_id": "P2001", "quantity": 1, "color": null, "city": "رشت"}}
+{"message": "یه سفارش داشتم: یه دونه کولر گری ۱۸ هزار رنگ سفید بفرستید رشت", "order": {"product_id": "P4004", "quantity": 1, "color": "سفید", "city": "رشت"}}
+{"message": "ببخشید، لطفاً یه دونه هدفون سونی مشکی آدرسم اهوازه بفرستید، سپاس", "order": {"product_id": "P5001", "quantity": 1, "color": "مشکی", "city": "اهواز"}}
+{"message": "می‌خواستم ۱ عدد پاوربانک ۲۰ هزار شیائومی سفارش بدم ممنون", "order": {"product_id": "P5005", "quantity": 1, "color": null, "city": null}}
+{"message": "ببخشید، موجوده گلکسی واچ 7؟ اگه هست سبز رنگ برام بذارید به مقصد اصفهان لطفاً", "order": {"product_id": "P5003", "quantity": 1, "color": "سبز", "city": "اصفهان"}}
+{"message": "یک عدد پاوربانک ۲۰ هزار شیائومی برای قم ممنون", "order": {"product_id": "P5005", "quantity": 1, "color": null, "city": "قم"}}
+{"message": "می‌خواستم 2 تا تلویزیون ۵۵ اینچ ال جی سفارش بدم، ارسال به تهران، سپاس", "order": {"product_id": "P3001", "quantity": 2, "color": null, "city": "تهران"}}
+{"message": "ببخشید، چهار عدد سامسونگ S24 FE به مقصد ساری لطفاً", "order": {"product_id": "P1002", "quantity": 4, "color": null, "city": "ساری"}}
+{"message": "سلام وقت بخیر، موجوده شارژر ۶۵ وات انکر؟ اگه هست ۲ تا رنگ سفید برام بذارید آدرسم ساریه", "order": {"product_id": "P5004", "quantity": 2, "color": "سفید", "city": "ساری"}}
+{"message": "درود، موجوده ویووبوک 15؟ اگه هست دو تا برام بذارید آدرسم زنجانه مرسی", "order": {"product_id": "P2002", "quantity": 2, "color": null, "city": "زنجان"}}
+{"message": "ببخشید، برای اراک پنج عدد ردمی بادز 6 سفید رنگ ثبت کنید ممنون", "order": {"product_id": "P5002", "quantity": 5, "color": "سفید", "city": "اراک"}}
+{"message": "سلام، برای مشهد دو تا کولر گازی گری به رنگ سفید ثبت کنید لطفاً", "order": {"product_id": "P4004", "quantity": 2, "color": "سفید", "city": "مشهد"}}
+{"message": "سلام وقت بخیر، آدرسم تبریزه پنج تا گوشی نوکیا G42 رنگ خاکستری ثبت کنید", "order": {"product_id": "P1006", "quantity": 5, "color": "خاکستری", "city": "تبریز"}}
+{"message": "درود، یک مک‌بوک ایر ثبت کنید ممنون", "order": {"product_id": "P2003", "quantity": 1, "color": null, "city": null}}
+{"message": "می‌خواستم پنج عدد ساعت سامسونگ واچ ۷ سفارش بدم، سبز رنگ تحویل در گرگان ممنون", "order": {"product_id": "P5003", "quantity": 5, "color": "سبز", "city": "گرگان"}}
+{"message": "درود، لطفاً ۱ عدد گلکسی A55 بفرستید مرسی", "order": {"product_id": "P1001", "quantity": 1, "color": null, "city": null}}
+{"message": "سلام وقت بخیر، موجوده ساعت سامسونگ واچ ۷؟ اگه هست ۳ تا به رنگ نقره‌ای برام بذارید بفرستید قزوین مرسی", "order": {"product_id": "P5003", "quantity": 3, "color": "نقره‌ای", "city": "قزوین"}}
+{"message": "سلام، لطفاً 1 عدد هدفون سونی رنگ نقره‌ای تحویل در ساری بفرستید", "order": {"product_id": "P5001", "quantity": 1, "color": "نقره‌ای", "city": "ساری"}}
+{"message": "سلام، گلکسی واچ 7 به رنگ سبز می‌خوام، سپاس", "order": {"product_id": "P5003", "quantity": 1, "color": "سبز", "city": null}}
+{"message": "تلویزیون شیائومی 43 دارید؟ 5 تا لازم دارم برای زنجان مرسی", "order": {"product_id": "P3003", "quantity": 5, "color": null, "city": "زنجان"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: یه دونه پاوربانک ۲۰ هزار شیائومی بفرستید رشت، سپاس", "order": {"product_id": "P5005", "quantity": 1, "color": null, "city": "رشت"}}
+{"message": "سلام وقت بخیر، لطفاً چهار تا پوکو X7 به رنگ زرد برای کرمان بفرستید مرسی", "order": {"product_id": "P1004", "quantity": 4, "color": "زرد", "city": "کرمان"}}
+{"message": "موجوده لپ‌تاپ گیمینگ ایسوس TUF؟ اگه هست 4 تا برام بذارید آدرسم شیرازه مرسی", "order": {"product_id": "P2004", "quantity": 4, "color": null, "city": "شیراز"}}
+{"message": "سلام، لطفاً یه دونه کولر گازی گری به مقصد قزوین بفرستید، سپاس", "order": {"product_id": "P4004", "quantity": 1, "color": null, "city": "قزوین"}}
+{"message": "سه عدد ساعت سامسونگ واچ ۷ ثبت کنید", "order": {"product_id": "P5003", "quantity": 3, "color": null, "city": null}}
+{"message": "می‌خواستم دو تا گلکسی واچ 7 سفارش بدم ممنون", "order": {"product_id": "P5003", "quantity": 2, "color": null, "city": null}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: 3 تا گلکسی A55", "order": {"product_id": "P1001", "quantity": 3, "color": null, "city": null}}
+{"message": "سلام، چهار عدد لپ‌تاپ ایسوس ویووبوک به مقصد آمل لطفاً", "order": {"product_id": "P2002", "quantity": 4, "color": null, "city": "آمل"}}
+{"message": "سلام وقت بخیر، می‌خواستم سه عدد ویووبوک 15 سفارش بدم، نقره‌ای رنگ برای تهران", "order": {"product_id": "P2002", "quantity": 3, "color": "نقره‌ای", "city": "تهران"}}
+{"message": "گلکسی واچ 7 سبز رنگ دارید؟ ۳ تا لازم دارم بفرستید زنجان", "order": {"product_id": "P5003", "quantity": 3, "color": "سبز", "city": "زنجان"}}
+{"message": "لطفاً 1 عدد گلکسی واچ 7 سبز رنگ تحویل در قم بفرستید", "order": {"product_id": "P5003", "quantity": 1, "color": "سبز", "city": "قم"}}
+{"message": "دو عدد نوکیا G42 خاکستری ثبت کنید لطفاً", "order": {"product_id": "P1006", "quantity": 2, "color": "خاکستری", "city": null}}
+{"message": "سلام وقت بخیر، موجوده شارژر انکر؟ اگه هست 2 تا برام بذارید برای ساری مرسی", "order": {"product_id": "P5004", "quantity": 2, "color": null, "city": "ساری"}}
+{"message": "۲ تا هندزفری ردمی بادز ۶ مشکی رنگ می‌خوام ممنون", "order": {"product_id": "P5002", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "ببخشید، می‌خواستم ردمی نوت 14 پرو سفارش بدم، به رنگ بنفش ممنون", "order": {"product_id": "P1003", "quantity": 1, "color": "بنفش", "city": null}}
+{"message": "لطفاً سه عدد ماشین لباسشویی ۹ کیلویی سامسونگ رنگ نقره‌ای بفرستید", "order": {"product_id": "P4002", "quantity": 3, "color": "نقره‌ای", "city": null}}
+{"message": "لطفاً یک عدد ویووبوک 15 رنگ نقره‌ای تحویل در کرج بفرستید", "order": {"product_id": "P2002", "quantity": 1, "color": "نقره‌ای", "city": "کرج"}}
+{"message": "درود، یه سفارش داشتم: MacBook Air ارسال به بابل، سپاس", "order": {"product_id": "P2003", "quantity": 1, "color": null, "city": "بابل"}}
+{"message": "هندزفری ردمی بادز ۶ مشکی می‌خوام آدرسم رشته", "order": {"product_id": "P5002", "quantity": 1, "color": "مشکی", "city": "رشت"}}
+{"message": "سلام وقت بخیر، برای اراک دو تا آیفون 16 به رنگ مشکی ثبت کنید لطفاً", "order": {"product_id": "P1005", "quantity": 2, "color": "مشکی", "city": "اراک"}}
+{"message": "آیفون ۱۶ به رنگ صورتی دارید؟ چهار عدد لازم دارم برای قم", "order": {"product_id": "P1005", "quantity": 4, "color": "صورتی", "city": "قم"}}
+{"message": "برای اراک سه تا پوکو X7 ثبت کنید لطفاً", "order": {"product_id": "P1004", "quantity": 3, "color": null, "city": "اراک"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: دو عدد ویووبوک 15 ارسال به قزوین، سپاس", "order": {"product_id": "P2002", "quantity": 2, "color": null, "city": "قزوین"}}
+{"message": "درود، ۲ عدد پاوربانک شیائومی به رنگ مشکی می‌خوام آدرسم قمه", "order": {"product_id": "P5005", "quantity": 2, "color": "مشکی", "city": "قم"}}
+{"message": "درود، پنج عدد ردمی بادز 6 به رنگ مشکی به مقصد آمل لطفاً", "order": {"product_id": "P5002", "quantity": 5, "color": "مشکی", "city": "آمل"}}
+{"message": "سلام، یه سفارش داشتم: 2 تا WH-1000XM5 مشکی رنگ ارسال به شیراز لطفاً", "order": {"product_id": "P5001", "quantity": 2, "color": "مشکی", "city": "شیراز"}}
+{"message": "درود، آیفون 16 ارسال به اراک ممنون", "order": {"product_id": "P1005", "quantity": 1, "color": null, "city": "اراک"}}
+{"message": "لطفاً 2 تا گوشی A55 ارسال به همدان بفرستید، سپاس", "order": {"product_id": "P1001", "quantity": 2, "color": null, "city": "همدان"}}
+{"message": "درود، چهار تا ردمی بادز 6 به رنگ سفید برای اراک مرسی", "order": {"product_id": "P5002", "quantity": 4, "color": "سفید", "city": "اراک"}}
+{"message": "درود، ۲ تا شارژر انکر سفید ثبت کنید لطفاً", "order": {"product_id": "P5004", "quantity": 2, "color": "سفید", "city": null}}
+{"message": "سلام، یک لنوو آیدیاپد به رنگ خاکستری لطفاً", "order": {"product_id": "P2001", "quantity": 1, "color": "خاکستری", "city": null}}
+{"message": "سلام وقت بخیر، لطفاً ایسوس TUF به رنگ مشکی آدرسم یزده بفرستید", "order": {"product_id": "P2004", "quantity": 1, "color": "مشکی", "city": "یزد"}}
+{"message": "سلام وقت بخیر، لطفاً IdeaPad Slim 3 بفرستید ممنون", "order": {"product_id": "P2001", "quantity": 1, "color": null, "city": null}}
+{"message": "بفرستید همدان ردمی بادز 6 مشکی رنگ ثبت کنید ممنون", "order": {"product_id": "P5002", "quantity": 1, "color": "مشکی", "city": "همدان"}}
+{"message": "لطفاً ۱ عدد هندزفری ردمی بادز ۶ بفرستید مرسی", "order": {"product_id": "P5002", "quantity": 1, "color": null, "city": null}}
+{"message": "۲ تا مک بوک ایر M3 به مقصد آمل مرسی", "order": {"product_id": "P2003", "quantity": 2, "color": null, "city": "آمل"}}
+{"message": "ببخشید، موجوده گلکسی واچ 7؟ اگه هست یک عدد برام بذارید لطفاً", "order": {"product_id": "P5003", "quantity": 1, "color": null, "city": null}}
+{"message": "ببخشید، یه سفارش داشتم: سه تا IdeaPad Slim 3 به رنگ خاکستری ارسال به تبریز، سپاس", "order": {"product_id": "P2001", "quantity": 3, "color": "خاکستری", "city": "تبریز"}}
+{"message": "سلام، یه سفارش داشتم: تی وی شیائومی ۴۳ اینچ برای مشهد مرسی", "order": {"product_id": "P3003", "quantity": 1, "color": null, "city": "مشهد"}}
+{"message": "درود، یه سفارش داشتم: ۲ عدد براکت تلویزیون مشکی رنگ بفرستید شیراز، سپاس", "order": {"product_id": "P5006", "quantity": 2, "color": "مشکی", "city": "شیراز"}}
+{"message": "سلام وقت بخیر، گوشی A55 به رنگ مشکی به مقصد اصفهان", "order": {"product_id": "P1001", "quantity": 1, "color": "مشکی", "city": "اصفهان"}}
+{"message": "درود، موجوده شارژر انکر؟ اگه هست چهار عدد برام بذارید", "order": {"product_id": "P5004", "quantity": 4, "color": null, "city": null}}
+{"message": "سلام، یه سفارش داشتم: یه گلکسی S24 FE برای گرگان", "order": {"product_id": "P1002", "quantity": 1, "color": null, "city": "گرگان"}}
+{"message": "ببخشید، ردمی نوت 14 پرو آبی رنگ دارید؟ 2 تا لازم دارم بفرستید ساری ممنون", "order": {"product_id": "P1003", "quantity": 2, "color": "آبی", "city": "ساری"}}
+{"message": "ببخشید، می‌خواستم ۲ تا تلویزیون ال‌جی 55 سفارش بدم، مشکی رنگ ممنون", "order": {"product_id": "P3001", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "۲ تا هدفون سونی می‌خوام ممنون", "order": {"product_id": "P5001", "quantity": 2, "color": null, "city": null}}
+{"message": "درود، یه سفارش داشتم: لنوو آیدیاپد", "order": {"product_id": "P2001", "quantity": 1, "color": null, "city": null}}
+{"message": "یک تلویزیون شیائومی 43 مشکی رنگ ثبت کنید، سپاس", "order": {"product_id": "P3003", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "درود، سه تا هندزفری ردمی بادز ۶ به رنگ مشکی برای همدان", "order": {"product_id": "P5002", "quantity": 3, "color": "مشکی", "city": "همدان"}}
+{"message": "سلام، موجوده لباسشویی سامسونگ؟ اگه هست دو تا سفید رنگ برام بذارید ارسال به یزد ممنون", "order": {"product_id": "P4002", "quantity": 2, "color": "سفید", "city": "یزد"}}
+{"message": "سلام، سامسونگ S24 FE برای اهواز مرسی", "order": {"product_id": "P1002", "quantity": 1, "color": null, "city": "اهواز"}}
+{"message": "ببخشید، یک پوکو X7 به مقصد گرگان", "order": {"product_id": "P1004", "quantity": 1, "color": null, "city": "گرگان"}}
+{"message": "موجوده گوشی A55؟ اگه هست دو عدد سفید برام بذارید", "order": {"product_id": "P1001", "quantity": 2, "color": "سفید", "city": null}}
+{"message": "سلام، سامسونگ A55 آبی رنگ دارید؟ سه تا لازم دارم ارسال به تهران لطفاً", "order": {"product_id": "P1001", "quantity": 3, "color": "آبی", "city": "تهران"}}
+{"message": "یه سفارش داشتم: دو تا تی وی شیائومی ۴۳ اینچ رنگ مشکی تحویل در مشهد لطفاً", "order": {"product_id": "P3003", "quantity": 2, "color": "مشکی", "city": "مشهد"}}
+{"message": "درود، 2 تا تلویزیون ال‌جی 55 به رنگ مشکی می‌خوام", "order": {"product_id": "P3001", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "سلام وقت بخیر، چهار عدد آیفون ۱۶ صورتی رنگ می‌خوام به مقصد اهواز ممنون", "order": {"product_id": "P1005", "quantity": 4, "color": "صورتی", "city": "اهواز"}}
+{"message": "۲ عدد شارژر ۶۵ وات انکر به رنگ سفید می‌خوام بفرستید اهواز، سپاس", "order": {"product_id": "P5004", "quantity": 2, "color": "سفید", "city": "اهواز"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: ایسوس TUF آدرسم اراکه", "order": {"product_id": "P2004", "quantity": 1, "color": null, "city": "اراک"}}
+{"message": "می‌خواستم شارژر ۶۵ وات انکر سفارش بدم", "order": {"product_id": "P5004", "quantity": 1, "color": null, "city": null}}
+{"message": "سلام، 5 تا هندزفری ردمی بادز ۶ به رنگ مشکی ثبت کنید مرسی", "order": {"product_id": "P5002", "quantity": 5, "color": "مشکی", "city": null}}
+{"message": "سلام وقت بخیر، برای بابل چهار تا تلویزیون شیائومی 43 به رنگ مشکی ثبت کنید", "order": {"product_id": "P3003", "quantity": 4, "color": "مشکی", "city": "بابل"}}
+{"message": "درود، می‌خواستم کولر گری ۱۸ هزار سفارش بدم، تحویل در اراک ممنون", "order": {"product_id": "P4004", "quantity": 1, "color": null, "city": "اراک"}}
+{"message": "سلام وقت بخیر، لطفاً 4 تا شارژر انکر بفرستید، سپاس", "order": {"product_id": "P5004", "quantity": 4, "color": null, "city": null}}
+{"message": "سلام، یه سفارش داشتم: دو تا گوشی A55 رنگ مشکی بفرستید قم، سپاس", "order": {"product_id": "P1001", "quantity": 2, "color": "مشکی", "city": "قم"}}
+{"message": "سلام وقت بخیر، گوشی نوکیا G42 دارید؟ سه عدد لازم دارم، سپاس", "order": {"product_id": "P1006", "quantity": 3, "color": null, "city": null}}
+{"message": "درود، موجوده شیائومی پوکو X7؟ اگه هست مشکی رنگ برام بذارید بفرستید کرمان مرسی", "order": {"product_id": "P1004", "quantity": 1, "color": "مشکی", "city": "کرمان"}}
+{"message": "سلام وقت بخیر، برای کرج ۳ تا گلکسی A55 ثبت کنید لطفاً", "order": {"product_id": "P1001", "quantity": 3, "color": null, "city": "کرج"}}
+{"message": "سلام وقت بخیر، می‌خواستم یک عدد تلویزیون شیائومی 43 سفارش بدم، رنگ مشکی برای قزوین", "order": {"product_id": "P3003", "quantity": 1, "color": "مشکی", "city": "قزوین"}}
+{"message": "سلام وقت بخیر، دو تا هندزفری ردمی بادز ۶ مرسی", "order": {"product_id": "P5002", "quantity": 2, "color": null, "city": null}}
+{"message": "درود، یه سفارش داشتم: سه تا MacBook Air رنگ خاکستری تحویل در بابل لطفاً", "order": {"product_id": "P2003", "quantity": 3, "color": "خاکستری", "city": "بابل"}}
+{"message": "سلام وقت بخیر، لطفاً 5 تا MacBook Air بفرستید مرسی", "order": {"product_id": "P2003", "quantity": 5, "color": null, "city": null}}
+{"message": "درود، یه سفارش داشتم: ۳ تا ایسوس TUF رنگ مشکی ارسال به آمل ممنون", "order": {"product_id": "P2004", "quantity": 3, "color": "مشکی", "city": "آمل"}}
+{"message": "سلام وقت بخیر، موجوده سامسونگ A55؟ اگه هست پنج تا مشکی برام بذارید برای تبریز لطفاً", "order": {"product_id": "P1001", "quantity": 5, "color": "مشکی", "city": "تبریز"}}
+{"message": "سلام، موجوده سامسونگ A55؟ اگه هست دو تا به رنگ سفید برام بذارید برای ساری ممنون", "order": {"product_id": "P1001", "quantity": 2, "color": "سفید", "city": "ساری"}}
+{"message": "ببخشید، یه سفارش داشتم: دو تا پایه دیواری تلویزیون به رنگ مشکی به مقصد بابل، سپاس", "order": {"product_id": "P5006", "quantity": 2, "color": "مشکی", "city": "بابل"}}
+{"message": "ببخشید، یه سفارش داشتم: یه شارژر ۶۵ وات انکر سفید لطفاً", "order": {"product_id": "P5004", "quantity": 1, "color": "سفید", "city": null}}
+{"message": "سلام وقت بخیر، بفرستید قزوین شارژر انکر ثبت کنید، سپاس", "order": {"product_id": "P5004", "quantity": 1, "color": null, "city": "قزوین"}}
+{"message": "ببخشید، می‌خواستم 2 تا تلویزیون سامسونگ 65 سفارش بدم، به رنگ مشکی ارسال به بابل", "order": {"product_id": "P3002", "quantity": 2, "color": "مشکی", "city": "بابل"}}
+{"message": "درود، گلکسی A55 آبی رنگ دارید؟ ۲ تا لازم دارم آدرسم اراکه ممنون", "order": {"product_id": "P1001", "quantity": 2, "color": "آبی", "city": "اراک"}}
+{"message": "موجوده تلویزیون ال‌جی 55؟ اگه هست برام بذارید بفرستید ارومیه", "order": {"product_id": "P3001", "quantity": 1, "color": null, "city": "ارومیه"}}
+{"message": "سلام، سامسونگ A55 دارید؟ ۲ تا لازم دارم تحویل در قزوین، سپاس", "order": {"product_id": "P1001", "quantity": 2, "color": null, "city": "قزوین"}}
+{"message": "ساعت سامسونگ واچ ۷ مشکی رنگ، سپاس", "order": {"product_id": "P5003", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "ببخشید، ۱ عدد پایه دیواری تلویزیون می‌خوام لطفاً", "order": {"product_id": "P5006", "quantity": 1, "color": null, "city": null}}
+{"message": "موجوده تلویزیون ال‌جی 55؟ اگه هست سه عدد برام بذارید لطفاً", "order": {"product_id": "P3001", "quantity": 3, "color": null, "city": null}}
+{"message": "موجوده براکت تلویزیون؟ اگه هست چهار عدد برام بذارید", "order": {"product_id": "P5006", "quantity": 4, "color": null, "city": null}}
+{"message": "یه سفارش داشتم: چهار تا تلویزیون سامسونگ 65 به رنگ مشکی به مقصد گرگان لطفاً", "order": {"product_id": "P3002", "quantity": 4, "color": "مشکی", "city": "گرگان"}}
+{"message": "موجوده لپ‌تاپ گیمینگ ایسوس TUF؟ اگه هست مشکی رنگ برام بذارید مرسی", "order": {"product_id": "P2004", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "ببخشید، یه سفارش داشتم: شارژر انکر آدرسم آمله", "order": {"product_id": "P5004", "quantity": 1, "color": null, "city": "آمل"}}
+{"message": "سلام وقت بخیر، 4 تا گوشی نوکیا G42 خاکستری", "order": {"product_id": "P1006", "quantity": 4, "color": "خاکستری", "city": null}}
+{"message": "ببخشید، موجوده ویووبوک 15؟ اگه هست یه برام بذارید تحویل در کرج", "order": {"product_id": "P2002", "quantity": 1, "color": null, "city": "کرج"}}
+{"message": "MacBook Air رنگ خاکستری می‌خوام لطفاً", "order": {"product_id": "P2003", "quantity": 1, "color": "خاکستری", "city": null}}
+{"message": "موجوده گوشی نوکیا G42؟ اگه هست ۴ تا خاکستری برام بذارید لطفاً", "order": {"product_id": "P1006", "quantity": 4, "color": "خاکستری", "city": null}}
+{"message": "سلام وقت بخیر، ۱ عدد شیائومی پوکو X7 زرد رنگ آدرسم اراکه", "order": {"product_id": "P1004", "quantity": 1, "color": "زرد", "city": "اراک"}}
+{"message": "سلام، می‌خواستم ۱ عدد ایسوس TUF سفارش بدم، رنگ مشکی", "order": {"product_id": "P2004", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "به مقصد ارومیه ۳ تا مک‌بوک ایر نقره‌ای رنگ ثبت کنید مرسی", "order": {"product_id": "P2003", "quantity": 3, "color": "نقره‌ای", "city": "ارومیه"}}
+{"message": "به مقصد اهواز 1 عدد ماشین لباسشویی ۹ کیلویی سامسونگ رنگ نقره‌ای ثبت کنید مرسی", "order": {"product_id": "P4002", "quantity": 1, "color": "نقره‌ای", "city": "اهواز"}}
+{"message": "بفرستید کرمان ۵ تا مک‌بوک ایر خاکستری ثبت کنید مرسی", "order": {"product_id": "P2003", "quantity": 5, "color": "خاکستری", "city": "کرمان"}}
+{"message": "سلام، یه سفارش داشتم: ۵ تا آیفون 16 سفید رنگ به مقصد قم لطفاً", "order": {"product_id": "P1005", "quantity": 5, "color": "سفید", "city": "قم"}}
+{"message": "لطفاً دو عدد سامسونگ A55 ارسال به تهران بفرستید", "order": {"product_id": "P1001", "quantity": 2, "color": null, "city": "تهران"}}
+{"message": "می‌خواستم دو تا مک بوک ایر M3 سفارش بدم، رنگ خاکستری برای ساری مرسی", "order": {"product_id": "P2003", "quantity": 2, "color": "خاکستری", "city": "ساری"}}
+{"message": "سلام، 4 تا شارژر ۶۵ وات انکر ثبت کنید مرسی", "order": {"product_id": "P5004", "quantity": 4, "color": null, "city": null}}
+{"message": "سلام، ۴ تا تلویزیون سامسونگ 65، سپاس", "order": {"product_id": "P3002", "quantity": 4, "color": null, "city": null}}
+{"message": "سلام وقت بخیر، پوکو X7 به رنگ زرد می‌خوام لطفاً", "order": {"product_id": "P1004", "quantity": 1, "color": "زرد", "city": null}}
+{"message": "سلام وقت بخیر، شیائومی نوت 14 پرو به رنگ بنفش می‌خوام برای آمل، سپاس", "order": {"product_id": "P1003", "quantity": 1, "color": "بنفش", "city": "آمل"}}
+{"message": "سلام، لطفاً ۲ عدد هدفون سونی XM5 بفرستید", "order": {"product_id": "P5001", "quantity": 2, "color": null, "city": null}}
+{"message": "درود، ۵ تا پایه دیواری تلویزیون مشکی رنگ تحویل در کرج ممنون", "order": {"product_id": "P5006", "quantity": 5, "color": "مشکی", "city": "کرج"}}
+{"message": "سلام وقت بخیر، موجوده لپ‌تاپ گیمینگ ایسوس TUF؟ اگه هست یه دونه برام بذارید به مقصد همدان، سپاس", "order": {"product_id": "P2004", "quantity": 1, "color": null, "city": "همدان"}}
+{"message": "لطفاً یه دونه تلویزیون شیائومی 43 مشکی رنگ بفرستید شیراز بفرستید ممنون", "order": {"product_id": "P3003", "quantity": 1, "color": "مشکی", "city": "شیراز"}}
+{"message": "ببخشید، می‌خواستم ۴ تا پاوربانک ۲۰ هزار شیائومی سفارش بدم، مشکی بفرستید همدان ممنون", "order": {"product_id": "P5005", "quantity": 4, "color": "مشکی", "city": "همدان"}}
+{"message": "سلام، می‌خواستم یک عدد ماشین لباسشویی ۹ کیلویی سامسونگ سفارش بدم، سفید بفرستید بابل مرسی", "order": {"product_id": "P4002", "quantity": 1, "color": "سفید", "city": "بابل"}}
+{"message": "درود، موجوده پاوربانک شیائومی؟ اگه هست ۱ عدد رنگ مشکی برام بذارید مرسی", "order": {"product_id": "P5005", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "درود، پایه دیواری تلویزیون مشکی دارید؟ ۴ تا لازم دارم بفرستید کرمان ممنون", "order": {"product_id": "P5006", "quantity": 4, "color": "مشکی", "city": "کرمان"}}
+{"message": "سلام وقت بخیر، موجوده ماشین لباسشویی ۹ کیلویی سامسونگ؟ اگه هست یه نقره‌ای برام بذارید به مقصد مشهد لطفاً", "order": {"product_id": "P4002", "quantity": 1, "color": "نقره‌ای", "city": "مشهد"}}
+{"message": "ببخشید، شارژر ۶۵ وات انکر سفید می‌خوام بفرستید اهواز، سپاس", "order": {"product_id": "P5004", "quantity": 1, "color": "سفید", "city": "اهواز"}}
+{"message": "درود، یه سفارش داشتم: دو عدد ردمی بادز 6 آدرسم زنجانه", "order": {"product_id": "P5002", "quantity": 2, "color": null, "city": "زنجان"}}
+{"message": "درود، ۲ تا تی وی شیائومی ۴۳ اینچ مشکی رنگ می‌خوام بفرستید قم لطفاً", "order": {"product_id": "P3003", "quantity": 2, "color": "مشکی", "city": "قم"}}
+{"message": "سلام، ۲ عدد تلویزیون شیائومی 43 مشکی رنگ لطفاً", "order": {"product_id": "P3003", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "ببخشید، ۲ عدد ردمی بادز 6 بفرستید کرمان ممنون", "order": {"product_id": "P5002", "quantity": 2, "color": null, "city": "کرمان"}}
+{"message": "می‌خواستم دو عدد نوکیا G42 سفارش بدم، خاکستری برای آمل، سپاس", "order": {"product_id": "P1006", "quantity": 2, "color": "خاکستری", "city": "آمل"}}
+{"message": "سلام، موجوده ماشین لباسشویی ۹ کیلویی سامسونگ؟ اگه هست سه عدد برام بذارید ارسال به اهواز ممنون", "order": {"product_id": "P4002", "quantity": 3, "color": null, "city": "اهواز"}}
+{"message": "سلام، موجوده پاوربانک شیائومی؟ اگه هست ۳ تا رنگ مشکی برام بذارید آدرسم ارومیهه", "order": {"product_id": "P5005", "quantity": 3, "color": "مشکی", "city": "ارومیه"}}
+{"message": "سلام وقت بخیر، پنج عدد تلویزیون ال‌جی 55 ممنون", "order": {"product_id": "P3001", "quantity": 5, "color": null, "city": null}}
+{"message": "درود، موجوده IdeaPad Slim 3؟ اگه هست چهار عدد خاکستری رنگ برام بذارید ارسال به تبریز مرسی", "order": {"product_id": "P2001", "quantity": 4, "color": "خاکستری", "city": "تبریز"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: یک شیائومی پوکو X7 به رنگ مشکی", "order": {"product_id": "P1004", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "درود، لطفاً 3 تا ویووبوک 15 رنگ نقره‌ای برای ارومیه بفرستید", "order": {"product_id": "P2002", "quantity": 3, "color": "نقره‌ای", "city": "ارومیه"}}
+{"message": "ببخشید، می‌خواستم ۲ عدد آیفون 16 سفارش بدم، سفید ارسال به اهواز، سپاس", "order": {"product_id": "P1005", "quantity": 2, "color": "سفید", "city": "اهواز"}}
+{"message": "درود، لطفاً یه دونه آیفون 16 بفرستید اهواز بفرستید مرسی", "order": {"product_id": "P1005", "quantity": 1, "color": null, "city": "اهواز"}}
+{"message": "می‌خواستم تی وی شیائومی ۴۳ اینچ سفارش بدم، به مقصد اصفهان", "order": {"product_id": "P3003", "quantity": 1, "color": null, "city": "اصفهان"}}
+{"message": "درود، می‌خواستم دو تا پاوربانک شیائومی سفارش بدم ممنون", "order": {"product_id": "P5005", "quantity": 2, "color": null, "city": null}}
+{"message": "سلام وقت بخیر، تی‌وی ۶۵ اینچ سامسونگ مشکی دارید؟ لازم دارم، سپاس", "order": {"product_id": "P3002", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: پنج عدد تلویزیون سامسونگ 65 مشکی رنگ تحویل در کرج", "order": {"product_id": "P3002", "quantity": 5, "color": "مشکی", "city": "کرج"}}
+{"message": "درود، موجوده شارژر ۶۵ وات انکر؟ اگه هست ۳ تا رنگ سفید برام بذارید بفرستید گرگان", "order": {"product_id": "P5004", "quantity": 3, "color": "سفید", "city": "گرگان"}}
+{"message": "ببخشید، دو عدد پوکو X7 به رنگ زرد بفرستید کرج، سپاس", "order": {"product_id": "P1004", "quantity": 2, "color": "زرد", "city": "کرج"}}
+{"message": "درود، دو عدد لپ‌تاپ گیمینگ ایسوس TUF مشکی می‌خوام بفرستید رشت", "order": {"product_id": "P2004", "quantity": 2, "color": "مشکی", "city": "رشت"}}
+{"message": "یه سفارش داشتم: پنج عدد نوکیا G42 به رنگ خاکستری آدرسم گرگانه لطفاً", "order": {"product_id": "P1006", "quantity": 5, "color": "خاکستری", "city": "گرگان"}}
+{"message": "2 تا گلکسی واچ 7 به رنگ مشکی می‌خوام بفرستید تبریز ممنون", "order": {"product_id": "P5003", "quantity": 2, "color": "مشکی", "city": "تبریز"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: یک عدد ردمی نوت ۱۴ پرو تحویل در کرج", "order": {"product_id": "P1003", "quantity": 1, "color": null, "city": "کرج"}}
+{"message": "درود، موجوده لنوو آیدیاپد؟ اگه هست ۲ تا به رنگ خاکستری برام بذارید تحویل در یزد لطفاً", "order": {"product_id": "P2001", "quantity": 2, "color": "خاکستری", "city": "یزد"}}
+{"message": "می‌خواستم لپ‌تاپ لنوو IdeaPad سفارش بدم، خاکستری رنگ لطفاً", "order": {"product_id": "P2001", "quantity": 1, "color": "خاکستری", "city": null}}
+{"message": "ببخشید، لطفاً ۴ تا کولر گازی گری ارسال به مشهد بفرستید، سپاس", "order": {"product_id": "P4004", "quantity": 4, "color": null, "city": "مشهد"}}
+{"message": "ارسال به آمل چهار عدد کولر گازی گری ثبت کنید ممنون", "order": {"product_id": "P4004", "quantity": 4, "color": null, "city": "آمل"}}
+{"message": "ببخشید، می‌خواستم سه تا شارژر ۶۵ وات انکر سفارش بدم، سفید رنگ به مقصد تبریز", "order": {"product_id": "P5004", "quantity": 3, "color": "سفید", "city": "تبریز"}}
+{"message": "به مقصد قم یه تلویزیون ال‌جی 55 ثبت کنید ممنون", "order": {"product_id": "P3001", "quantity": 1, "color": null, "city": "قم"}}
+{"message": "دو تا ردمی نوت ۱۴ پرو بنفش آدرسم ارومیهه ممنون", "order": {"product_id": "P1003", "quantity": 2, "color": "بنفش", "city": "ارومیه"}}
+{"message": "ببخشید، یه سفارش داشتم: 4 تا ویووبوک 15 به رنگ نقره‌ای", "order": {"product_id": "P2002", "quantity": 4, "color": "نقره‌ای", "city": null}}
+{"message": "آدرسم مشهده ۲ عدد ردمی نوت ۱۴ پرو ثبت کنید لطفاً", "order": {"product_id": "P1003", "quantity": 2, "color": null, "city": "مشهد"}}
+{"message": "سلام، تحویل در کرج لنوو آیدیاپد ثبت کنید ممنون", "order": {"product_id": "P2001", "quantity": 1, "color": null, "city": "کرج"}}
+{"message": "ببخشید، ارسال به آمل یک عدد سامسونگ A55 ثبت کنید", "order": {"product_id": "P1001", "quantity": 1, "color": null, "city": "آمل"}}
+{"message": "یه سفارش داشتم: 5 تا ماشین لباسشویی ۹ کیلویی سامسونگ نقره‌ای ارسال به کرمان، سپاس", "order": {"product_id": "P4002", "quantity": 5, "color": "نقره‌ای", "city": "کرمان"}}
+{"message": "درود، یک عدد هدفون سونی XM5 به رنگ مشکی می‌خوام بفرستید آمل لطفاً", "order": {"product_id": "P5001", "quantity": 1, "color": "مشکی", "city": "آمل"}}
+{"message": "یه دونه نوکیا G42 بفرستید قزوین ممنون", "order": {"product_id": "P1006", "quantity": 1, "color": null, "city": "قزوین"}}
+{"message": "موجوده شیائومی نوت 14 پرو؟ اگه هست ۳ تا به رنگ مشکی برام بذارید تحویل در تبریز مرسی", "order": {"product_id": "P1003", "quantity": 3, "color": "مشکی", "city": "تبریز"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: لنوو آیدیاپد خاکستری رنگ لطفاً", "order": {"product_id": "P2001", "quantity": 1, "color": "خاکستری", "city": null}}
+{"message": "سلام وقت بخیر، لپ‌تاپ لنوو IdeaPad رنگ خاکستری دارید؟ سه عدد لازم دارم ارسال به تهران، سپاس", "order": {"product_id": "P2001", "quantity": 3, "color": "خاکستری", "city": "تهران"}}
+{"message": "ببخشید، لطفاً 1 عدد لپ‌تاپ لنوو IdeaPad خاکستری بفرستید اراک بفرستید، سپاس", "order": {"product_id": "P2001", "quantity": 1, "color": "خاکستری", "city": "اراک"}}
+{"message": "درود، موجوده شارژر انکر؟ اگه هست پنج عدد سفید رنگ برام بذارید ممنون", "order": {"product_id": "P5004", "quantity": 5, "color": "سفید", "city": null}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: ۴ تا ردمی نوت ۱۴ پرو آدرسم رشته", "order": {"product_id": "P1003", "quantity": 4, "color": null, "city": "رشت"}}
+{"message": "سلام وقت بخیر، تحویل در زنجان گلکسی واچ 7 به رنگ سبز ثبت کنید", "order": {"product_id": "P5003", "quantity": 1, "color": "سبز", "city": "زنجان"}}
+{"message": "درود، می‌خواستم سامسونگ A55 سفارش بدم، بفرستید تهران ممنون", "order": {"product_id": "P1001", "quantity": 1, "color": null, "city": "تهران"}}
+{"message": "ببخشید، می‌خواستم یک عدد تی‌وی ۶۵ اینچ سامسونگ سفارش بدم، مشکی به مقصد همدان ممنون", "order": {"product_id": "P3002", "quantity": 1, "color": "مشکی", "city": "همدان"}}
+{"message": "دو عدد لپ‌تاپ گیمینگ ایسوس TUF مشکی آدرسم تهرانه", "order": {"product_id": "P2004", "quantity": 2, "color": "مشکی", "city": "تهران"}}
+{"message": "سلام، براکت تلویزیون دارید؟ دو عدد لازم دارم", "order": {"product_id": "P5006", "quantity": 2, "color": null, "city": null}}
+{"message": "سلام، ۵ تا لپ‌تاپ گیمینگ ایسوس TUF برای تهران، سپاس", "order": {"product_id": "P2004", "quantity": 5, "color": null, "city": "تهران"}}
+{"message": "ببخشید، موجوده IdeaPad Slim 3؟ اگه هست دو عدد برام بذارید آدرسم آمله مرسی", "order": {"product_id": "P2001", "quantity": 2, "color": null, "city": "آمل"}}
+{"message": "می‌خواستم یک عدد لپ‌تاپ ایسوس ویووبوک سفارش بدم، نقره‌ای، سپاس", "order": {"product_id": "P2002", "quantity": 1, "color": "نقره‌ای", "city": null}}
+{"message": "ببخشید، موجوده تلویزیون شیائومی 43؟ اگه هست چهار تا برام بذارید، سپاس", "order": {"product_id": "P3003", "quantity": 4, "color": null, "city": null}}
+{"message": "یه سفارش داشتم: ماشین لباسشویی ۹ کیلویی سامسونگ لطفاً", "order": {"product_id": "P4002", "quantity": 1, "color": null, "city": null}}
+{"message": "ببخشید، می‌خواستم 2 تا هندزفری ردمی بادز ۶ سفارش بدم، به رنگ مشکی، سپاس", "order": {"product_id": "P5002", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "درود، به مقصد ارومیه 2 تا ماشین لباسشویی ۹ کیلویی سامسونگ نقره‌ای رنگ ثبت کنید مرسی", "order": {"product_id": "P4002", "quantity": 2, "color": "نقره‌ای", "city": "ارومیه"}}
+{"message": "یه دونه MacBook Air خاکستری رنگ بفرستید رشت", "order": {"product_id": "P2003", "quantity": 1, "color": "خاکستری", "city": "رشت"}}
+{"message": "ببخشید، لپ‌تاپ ایسوس ویووبوک به رنگ نقره‌ای تحویل در تبریز مرسی", "order": {"product_id": "P2002", "quantity": 1, "color": "نقره‌ای", "city": "تبریز"}}
+{"message": "ببخشید، می‌خواستم دو تا لپ‌تاپ گیمینگ ایسوس TUF سفارش بدم، مشکی رنگ به مقصد بابل ممنون", "order": {"product_id": "P2004", "quantity": 2, "color": "مشکی", "city": "بابل"}}
+{"message": "سلام، یه سفارش داشتم: یک گلکسی واچ 7 سبز رنگ به مقصد کرج ممنون", "order": {"product_id": "P5003", "quantity": 1, "color": "سبز", "city": "کرج"}}
+{"message": "سلام، 1 عدد لپ‌تاپ گیمینگ ایسوس TUF می‌خوام بفرستید کرمان لطفاً", "order": {"product_id": "P2004", "quantity": 1, "color": null, "city": "کرمان"}}
+{"message": "یک گلکسی واچ 7 به رنگ سبز ثبت کنید ممنون", "order": {"product_id": "P5003", "quantity": 1, "color": "سبز", "city": null}}
+{"message": "سلام وقت بخیر، یک عدد مک‌بوک ایر می‌خوام تحویل در گرگان", "order": {"product_id": "P2003", "quantity": 1, "color": null, "city": "گرگان"}}
+{"message": "درود، شارژر انکر به رنگ سفید دارید؟ چهار تا لازم دارم آدرسم کرجه ممنون", "order": {"product_id": "P5004", "quantity": 4, "color": "سفید", "city": "کرج"}}
+{"message": "درود، می‌خواستم پنج عدد سامسونگ A55 سفارش بدم، به رنگ سفید تحویل در بابل ممنون", "order": {"product_id": "P1001", "quantity": 5, "color": "سفید", "city": "بابل"}}
+{"message": "درود، گلکسی S24 FE مشکی دارید؟ لازم دارم تحویل در ساری ممنون", "order": {"product_id": "P1002", "quantity": 1, "color": "مشکی", "city": "ساری"}}
+{"message": "ببخشید، IdeaPad Slim 3 دارید؟ ۳ تا لازم دارم بفرستید اصفهان ممنون", "order": {"product_id": "P2001", "quantity": 3, "color": null, "city": "اصفهان"}}
+{"message": "WH-1000XM5 رنگ نقره‌ای دارید؟ پنج عدد لازم دارم", "order": {"product_id": "P5001", "quantity": 5, "color": "نقره‌ای", "city": null}}
+{"message": "۲ تا نوکیا G42", "order": {"product_id": "P1006", "quantity": 2, "color": null, "city": null}}
+{"message": "ببخشید، موجوده هندزفری ردمی بادز ۶؟ اگه هست چهار عدد رنگ سفید برام بذارید به مقصد ارومیه", "order": {"product_id": "P5002", "quantity": 4, "color": "سفید", "city": "ارومیه"}}
+{"message": "ببخشید، یه سفارش داشتم: یک گلکسی S24 FE ارسال به کرج", "order": {"product_id": "P1002", "quantity": 1, "color": null, "city": "کرج"}}
+{"message": "درود، لطفاً ۳ تا لپ‌تاپ گیمینگ ایسوس TUF به مقصد اصفهان بفرستید مرسی", "order": {"product_id": "P2004", "quantity": 3, "color": null, "city": "اصفهان"}}
+{"message": "ردمی نوت 14 پرو دارید؟ لازم دارم لطفاً", "order": {"product_id": "P1003", "quantity": 1, "color": null, "city": null}}
+{"message": "ببخشید، 4 تا سامسونگ S24 FE بفرستید ساری", "order": {"product_id": "P1002", "quantity": 4, "color": null, "city": "ساری"}}
+{"message": "یه سفارش داشتم: یه دونه شیائومی نوت 14 پرو مشکی مرسی", "order": {"product_id": "P1003", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "می‌خواستم 1 عدد لنوو آیدیاپد سفارش بدم، به رنگ خاکستری برای مشهد ممنون", "order": {"product_id": "P2001", "quantity": 1, "color": "خاکستری", "city": "مشهد"}}
+{"message": "ببخشید، لطفاً سه تا گوشی A55 ارسال به رشت بفرستید لطفاً", "order": {"product_id": "P1001", "quantity": 3, "color": null, "city": "رشت"}}
+{"message": "درود، موجوده هدفون سونی XM5؟ اگه هست یه برام بذارید بفرستید تبریز لطفاً", "order": {"product_id": "P5001", "quantity": 1, "color": null, "city": "تبریز"}}
+{"message": "موجوده پوکو X7؟ اگه هست ۲ عدد مشکی برام بذارید ارسال به شیراز مرسی", "order": {"product_id": "P1004", "quantity": 2, "color": "مشکی", "city": "شیراز"}}
+{"message": "درود، ۲ تا گلکسی واچ 7 نقره‌ای رنگ", "order": {"product_id": "P5003", "quantity": 2, "color": "نقره‌ای", "city": null}}
+{"message": "سلام وقت بخیر، می‌خواستم یک عدد کولر گری ۱۸ هزار سفارش بدم، به رنگ سفید ممنون", "order": {"product_id": "P4004", "quantity": 1, "color": "سفید", "city": null}}
+{"message": "سلام وقت بخیر، لطفاً ۲ عدد لپ‌تاپ لنوو IdeaPad بفرستید رشت بفرستید، سپاس", "order": {"product_id": "P2001", "quantity": 2, "color": null, "city": "رشت"}}
+{"message": "ببخشید، می‌خواستم دو تا تی‌وی ۶۵ اینچ سامسونگ سفارش بدم، مشکی", "order": {"product_id": "P3002", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "سلام، می‌خواستم چهار عدد ماشین لباسشویی ۹ کیلویی سامسونگ سفارش بدم، به رنگ نقره‌ای", "order": {"product_id": "P4002", "quantity": 4, "color": "نقره‌ای", "city": null}}
+{"message": "سلام، می‌خواستم مک‌بوک ایر سفارش بدم", "order": {"product_id": "P2003", "quantity": 1, "color": null, "city": null}}
+{"message": "ببخشید، دو عدد براکت تلویزیون رنگ مشکی می‌خوام برای ساری", "order": {"product_id": "P5006", "quantity": 2, "color": "مشکی", "city": "ساری"}}
+{"message": "ببخشید، ایسوس TUF به رنگ مشکی آدرسم آمله", "order": {"product_id": "P2004", "quantity": 1, "color": "مشکی", "city": "آمل"}}
+{"message": "درود، می‌خواستم یک پاوربانک ۲۰ هزار شیائومی سفارش بدم، به رنگ مشکی ممنون", "order": {"product_id": "P5005", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "سلام، اس ۲۴ اف ای سبز رنگ دارید؟ 5 تا لازم دارم", "order": {"product_id": "P1002", "quantity": 5, "color": "سبز", "city": null}}
+{"message": "سلام وقت بخیر، تی وی شیائومی ۴۳ اینچ دارید؟ دو تا لازم دارم ممنون", "order": {"product_id": "P3003", "quantity": 2, "color": null, "city": null}}
+{"message": "چهار عدد هدفون سونی به رنگ مشکی می‌خوام ارسال به کرج ممنون", "order": {"product_id": "P5001", "quantity": 4, "color": "مشکی", "city": "کرج"}}
+{"message": "می‌خواستم چهار عدد پوکو X7 سفارش بدم، مشکی رنگ تحویل در رشت مرسی", "order": {"product_id": "P1004", "quantity": 4, "color": "مشکی", "city": "رشت"}}
+{"message": "ببخشید، یه سفارش داشتم: ۲ عدد سامسونگ A55 به رنگ آبی تحویل در زنجان", "order": {"product_id": "P1001", "quantity": 2, "color": "آبی", "city": "زنجان"}}
+{"message": "یه سفارش داشتم: چهار عدد شیائومی پوکو X7 به رنگ زرد ممنون", "order": {"product_id": "P1004", "quantity": 4, "color": "زرد", "city": null}}
+{"message": "ببخشید، سه تا لپ‌تاپ گیمینگ ایسوس TUF رنگ مشکی می‌خوام ارسال به شیراز مرسی", "order": {"product_id": "P2004", "quantity": 3, "color": "مشکی", "city": "شیراز"}}
+{"message": "سلام وقت بخیر، لطفاً پنج تا ردمی نوت ۱۴ پرو به رنگ آبی بفرستید لطفاً", "order": {"product_id": "P1003", "quantity": 5, "color": "آبی", "city": null}}
+{"message": "یه لپ‌تاپ گیمینگ ایسوس TUF ثبت کنید لطفاً", "order": {"product_id": "P2004", "quantity": 1, "color": null, "city": null}}
+{"message": "ببخشید، ارسال به کرج WH-1000XM5 مشکی ثبت کنید، سپاس", "order": {"product_id": "P5001", "quantity": 1, "color": "مشکی", "city": "کرج"}}
+{"message": "سلام، 3 تا مک بوک ایر M3 آدرسم ارومیهه ممنون", "order": {"product_id": "P2003", "quantity": 3, "color": null, "city": "ارومیه"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: 5 تا آیفون 16 تحویل در بابل لطفاً", "order": {"product_id": "P1005", "quantity": 5, "color": null, "city": "بابل"}}
+{"message": "سه عدد لپ‌تاپ گیمینگ ایسوس TUF به رنگ مشکی می‌خوام", "order": {"product_id": "P2004", "quantity": 3, "color": "مشکی", "city": null}}
+{"message": "ارسال به یزد ۳ تا ردمی نوت ۱۴ پرو ثبت کنید لطفاً", "order": {"product_id": "P1003", "quantity": 3, "color": null, "city": "یزد"}}
+{"message": "سه تا پایه دیواری تلویزیون می‌خوام آدرسم آمله مرسی", "order": {"product_id": "P5006", "quantity": 3, "color": null, "city": "آمل"}}
+{"message": "سلام وقت بخیر، یک WH-1000XM5 بفرستید قم، سپاس", "order": {"product_id": "P5001", "quantity": 1, "color": null, "city": "قم"}}
+{"message": "ببخشید، موجوده ردمی بادز 6؟ اگه هست ۵ تا برام بذارید ارسال به آمل، سپاس", "order": {"product_id": "P5002", "quantity": 5, "color": null, "city": "آمل"}}
+{"message": "سلام وقت بخیر، یک هدفون سونی رنگ نقره‌ای ارسال به یزد ممنون", "order": {"product_id": "P5001", "quantity": 1, "color": "نقره‌ای", "city": "یزد"}}
+{"message": "ببخشید، موجوده تلویزیون ۵۵ اینچ ال جی؟ اگه هست مشکی برام بذارید تحویل در اراک ممنون", "order": {"product_id": "P3001", "quantity": 1, "color": "مشکی", "city": "اراک"}}
+{"message": "سلام وقت بخیر، یک عدد MacBook Air خاکستری می‌خوام برای ارومیه مرسی", "order": {"product_id": "P2003", "quantity": 1, "color": "خاکستری", "city": "ارومیه"}}
+{"message": "ارسال به تبریز ۲ تا گلکسی A55 مشکی رنگ ثبت کنید، سپاس", "order": {"product_id": "P1001", "quantity": 2, "color": "مشکی", "city": "تبریز"}}
+{"message": "سلام وقت بخیر، می‌خواستم 5 تا پاوربانک شیائومی سفارش بدم، ارسال به ارومیه مرسی", "order": {"product_id": "P5005", "quantity": 5, "color": null, "city": "ارومیه"}}
+{"message": "لپ‌تاپ ایسوس ویووبوک رنگ نقره‌ای دارید؟ ۱ عدد لازم دارم", "order": {"product_id": "P2002", "quantity": 1, "color": "نقره‌ای", "city": null}}
+{"message": "درود، 5 تا هدفون سونی مشکی به مقصد کرمان", "order": {"product_id": "P5001", "quantity": 5, "color": "مشکی", "city": "کرمان"}}
+{"message": "یه سفارش داشتم: ردمی نوت ۱۴ پرو بفرستید قزوین", "order": {"product_id": "P1003", "quantity": 1, "color": null, "city": "قزوین"}}
+{"message": "ببخشید، پوکو X7 دارید؟ سه تا لازم دارم آدرسم ساریه مرسی", "order": {"product_id": "P1004", "quantity": 3, "color": null, "city": "ساری"}}
+{"message": "ماشین لباسشویی ۹ کیلویی سامسونگ دارید؟ دو عدد لازم دارم تحویل در قزوین مرسی", "order": {"product_id": "P4002", "quantity": 2, "color": null, "city": "قزوین"}}
+{"message": "موجوده تلویزیون شیائومی 43؟ اگه هست 3 تا برام بذارید برای کرج، سپاس", "order": {"product_id": "P3003", "quantity": 3, "color": null, "city": "کرج"}}
+{"message": "درود، سه تا گلکسی A55 به رنگ آبی می‌خوام تحویل در تهران مرسی", "order": {"product_id": "P1001", "quantity": 3, "color": "آبی", "city": "تهران"}}
+{"message": "سلام، تلویزیون شیائومی 43 رنگ مشکی دارید؟ 1 عدد لازم دارم لطفاً", "order": {"product_id": "P3003", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "سلام وقت بخیر، لطفاً شارژر انکر رنگ سفید بفرستید لطفاً", "order": {"product_id": "P5004", "quantity": 1, "color": "سفید", "city": null}}
+{"message": "ببخشید، موجوده تی‌وی ۶۵ اینچ سامسونگ؟ اگه هست چهار تا برام بذارید مرسی", "order": {"product_id": "P3002", "quantity": 4, "color": null, "city": null}}
+{"message": "سه تا پاوربانک شیائومی مرسی", "order": {"product_id": "P5005", "quantity": 3, "color": null, "city": null}}
+{"message": "ببخشید، 5 تا آیفون ۱۶ مشکی ممنون", "order": {"product_id": "P1005", "quantity": 5, "color": "مشکی", "city": null}}
+{"message": "سلام، یه سفارش داشتم: چهار عدد کولر گری ۱۸ هزار به رنگ سفید", "order": {"product_id": "P4004", "quantity": 4, "color": "سفید", "city": null}}
+{"message": "ببخشید، گلکسی A55 دارید؟ لازم دارم آدرسم مشهده", "order": {"product_id": "P1001", "quantity": 1, "color": null, "city": "مشهد"}}
+{"message": "سلام، لطفاً 5 تا پایه دیواری تلویزیون به رنگ مشکی تحویل در همدان بفرستید", "order": {"product_id": "P5006", "quantity": 5, "color": "مشکی", "city": "همدان"}}
+{"message": "ببخشید، یک لپ‌تاپ گیمینگ ایسوس TUF به رنگ مشکی می‌خوام لطفاً", "order": {"product_id": "P2004", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "سلام، چهار تا گوشی نوکیا G42 لطفاً", "order": {"product_id": "P1006", "quantity": 4, "color": null, "city": null}}
+{"message": "یک ویووبوک 15 ثبت کنید ممنون", "order": {"product_id": "P2002", "quantity": 1, "color": null, "city": null}}
+{"message": "سلام، آدرسم کرجه یک مک‌بوک ایر ثبت کنید", "order": {"product_id": "P2003", "quantity": 1, "color": null, "city": "کرج"}}
+{"message": "سلام وقت بخیر، ردمی نوت ۱۴ پرو دارید؟ لازم دارم", "order": {"product_id": "P1003", "quantity": 1, "color": null, "city": null}}
+{"message": "لطفاً 1 عدد کولر گری ۱۸ هزار سفید بفرستید قزوین بفرستید مرسی", "order": {"product_id": "P4004", "quantity": 1, "color": "سفید", "city": "قزوین"}}
+{"message": "موجوده لپ‌تاپ ایسوس ویووبوک؟ اگه هست برام بذارید ارسال به بابل", "order": {"product_id": "P2002", "quantity": 1, "color": null, "city": "بابل"}}
+{"message": "ببخشید، یه تلویزیون سامسونگ 65 به رنگ مشکی می‌خوام به مقصد یزد لطفاً", "order": {"product_id": "P3002", "quantity": 1, "color": "مشکی", "city": "یزد"}}
+{"message": "سلام، موجوده تلویزیون ال‌جی 55؟ اگه هست ۲ تا رنگ مشکی برام بذارید", "order": {"product_id": "P3001", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "موجوده تی وی شیائومی ۴۳ اینچ؟ اگه هست سه تا مشکی رنگ برام بذارید برای یزد لطفاً", "order": {"product_id": "P3003", "quantity": 3, "color": "مشکی", "city": "یزد"}}
+{"message": "دو تا لپ‌تاپ ایسوس ویووبوک ثبت کنید مرسی", "order": {"product_id": "P2002", "quantity": 2, "color": null, "city": null}}
+{"message": "درود، لطفاً چهار تا لنوو آیدیاپد خاکستری رنگ بفرستید لطفاً", "order": {"product_id": "P2001", "quantity": 4, "color": "خاکستری", "city": null}}
+{"message": "سلام، موجوده تلویزیون شیائومی 43؟ اگه هست رنگ مشکی برام بذارید تحویل در آمل", "order": {"product_id": "P3003", "quantity": 1, "color": "مشکی", "city": "آمل"}}
+{"message": "تلویزیون ال‌جی 55 رنگ مشکی ممنون", "order": {"product_id": "P3001", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "درود، موجوده پایه دیواری تلویزیون؟ اگه هست یک عدد مشکی رنگ برام بذارید ارسال به اهواز", "order": {"product_id": "P5006", "quantity": 1, "color": "مشکی", "city": "اهواز"}}
+{"message": "سلام وقت بخیر، 2 تا شیائومی پوکو X7 رنگ مشکی", "order": {"product_id": "P1004", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "سلام وقت بخیر، تلویزیون شیائومی 43 رنگ مشکی دارید؟ ۴ تا لازم دارم بفرستید اصفهان مرسی", "order": {"product_id": "P3003", "quantity": 4, "color": "مشکی", "city": "اصفهان"}}
+{"message": "ببخشید، یه سفارش داشتم: 1 عدد تلویزیون ۵۵ اینچ ال جی ممنون", "order": {"product_id": "P3001", "quantity": 1, "color": null, "city": null}}
+{"message": "یه دونه تی وی شیائومی ۴۳ اینچ به رنگ مشکی می‌خوام مرسی", "order": {"product_id": "P3003", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "ببخشید، شارژر انکر دارید؟ 2 تا لازم دارم ارسال به قم، سپاس", "order": {"product_id": "P5004", "quantity": 2, "color": null, "city": "قم"}}
+{"message": "لپ‌تاپ ایسوس ویووبوک بفرستید کرج لطفاً", "order": {"product_id": "P2002", "quantity": 1, "color": null, "city": "کرج"}}
+{"message": "سلام وقت بخیر، لطفاً شارژر ۶۵ وات انکر بفرستید", "order": {"product_id": "P5004", "quantity": 1, "color": null, "city": null}}
+{"message": "برای آمل سه عدد ساعت سامسونگ واچ ۷ ثبت کنید مرسی", "order": {"product_id": "P5003", "quantity": 3, "color": null, "city": "آمل"}}
+{"message": "ببخشید، لطفاً یک عدد تی‌وی ۶۵ اینچ سامسونگ رنگ مشکی ارسال به همدان بفرستید، سپاس", "order": {"product_id": "P3002", "quantity": 1, "color": "مشکی", "city": "همدان"}}
+{"message": "سلام، ۴ تا هندزفری ردمی بادز ۶ می‌خوام مرسی", "order": {"product_id": "P5002", "quantity": 4, "color": null, "city": null}}
+{"message": "سلام، دو تا آیفون ۱۶ رنگ سفید می‌خوام آدرسم اراکه ممنون", "order": {"product_id": "P1005", "quantity": 2, "color": "سفید", "city": "اراک"}}
+{"message": "درود، 3 تا گوشی نوکیا G42 می‌خوام مرسی", "order": {"product_id": "P1006", "quantity": 3, "color": null, "city": null}}
+{"message": "سلام وقت بخیر، پنج تا هندزفری ردمی بادز ۶ رنگ سفید لطفاً", "order": {"product_id": "P5002", "quantity": 5, "color": "سفید", "city": null}}
+{"message": "سلام وقت بخیر، می‌خواستم ۱ عدد لپ‌تاپ ایسوس ویووبوک سفارش بدم، به رنگ نقره‌ای برای گرگان", "order": {"product_id": "P2002", "quantity": 1, "color": "نقره‌ای", "city": "گرگان"}}
+{"message": "می‌خواستم سه تا هدفون سونی XM5 سفارش بدم، نقره‌ای بفرستید همدان مرسی", "order": {"product_id": "P5001", "quantity": 3, "color": "نقره‌ای", "city": "همدان"}}
+{"message": "ببخشید، لطفاً پنج تا ردمی نوت ۱۴ پرو بفرستید ارومیه بفرستید مرسی", "order": {"product_id": "P1003", "quantity": 5, "color": null, "city": "ارومیه"}}
+{"message": "یه سفارش داشتم: هدفون سونی مشکی رنگ برای اصفهان لطفاً", "order": {"product_id": "P5001", "quantity": 1, "color": "مشکی", "city": "اصفهان"}}
+{"message": "لطفاً ۱ عدد گلکسی A55 مشکی رنگ ارسال به همدان بفرستید مرسی", "order": {"product_id": "P1001", "quantity": 1, "color": "مشکی", "city": "همدان"}}
+{"message": "ببخشید، موجوده شیائومی نوت 14 پرو؟ اگه هست دو تا برام بذارید ارسال به شیراز", "order": {"product_id": "P1003", "quantity": 2, "color": null, "city": "شیراز"}}
+{"message": "سلام، یه سفارش داشتم: گلکسی A55 به رنگ مشکی تحویل در زنجان لطفاً", "order": {"product_id": "P1001", "quantity": 1, "color": "مشکی", "city": "زنجان"}}
+{"message": "ببخشید، 5 تا iPhone 16 مشکی می‌خوام آدرسم قزوینه، سپاس", "order": {"product_id": "P1005", "quantity": 5, "color": "مشکی", "city": "قزوین"}}
+{"message": "ببخشید، موجوده آیفون 16؟ اگه هست سه عدد صورتی رنگ برام بذارید مرسی", "order": {"product_id": "P1005", "quantity": 3, "color": "صورتی", "city": null}}
+{"message": "سامسونگ A55 دارید؟ ۲ تا لازم دارم تحویل در بابل", "order": {"product_id": "P1001", "quantity": 2, "color": null, "city": "بابل"}}
+{"message": "سلام، ۲ تا لپ‌تاپ ایسوس ویووبوک نقره‌ای رنگ می‌خوام به مقصد کرج لطفاً", "order": {"product_id": "P2002", "quantity": 2, "color": "نقره‌ای", "city": "کرج"}}
+{"message": "سلام وقت بخیر، ۳ تا تی‌وی ۶۵ اینچ سامسونگ رنگ مشکی ثبت کنید", "order": {"product_id": "P3002", "quantity": 3, "color": "مشکی", "city": null}}
+{"message": "سلام وقت بخیر، لطفاً ۳ تا گلکسی A55 رنگ مشکی بفرستید، سپاس", "order": {"product_id": "P1001", "quantity": 3, "color": "مشکی", "city": null}}
+{"message": "می‌خواستم یه ماشین لباسشویی ۹ کیلویی سامسونگ سفارش بدم، ارسال به کرج لطفاً", "order": {"product_id": "P4002", "quantity": 1, "color": null, "city": "کرج"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: پاوربانک ۲۰ هزار شیائومی بفرستید زنجان، سپاس", "order": {"product_id": "P5005", "quantity": 1, "color": null, "city": "زنجان"}}
+{"message": "کولر گازی گری رنگ سفید دارید؟ 2 تا لازم دارم به مقصد کرج ممنون", "order": {"product_id": "P4004", "quantity": 2, "color": "سفید", "city": "کرج"}}
+{"message": "سلام وقت بخیر، می‌خواستم 2 تا ماشین لباسشویی ۹ کیلویی سامسونگ سفارش بدم", "order": {"product_id": "P4002", "quantity": 2, "color": null, "city": null}}
+{"message": "سلام وقت بخیر، موجوده هندزفری ردمی بادز ۶؟ اگه هست 1 عدد به رنگ مشکی برام بذارید تحویل در بابل لطفاً", "order": {"product_id": "P5002", "quantity": 1, "color": "مشکی", "city": "بابل"}}
+{"message": "درود، موجوده پوکو X7؟ اگه هست 1 عدد برام بذارید به مقصد زنجان لطفاً", "order": {"product_id": "P1004", "quantity": 1, "color": null, "city": "زنجان"}}
+{"message": "درود، موجوده تلویزیون سامسونگ 65؟ اگه هست 4 تا به رنگ مشکی برام بذارید به مقصد تبریز", "order": {"product_id": "P3002", "quantity": 4, "color": "مشکی", "city": "تبریز"}}
+{"message": "سلام وقت بخیر، می‌خواستم یک عدد ردمی نوت 14 پرو سفارش بدم، برای کرمان ممنون", "order": {"product_id": "P1003", "quantity": 1, "color": null, "city": "کرمان"}}
+{"message": "درود، یه سفارش داشتم: دو تا کولر گری ۱۸ هزار سفید رنگ تحویل در قم مرسی", "order": {"product_id": "P4004", "quantity": 2, "color": "سفید", "city": "قم"}}
+{"message": "یه سفارش داشتم: 3 تا لپ‌تاپ گیمینگ ایسوس TUF مشکی رنگ لطفاً", "order": {"product_id": "P2004", "quantity": 3, "color": "مشکی", "city": null}}
+{"message": "سلام وقت بخیر، می‌خواستم 2 تا پوکو X7 سفارش بدم مرسی", "order": {"product_id": "P1004", "quantity": 2, "color": null, "city": null}}
+{"message": "سلام وقت بخیر، ۳ تا گلکسی A55 رنگ مشکی لطفاً", "order": {"product_id": "P1001", "quantity": 3, "color": "مشکی", "city": null}}
+{"message": "درود، پایه دیواری تلویزیون به رنگ مشکی دارید؟ دو تا لازم دارم لطفاً", "order": {"product_id": "P5006", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "درود، می‌خواستم یه کولر گری ۱۸ هزار سفارش بدم مرسی", "order": {"product_id": "P4004", "quantity": 1, "color": null, "city": null}}
+{"message": "ببخشید، لطفاً ۲ تا هدفون سونی ارسال به ارومیه بفرستید", "order": {"product_id": "P5001", "quantity": 2, "color": null, "city": "ارومیه"}}
+{"message": "ببخشید، موجوده هندزفری ردمی بادز ۶؟ اگه هست یه برام بذارید بفرستید اصفهان", "order": {"product_id": "P5002", "quantity": 1, "color": null, "city": "اصفهان"}}
+{"message": "ببخشید، یه سفارش داشتم: ۲ تا ایسوس TUF رنگ مشکی ممنون", "order": {"product_id": "P2004", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "ببخشید، موجوده پاوربانک شیائومی؟ اگه هست دو تا به رنگ آبی برام بذارید برای ساری مرسی", "order": {"product_id": "P5005", "quantity": 2, "color": "آبی", "city": "ساری"}}
+{"message": "درود، گوشی نوکیا G42 خاکستری رنگ دارید؟ یه دونه لازم دارم تحویل در ساری، سپاس", "order": {"product_id": "P1006", "quantity": 1, "color": "خاکستری", "city": "ساری"}}
+{"message": "سلام، می‌خواستم دو عدد گلکسی واچ 7 سفارش بدم، ارسال به رشت لطفاً", "order": {"product_id": "P5003", "quantity": 2, "color": null, "city": "رشت"}}
+{"message": "سلام، موجوده تلویزیون ۵۵ اینچ ال جی؟ اگه هست یک عدد برام بذارید بفرستید آمل لطفاً", "order": {"product_id": "P3001", "quantity": 1, "color": null, "city": "آمل"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: چهار تا IdeaPad Slim 3 خاکستری رنگ ممنون", "order": {"product_id": "P2001", "quantity": 4, "color": "خاکستری", "city": null}}
+{"message": "اس ۲۴ اف ای سبز دارید؟ ۳ تا لازم دارم برای گرگان مرسی", "order": {"product_id": "P1002", "quantity": 3, "color": "سبز", "city": "گرگان"}}
+{"message": "موجوده کولر گری ۱۸ هزار؟ اگه هست دو عدد سفید برام بذارید برای رشت مرسی", "order": {"product_id": "P4004", "quantity": 2, "color": "سفید", "city": "رشت"}}
+{"message": "درود، دو تا هدفون سونی ارسال به قم لطفاً", "order": {"product_id": "P5001", "quantity": 2, "color": null, "city": "قم"}}
+{"message": "سلام وقت بخیر، 2 تا گلکسی S24 FE مشکی رنگ ثبت کنید", "order": {"product_id": "P1002", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "ماشین لباسشویی ۹ کیلویی سامسونگ به رنگ نقره‌ای دارید؟ دو تا لازم دارم بفرستید قم مرسی", "order": {"product_id": "P4002", "quantity": 2, "color": "نقره‌ای", "city": "قم"}}
+{"message": "ارسال به شیراز ۵ تا نوکیا G42 ثبت کنید لطفاً", "order": {"product_id": "P1006", "quantity": 5, "color": null, "city": "شیراز"}}
+{"message": "درود، موجوده گوشی نوکیا G42؟ اگه هست ۵ تا برام بذارید آدرسم قزوینه لطفاً", "order": {"product_id": "P1006", "quantity": 5, "color": null, "city": "قزوین"}}
+{"message": "درود، لطفاً دو عدد ویووبوک 15 بفرستید مرسی", "order": {"product_id": "P2002", "quantity": 2, "color": null, "city": null}}
+{"message": "سلام، 3 تا شارژر ۶۵ وات انکر سفید رنگ به مقصد ارومیه، سپاس", "order": {"product_id": "P5004", "quantity": 3, "color": "سفید", "city": "ارومیه"}}
+{"message": "ببخشید، می‌خواستم 2 تا ردمی نوت ۱۴ پرو سفارش بدم، رنگ مشکی برای ارومیه لطفاً", "order": {"product_id": "P1003", "quantity": 2, "color": "مشکی", "city": "ارومیه"}}
+{"message": "ببخشید، می‌خواستم 3 تا اس ۲۴ اف ای سفارش بدم، رنگ مشکی به مقصد تبریز مرسی", "order": {"product_id": "P1002", "quantity": 3, "color": "مشکی", "city": "تبریز"}}
+{"message": "۵ تا براکت تلویزیون ثبت کنید", "order": {"product_id": "P5006", "quantity": 5, "color": null, "city": null}}
+{"message": "تی وی شیائومی ۴۳ اینچ دارید؟ ۴ تا لازم دارم برای بابل", "order": {"product_id": "P3003", "quantity": 4, "color": null, "city": "بابل"}}
+{"message": "سلام، یه سفارش داشتم: ۳ تا شیائومی پوکو X7 به مقصد شیراز مرسی", "order": {"product_id": "P1004", "quantity": 3, "color": null, "city": "شیراز"}}
+{"message": "سلام وقت بخیر، چهار تا کولر گازی گری سفید رنگ می‌خوام بفرستید زنجان مرسی", "order": {"product_id": "P4004", "quantity": 4, "color": "سفید", "city": "زنجان"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: یک عدد تلویزیون سامسونگ 65 رنگ مشکی بفرستید قم مرسی", "order": {"product_id": "P3002", "quantity": 1, "color": "مشکی", "city": "قم"}}
+{"message": "سلام وقت بخیر، 3 تا گلکسی A55 ثبت کنید", "order": {"product_id": "P1001", "quantity": 3, "color": null, "city": null}}
+{"message": "2 تا آیفون 16 مشکی رنگ می‌خوام بفرستید رشت مرسی", "order": {"product_id": "P1005", "quantity": 2, "color": "مشکی", "city": "رشت"}}
+{"message": "می‌خواستم 1 عدد ماشین لباسشویی ۹ کیلویی سامسونگ سفارش بدم، سفید به مقصد شیراز مرسی", "order": {"product_id": "P4002", "quantity": 1, "color": "سفید", "city": "شیراز"}}
+{"message": "ببخشید، ردمی بادز 6 تحویل در زنجان مرسی", "order": {"product_id": "P5002", "quantity": 1, "color": null, "city": "زنجان"}}
+{"message": "سلام، پنج عدد WH-1000XM5 تحویل در اصفهان", "order": {"product_id": "P5001", "quantity": 5, "color": null, "city": "اصفهان"}}
+{"message": "دو تا ویووبوک 15 به رنگ نقره‌ای به مقصد آمل لطفاً", "order": {"product_id": "P2002", "quantity": 2, "color": "نقره‌ای", "city": "آمل"}}
+{"message": "می‌خواستم ۵ تا گلکسی واچ 7 سفارش بدم مرسی", "order": {"product_id": "P5003", "quantity": 5, "color": null, "city": null}}
+{"message": "درود، موجوده تلویزیون سامسونگ 65؟ اگه هست پنج عدد برام بذارید بفرستید یزد لطفاً", "order": {"product_id": "P3002", "quantity": 5, "color": null, "city": "یزد"}}
+{"message": "ببخشید، موجوده ردمی نوت ۱۴ پرو؟ اگه هست سه تا برام بذارید ارسال به زنجان", "order": {"product_id": "P1003", "quantity": 3, "color": null, "city": "زنجان"}}
+{"message": "درود، تلویزیون ال‌جی 55 می‌خوام تحویل در تهران", "order": {"product_id": "P3001", "quantity": 1, "color": null, "city": "تهران"}}
+{"message": "سلام وقت بخیر، سه عدد ردمی نوت ۱۴ پرو آبی می‌خوام آدرسم قزوینه لطفاً", "order": {"product_id": "P1003", "quantity": 3, "color": "آبی", "city": "قزوین"}}
+{"message": "سلام وقت بخیر، پنج تا MacBook Air نقره‌ای می‌خوام تحویل در اراک", "order": {"product_id": "P2003", "quantity": 5, "color": "نقره‌ای", "city": "اراک"}}
+{"message": "درود، می‌خواستم ۱ عدد iPhone 16 سفارش بدم، به مقصد شیراز لطفاً", "order": {"product_id": "P1005", "quantity": 1, "color": null, "city": "شیراز"}}
+{"message": "ببخشید، لطفاً هندزفری ردمی بادز ۶ به رنگ مشکی تحویل در قزوین بفرستید لطفاً", "order": {"product_id": "P5002", "quantity": 1, "color": "مشکی", "city": "قزوین"}}
+{"message": "درود، پنج عدد کولر گری ۱۸ هزار سفید رنگ برای اصفهان مرسی", "order": {"product_id": "P4004", "quantity": 5, "color": "سفید", "city": "اصفهان"}}
+{"message": "لطفاً 3 تا WH-1000XM5 بفرستید بابل بفرستید مرسی", "order": {"product_id": "P5001", "quantity": 3, "color": null, "city": "بابل"}}
+{"message": "سلام، تلویزیون شیائومی 43 دارید؟ دو تا لازم دارم", "order": {"product_id": "P3003", "quantity": 2, "color": null, "city": null}}
+{"message": "یک عدد تلویزیون شیائومی 43 به رنگ مشکی مرسی", "order": {"product_id": "P3003", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "می‌خواستم یک عدد تی وی شیائومی ۴۳ اینچ سفارش بدم، آدرسم کرجه ممنون", "order": {"product_id": "P3003", "quantity": 1, "color": null, "city": "کرج"}}
+{"message": "سلام، موجوده تلویزیون ال‌جی 55؟ اگه هست دو عدد برام بذارید آدرسم اهوازه، سپاس", "order": {"product_id": "P3001", "quantity": 2, "color": null, "city": "اهواز"}}
+{"message": "درود، موجوده MacBook Air؟ اگه هست یه برام بذارید تحویل در اصفهان مرسی", "order": {"product_id": "P2003", "quantity": 1, "color": null, "city": "اصفهان"}}
+{"message": "می‌خواستم 1 عدد شیائومی پوکو X7 سفارش بدم، رنگ زرد تحویل در آمل مرسی", "order": {"product_id": "P1004", "quantity": 1, "color": "زرد", "city": "آمل"}}
+{"message": "درود، می‌خواستم 5 تا پوکو X7 سفارش بدم، زرد رنگ، سپاس", "order": {"product_id": "P1004", "quantity": 5, "color": "زرد", "city": null}}
+{"message": "یه سفارش داشتم: یک عدد لپ‌تاپ ایسوس ویووبوک نقره‌ای به مقصد قزوین مرسی", "order": {"product_id": "P2002", "quantity": 1, "color": "نقره‌ای", "city": "قزوین"}}
+{"message": "سلام وقت بخیر، MacBook Air رنگ خاکستری دارید؟ یه دونه لازم دارم", "order": {"product_id": "P2003", "quantity": 1, "color": "خاکستری", "city": null}}
+{"message": "چهار عدد تی وی شیائومی ۴۳ اینچ به رنگ مشکی آدرسم اصفهانه", "order": {"product_id": "P3003", "quantity": 4, "color": "مشکی", "city": "اصفهان"}}
+{"message": "سلام وقت بخیر، موجوده لپ‌تاپ لنوو IdeaPad؟ اگه هست چهار عدد به رنگ خاکستری برام بذارید به مقصد کرج", "order": {"product_id": "P2001", "quantity": 4, "color": "خاکستری", "city": "کرج"}}
+{"message": "لطفاً 4 تا IdeaPad Slim 3 بفرستید لطفاً", "order": {"product_id": "P2001", "quantity": 4, "color": null, "city": null}}
+{"message": "۵ تا لباسشویی سامسونگ نقره‌ای رنگ می‌خوام ارسال به کرج مرسی", "order": {"product_id": "P4002", "quantity": 5, "color": "نقره‌ای", "city": "کرج"}}
+{"message": "سلام وقت بخیر، گوشی نوکیا G42 دارید؟ 5 تا لازم دارم", "order": {"product_id": "P1006", "quantity": 5, "color": null, "city": null}}
+{"message": "2 تا گلکسی S24 FE مشکی", "order": {"product_id": "P1002", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "پنج تا تلویزیون ۵۵ اینچ ال جی رنگ مشکی تحویل در زنجان مرسی", "order": {"product_id": "P3001", "quantity": 5, "color": "مشکی", "city": "زنجان"}}
+{"message": "ببخشید، یه سفارش داشتم: سه عدد ویووبوک 15، سپاس", "order": {"product_id": "P2002", "quantity": 3, "color": null, "city": null}}
+{"message": "سلام وقت بخیر، می‌خواستم یه iPhone 16 سفارش بدم، آدرسم ساریه لطفاً", "order": {"product_id": "P1005", "quantity": 1, "color": null, "city": "ساری"}}
+{"message": "لطفاً 2 تا شارژر ۶۵ وات انکر رنگ سفید ارسال به گرگان بفرستید، سپاس", "order": {"product_id": "P5004", "quantity": 2, "color": "سفید", "city": "گرگان"}}
+{"message": "لطفاً ۳ تا گلکسی S24 FE به مقصد یزد بفرستید مرسی", "order": {"product_id": "P1002", "quantity": 3, "color": null, "city": "یزد"}}
+{"message": "موجوده WH-1000XM5؟ اگه هست 1 عدد نقره‌ای رنگ برام بذارید ارسال به قم ممنون", "order": {"product_id": "P5001", "quantity": 1, "color": "نقره‌ای", "city": "قم"}}
+{"message": "درود، به مقصد اصفهان 2 تا شیائومی نوت 14 پرو بنفش رنگ ثبت کنید، سپاس", "order": {"product_id": "P1003", "quantity": 2, "color": "بنفش", "city": "اصفهان"}}
+{"message": "درود، سه تا اس ۲۴ اف ای مشکی", "order": {"product_id": "P1002", "quantity": 3, "color": "مشکی", "city": null}}
+{"message": "سلام، موجوده پوکو X7؟ اگه هست سه تا زرد برام بذارید تحویل در گرگان، سپاس", "order": {"product_id": "P1004", "quantity": 3, "color": "زرد", "city": "گرگان"}}
+{"message": "موجوده گوشی نوکیا G42؟ اگه هست برام بذارید بفرستید آمل", "order": {"product_id": "P1006", "quantity": 1, "color": null, "city": "آمل"}}
+{"message": "سلام وقت بخیر، دو تا پوکو X7 رنگ مشکی تحویل در همدان ممنون", "order": {"product_id": "P1004", "quantity": 2, "color": "مشکی", "city": "همدان"}}
+{"message": "لطفاً چهار تا تلویزیون ۵۵ اینچ ال جی ارسال به اهواز بفرستید مرسی", "order": {"product_id": "P3001", "quantity": 4, "color": null, "city": "اهواز"}}
+{"message": "موجوده لنوو آیدیاپد؟ اگه هست یک عدد رنگ خاکستری برام بذارید بفرستید گرگان، سپاس", "order": {"product_id": "P2001", "quantity": 1, "color": "خاکستری", "city": "گرگان"}}
+{"message": "تحویل در مشهد دو عدد ردمی بادز 6 به رنگ مشکی ثبت کنید", "order": {"product_id": "P5002", "quantity": 2, "color": "مشکی", "city": "مشهد"}}
+{"message": "سلام، 1 عدد تلویزیون سامسونگ 65 رنگ مشکی می‌خوام لطفاً", "order": {"product_id": "P3002", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "می‌خواستم 3 تا پوکو X7 سفارش بدم، مشکی رنگ تحویل در قزوین، سپاس", "order": {"product_id": "P1004", "quantity": 3, "color": "مشکی", "city": "قزوین"}}
+{"message": "سلام وقت بخیر، می‌خواستم پنج تا گلکسی A55 سفارش بدم، به رنگ مشکی لطفاً", "order": {"product_id": "P1001", "quantity": 5, "color": "مشکی", "city": null}}
+{"message": "می‌خواستم ۲ تا کولر گازی گری سفارش بدم، برای کرمان، سپاس", "order": {"product_id": "P4004", "quantity": 2, "color": null, "city": "کرمان"}}
+{"message": "یه سفارش داشتم: 3 تا سامسونگ A55 تحویل در ارومیه مرسی", "order": {"product_id": "P1001", "quantity": 3, "color": null, "city": "ارومیه"}}
+{"message": "چهار تا تی وی شیائومی ۴۳ اینچ می‌خوام به مقصد رشت مرسی", "order": {"product_id": "P3003", "quantity": 4, "color": null, "city": "رشت"}}
+{"message": "ببخشید، موجوده هدفون سونی XM5؟ اگه هست دو تا به رنگ نقره‌ای برام بذارید", "order": {"product_id": "P5001", "quantity": 2, "color": "نقره‌ای", "city": null}}
+{"message": "ببخشید، لطفاً ۲ عدد مک بوک ایر M3 به مقصد شیراز بفرستید ممنون", "order": {"product_id": "P2003", "quantity": 2, "color": null, "city": "شیراز"}}
+{"message": "یه سفارش داشتم: پنج عدد هندزفری ردمی بادز ۶ به رنگ مشکی برای همدان", "order": {"product_id": "P5002", "quantity": 5, "color": "مشکی", "city": "همدان"}}
+{"message": "درود، یه سفارش داشتم: دو عدد تی وی شیائومی ۴۳ اینچ به رنگ مشکی لطفاً", "order": {"product_id": "P3003", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "شارژر انکر سفید دارید؟ دو عدد لازم دارم برای آمل ممنون", "order": {"product_id": "P5004", "quantity": 2, "color": "سفید", "city": "آمل"}}
+{"message": "درود، لطفاً ۱ عدد گوشی نوکیا G42 بفرستید تبریز بفرستید", "order": {"product_id": "P1006", "quantity": 1, "color": null, "city": "تبریز"}}
+{"message": "ببخشید، یک عدد گلکسی واچ 7 نقره‌ای ثبت کنید لطفاً", "order": {"product_id": "P5003", "quantity": 1, "color": "نقره‌ای", "city": null}}
+{"message": "می‌خواستم ۲ تا گوشی نوکیا G42 سفارش بدم ممنون", "order": {"product_id": "P1006", "quantity": 2, "color": null, "city": null}}
+{"message": "سلام، دو عدد نوکیا G42 رنگ خاکستری ارسال به قم لطفاً", "order": {"product_id": "P1006", "quantity": 2, "color": "خاکستری", "city": "قم"}}
+{"message": "سلام، موجوده گوشی نوکیا G42؟ اگه هست دو عدد رنگ خاکستری برام بذارید ممنون", "order": {"product_id": "P1006", "quantity": 2, "color": "خاکستری", "city": null}}
+{"message": "درود، یه سفارش داشتم: 2 تا لپ‌تاپ گیمینگ ایسوس TUF بفرستید گرگان، سپاس", "order": {"product_id": "P2004", "quantity": 2, "color": null, "city": "گرگان"}}
+{"message": "لباسشویی سامسونگ سفید دارید؟ ۲ عدد لازم دارم ارسال به اراک، سپاس", "order": {"product_id": "P4002", "quantity": 2, "color": "سفید", "city": "اراک"}}
+{"message": "ببخشید، موجوده مک بوک ایر M3؟ اگه هست برام بذارید برای رشت ممنون", "order": {"product_id": "P2003", "quantity": 1, "color": null, "city": "رشت"}}
+{"message": "درود، نوکیا G42 دارید؟ ۲ تا لازم دارم", "order": {"product_id": "P1006", "quantity": 2, "color": null, "city": null}}
+{"message": "یک ماشین لباسشویی ۹ کیلویی سامسونگ به رنگ سفید می‌خوام بفرستید قم لطفاً", "order": {"product_id": "P4002", "quantity": 1, "color": "سفید", "city": "قم"}}
+{"message": "یه سفارش داشتم: لپ‌تاپ گیمینگ ایسوس TUF رنگ مشکی آدرسم ساریه، سپاس", "order": {"product_id": "P2004", "quantity": 1, "color": "مشکی", "city": "ساری"}}
+{"message": "یک مک بوک ایر M3 به رنگ خاکستری ثبت کنید", "order": {"product_id": "P2003", "quantity": 1, "color": "خاکستری", "city": null}}
+{"message": "چهار عدد پاوربانک شیائومی می‌خوام بفرستید تهران لطفاً", "order": {"product_id": "P5005", "quantity": 4, "color": null, "city": "تهران"}}
+{"message": "ببخشید، یه سفارش داشتم: چهار تا ردمی نوت ۱۴ پرو مرسی", "order": {"product_id": "P1003", "quantity": 4, "color": null, "city": null}}
+{"message": "سلام وقت بخیر، به مقصد ساری 4 تا لنوو آیدیاپد خاکستری ثبت کنید لطفاً", "order": {"product_id": "P2001", "quantity": 4, "color": "خاکستری", "city": "ساری"}}
+{"message": "ببخشید، ماشین لباسشویی ۹ کیلویی سامسونگ به مقصد مشهد", "order": {"product_id": "P4002", "quantity": 1, "color": null, "city": "مشهد"}}
+{"message": "ببخشید، دو عدد لباسشویی سامسونگ به رنگ نقره‌ای می‌خوام به مقصد یزد", "order": {"product_id": "P4002", "quantity": 2, "color": "نقره‌ای", "city": "یزد"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: 2 تا IdeaPad Slim 3 خاکستری تحویل در ارومیه ممنون", "order": {"product_id": "P2001", "quantity": 2, "color": "خاکستری", "city": "ارومیه"}}
+{"message": "دو تا شیائومی پوکو X7 به رنگ زرد می‌خوام برای یزد ممنون", "order": {"product_id": "P1004", "quantity": 2, "color": "زرد", "city": "یزد"}}
+{"message": "درود، شارژر انکر رنگ سفید دارید؟ لازم دارم به مقصد قزوین مرسی", "order": {"product_id": "P5004", "quantity": 1, "color": "سفید", "city": "قزوین"}}
+{"message": "موجوده پایه دیواری تلویزیون؟ اگه هست دو عدد رنگ مشکی برام بذارید بفرستید قزوین ممنون", "order": {"product_id": "P5006", "quantity": 2, "color": "مشکی", "city": "قزوین"}}
+{"message": "درود، 1 عدد کولر گری ۱۸ هزار رنگ سفید می‌خوام", "order": {"product_id": "P4004", "quantity": 1, "color": "سفید", "city": null}}
+{"message": "سلام، لطفاً گوشی نوکیا G42 بفرستید، سپاس", "order": {"product_id": "P1006", "quantity": 1, "color": null, "city": null}}
+{"message": "لطفاً 4 تا گلکسی واچ 7 بفرستید، سپاس", "order": {"product_id": "P5003", "quantity": 4, "color": null, "city": null}}
+{"message": "می‌خواستم 1 عدد گوشی نوکیا G42 سفارش بدم، تحویل در تهران", "order": {"product_id": "P1006", "quantity": 1, "color": null, "city": "تهران"}}
+{"message": "درود، ۴ تا ساعت سامسونگ واچ ۷ می‌خوام به مقصد رشت مرسی", "order": {"product_id": "P5003", "quantity": 4, "color": null, "city": "رشت"}}
+{"message": "سلام، 1 عدد شیائومی پوکو X7 ارسال به اصفهان", "order": {"product_id": "P1004", "quantity": 1, "color": null, "city": "اصفهان"}}
+{"message": "موجوده مک بوک ایر M3؟ اگه هست یه دونه به رنگ خاکستری برام بذارید ارسال به کرمان", "order": {"product_id": "P2003", "quantity": 1, "color": "خاکستری", "city": "کرمان"}}
+{"message": "درود، یه سفارش داشتم: تی وی شیائومی ۴۳ اینچ مشکی به مقصد زنجان مرسی", "order": {"product_id": "P3003", "quantity": 1, "color": "مشکی", "city": "زنجان"}}
+{"message": "سلام، یه سفارش داشتم: یک لنوو آیدیاپد خاکستری رنگ بفرستید شیراز ممنون", "order": {"product_id": "P2001", "quantity": 1, "color": "خاکستری", "city": "شیراز"}}
+{"message": "ببخشید، 5 تا MacBook Air می‌خوام", "order": {"product_id": "P2003", "quantity": 5, "color": null, "city": null}}
+{"message": "سلام، MacBook Air می‌خوام لطفاً", "order": {"product_id": "P2003", "quantity": 1, "color": null, "city": null}}
+{"message": "یه سفارش داشتم: یه سامسونگ A55", "order": {"product_id": "P1001", "quantity": 1, "color": null, "city": null}}
+{"message": "می‌خواستم ۳ تا گلکسی S24 FE سفارش بدم، بفرستید گرگان لطفاً", "order": {"product_id": "P1002", "quantity": 3, "color": null, "city": "گرگان"}}
+{"message": "درود، 2 تا پوکو X7 مشکی رنگ می‌خوام بفرستید آمل ممنون", "order": {"product_id": "P1004", "quantity": 2, "color": "مشکی", "city": "آمل"}}
+{"message": "درود، ۳ تا مک بوک ایر M3 خاکستری رنگ تحویل در یزد لطفاً", "order": {"product_id": "P2003", "quantity": 3, "color": "خاکستری", "city": "یزد"}}
+{"message": "سلام، یک عدد اس ۲۴ اف ای ثبت کنید لطفاً", "order": {"product_id": "P1002", "quantity": 1, "color": null, "city": null}}
+{"message": "ببخشید، می‌خواستم 4 تا لپ‌تاپ گیمینگ ایسوس TUF سفارش بدم، رنگ مشکی", "order": {"product_id": "P2004", "quantity": 4, "color": "مشکی", "city": null}}
+{"message": "سلام وقت بخیر، ۲ عدد ماشین لباسشویی ۹ کیلویی سامسونگ ارسال به ساری مرسی", "order": {"product_id": "P4002", "quantity": 2, "color": null, "city": "ساری"}}
+{"message": "سلام وقت بخیر، یه کولر گری ۱۸ هزار رنگ سفید می‌خوام ارسال به شیراز ممنون", "order": {"product_id": "P4004", "quantity": 1, "color": "سفید", "city": "شیراز"}}
+{"message": "iPhone 16 تحویل در قم ممنون", "order": {"product_id": "P1005", "quantity": 1, "color": null, "city": "قم"}}
+{"message": "۱ عدد سامسونگ S24 FE سبز می‌خوام ارسال به مشهد، سپاس", "order": {"product_id": "P1002", "quantity": 1, "color": "سبز", "city": "مشهد"}}
+{"message": "ببخشید، موجوده ویووبوک 15؟ اگه هست ۲ تا رنگ نقره‌ای برام بذارید ارسال به مشهد", "order": {"product_id": "P2002", "quantity": 2, "color": "نقره‌ای", "city": "مشهد"}}
+{"message": "سلام وقت بخیر، پنج عدد گوشی A55 رنگ سفید ثبت کنید، سپاس", "order": {"product_id": "P1001", "quantity": 5, "color": "سفید", "city": null}}
+{"message": "1 عدد سامسونگ S24 FE ارسال به اراک", "order": {"product_id": "P1002", "quantity": 1, "color": null, "city": "اراک"}}
+{"message": "سلام، هدفون سونی XM5 رنگ مشکی دارید؟ دو تا لازم دارم بفرستید مشهد لطفاً", "order": {"product_id": "P5001", "quantity": 2, "color": "مشکی", "city": "مشهد"}}
+{"message": "سلام، موجوده تلویزیون سامسونگ 65؟ اگه هست مشکی رنگ برام بذارید تحویل در قزوین لطفاً", "order": {"product_id": "P3002", "quantity": 1, "color": "مشکی", "city": "قزوین"}}
+{"message": "ببخشید، لطفاً ۵ تا براکت تلویزیون ارسال به زنجان بفرستید لطفاً", "order": {"product_id": "P5006", "quantity": 5, "color": null, "city": "زنجان"}}
+{"message": "یه سفارش داشتم: سه عدد هدفون سونی مشکی رنگ بفرستید رشت، سپاس", "order": {"product_id": "P5001", "quantity": 3, "color": "مشکی", "city": "رشت"}}
+{"message": "۲ عدد شارژر ۶۵ وات انکر می‌خوام به مقصد کرج مرسی", "order": {"product_id": "P5004", "quantity": 2, "color": null, "city": "کرج"}}
+{"message": "سلام وقت بخیر، یک شارژر ۶۵ وات انکر به رنگ سفید به مقصد تبریز", "order": {"product_id": "P5004", "quantity": 1, "color": "سفید", "city": "تبریز"}}
+{"message": "ببخشید، ۲ تا ردمی بادز 6 می‌خوام، سپاس", "order": {"product_id": "P5002", "quantity": 2, "color": null, "city": null}}
+{"message": "ببخشید، 5 تا ردمی نوت 14 پرو به رنگ بنفش می‌خوام", "order": {"product_id": "P1003", "quantity": 5, "color": "بنفش", "city": null}}
+{"message": "موجوده پوکو X7؟ اگه هست ۲ تا به رنگ مشکی برام بذارید ارسال به ارومیه، سپاس", "order": {"product_id": "P1004", "quantity": 2, "color": "مشکی", "city": "ارومیه"}}
+{"message": "سلام، می‌خواستم 4 تا لباسشویی سامسونگ سفارش بدم، نقره‌ای بفرستید قزوین ممنون", "order": {"product_id": "P4002", "quantity": 4, "color": "نقره‌ای", "city": "قزوین"}}
+{"message": "ببخشید، به مقصد همدان دو عدد سامسونگ A55 به رنگ سفید ثبت کنید، سپاس", "order": {"product_id": "P1001", "quantity": 2, "color": "سفید", "city": "همدان"}}
+{"message": "گلکسی واچ 7 رنگ سبز دارید؟ 2 تا لازم دارم ممنون", "order": {"product_id": "P5003", "quantity": 2, "color": "سبز", "city": null}}
+{"message": "درود، ایسوس TUF رنگ مشکی دارید؟ 4 تا لازم دارم بفرستید ارومیه", "order": {"product_id": "P2004", "quantity": 4, "color": "مشکی", "city": "ارومیه"}}
+{"message": "سلام وقت بخیر، سه تا لنوو آیدیاپد خاکستری رنگ می‌خوام آدرسم آمله ممنون", "order": {"product_id": "P2001", "quantity": 3, "color": "خاکستری", "city": "آمل"}}
+{"message": "سلام وقت بخیر، ارسال به ارومیه ۲ عدد لنوو آیدیاپد ثبت کنید، سپاس", "order": {"product_id": "P2001", "quantity": 2, "color": null, "city": "ارومیه"}}
+{"message": "لطفاً پنج تا سامسونگ S24 FE به رنگ مشکی تحویل در اصفهان بفرستید لطفاً", "order": {"product_id": "P1002", "quantity": 5, "color": "مشکی", "city": "اصفهان"}}
+{"message": "درود، یه سفارش داشتم: تی‌وی ۶۵ اینچ سامسونگ مشکی رنگ تحویل در اراک", "order": {"product_id": "P3002", "quantity": 1, "color": "مشکی", "city": "اراک"}}
+{"message": "ببخشید، یک عدد لپ‌تاپ گیمینگ ایسوس TUF مشکی به مقصد اصفهان", "order": {"product_id": "P2004", "quantity": 1, "color": "مشکی", "city": "اصفهان"}}
+{"message": "سلام وقت بخیر، موجوده iPhone 16؟ اگه هست پنج عدد صورتی برام بذارید ارسال به تبریز", "order": {"product_id": "P1005", "quantity": 5, "color": "صورتی", "city": "تبریز"}}
+{"message": "لطفاً ۲ تا ردمی بادز 6 به مقصد آمل بفرستید مرسی", "order": {"product_id": "P5002", "quantity": 2, "color": null, "city": "آمل"}}
+{"message": "آدرسم قمه 1 عدد تی‌وی ۶۵ اینچ سامسونگ ثبت کنید", "order": {"product_id": "P3002", "quantity": 1, "color": null, "city": "قم"}}
+{"message": "سلام وقت بخیر، 1 عدد گلکسی A55 به رنگ سفید می‌خوام برای زنجان", "order": {"product_id": "P1001", "quantity": 1, "color": "سفید", "city": "زنجان"}}
+{"message": "دو عدد گلکسی واچ 7 به رنگ سبز می‌خوام لطفاً", "order": {"product_id": "P5003", "quantity": 2, "color": "سبز", "city": null}}
+{"message": "سلام وقت بخیر، یه آیفون 16، سپاس", "order": {"product_id": "P1005", "quantity": 1, "color": null, "city": null}}
+{"message": "درود، گلکسی واچ 7 دارید؟ لازم دارم برای اصفهان", "order": {"product_id": "P5003", "quantity": 1, "color": null, "city": "اصفهان"}}
+{"message": "ببخشید، لطفاً ۱ عدد ویووبوک 15 تحویل در رشت بفرستید مرسی", "order": {"product_id": "P2002", "quantity": 1, "color": null, "city": "رشت"}}
+{"message": "ببخشید، هدفون سونی دارید؟ ۳ تا لازم دارم برای رشت", "order": {"product_id": "P5001", "quantity": 3, "color": null, "city": "رشت"}}
+{"message": "لطفاً ایسوس TUF مشکی رنگ بفرستید کرمان بفرستید", "order": {"product_id": "P2004", "quantity": 1, "color": "مشکی", "city": "کرمان"}}
+{"message": "ببخشید، می‌خواستم ۳ تا لباسشویی سامسونگ سفارش بدم", "order": {"product_id": "P4002", "quantity": 3, "color": null, "city": null}}
+{"message": "ببخشید، پنج عدد گوشی A55 مشکی رنگ بفرستید قم لطفاً", "order": {"product_id": "P1001", "quantity": 5, "color": "مشکی", "city": "قم"}}
+{"message": "سلام، سه عدد لپ‌تاپ گیمینگ ایسوس TUF مشکی لطفاً", "order": {"product_id": "P2004", "quantity": 3, "color": "مشکی", "city": null}}
+{"message": "درود، یه سفارش داشتم: 3 تا پایه دیواری تلویزیون به رنگ مشکی مرسی", "order": {"product_id": "P5006", "quantity": 3, "color": "مشکی", "city": null}}
+{"message": "می‌خواستم 4 تا ساعت سامسونگ واچ ۷ سفارش بدم، به مقصد شیراز مرسی", "order": {"product_id": "P5003", "quantity": 4, "color": null, "city": "شیراز"}}
+{"message": "ببخشید، WH-1000XM5 رنگ نقره‌ای دارید؟ 3 تا لازم دارم تحویل در شیراز لطفاً", "order": {"product_id": "P5001", "quantity": 3, "color": "نقره‌ای", "city": "شیراز"}}
+{"message": "درود، موجوده ردمی بادز 6؟ اگه هست 5 تا سفید برام بذارید", "order": {"product_id": "P5002", "quantity": 5, "color": "سفید", "city": null}}
+{"message": "درود، موجوده لپ‌تاپ ایسوس ویووبوک؟ اگه هست سه تا نقره‌ای رنگ برام بذارید ارسال به بابل لطفاً", "order": {"product_id": "P2002", "quantity": 3, "color": "نقره‌ای", "city": "بابل"}}
+{"message": "سلام، می‌خواستم تلویزیون سامسونگ 65 سفارش بدم، به رنگ مشکی به مقصد ساری", "order": {"product_id": "P3002", "quantity": 1, "color": "مشکی", "city": "ساری"}}
+{"message": "درود، لطفاً یک عدد لپ‌تاپ لنوو IdeaPad خاکستری رنگ تحویل در تبریز بفرستید لطفاً", "order": {"product_id": "P2001", "quantity": 1, "color": "خاکستری", "city": "تبریز"}}
+{"message": "ببخشید، ویووبوک 15 نقره‌ای ارسال به بابل مرسی", "order": {"product_id": "P2002", "quantity": 1, "color": "نقره‌ای", "city": "بابل"}}
+{"message": "سلام، لطفاً لباسشویی سامسونگ سفید رنگ بفرستید ممنون", "order": {"product_id": "P4002", "quantity": 1, "color": "سفید", "city": null}}
+{"message": "ببخشید، هندزفری ردمی بادز ۶ می‌خوام آدرسم کرجه مرسی", "order": {"product_id": "P5002", "quantity": 1, "color": null, "city": "کرج"}}
+{"message": "سامسونگ A55 رنگ آبی دارید؟ یک لازم دارم ارسال به کرج لطفاً", "order": {"product_id": "P1001", "quantity": 1, "color": "آبی", "city": "کرج"}}
+{"message": "درود، لطفاً 2 تا IdeaPad Slim 3 خاکستری رنگ بفرستید شیراز بفرستید، سپاس", "order": {"product_id": "P2001", "quantity": 2, "color": "خاکستری", "city": "شیراز"}}
+{"message": "موجوده هدفون سونی XM5؟ اگه هست پنج تا نقره‌ای رنگ برام بذارید آدرسم ساریه، سپاس", "order": {"product_id": "P5001", "quantity": 5, "color": "نقره‌ای", "city": "ساری"}}
+{"message": "شیائومی پوکو X7 دارید؟ ۳ تا لازم دارم آدرسم زنجانه، سپاس", "order": {"product_id": "P1004", "quantity": 3, "color": null, "city": "زنجان"}}
+{"message": "سلام وقت بخیر، لطفاً دو تا لپ‌تاپ گیمینگ ایسوس TUF به رنگ مشکی تحویل در تهران بفرستید", "order": {"product_id": "P2004", "quantity": 2, "color": "مشکی", "city": "تهران"}}
+{"message": "می‌خواستم یه دونه شیائومی پوکو X7 سفارش بدم لطفاً", "order": {"product_id": "P1004", "quantity": 1, "color": null, "city": null}}
+{"message": "درود، یه سفارش داشتم: سه تا مک بوک ایر M3 خاکستری بفرستید همدان لطفاً", "order": {"product_id": "P2003", "quantity": 3, "color": "خاکستری", "city": "همدان"}}
+{"message": "یه براکت تلویزیون مشکی رنگ بفرستید ارومیه", "order": {"product_id": "P5006", "quantity": 1, "color": "مشکی", "city": "ارومیه"}}
+{"message": "سلام، موجوده ردمی نوت 14 پرو؟ اگه هست سه عدد برام بذارید به مقصد ارومیه ممنون", "order": {"product_id": "P1003", "quantity": 3, "color": null, "city": "ارومیه"}}
+{"message": "سلام، ۲ عدد هدفون سونی XM5 مشکی برای آمل، سپاس", "order": {"product_id": "P5001", "quantity": 2, "color": "مشکی", "city": "آمل"}}
+{"message": "سلام، مک بوک ایر M3 دارید؟ ۲ تا لازم دارم برای همدان لطفاً", "order": {"product_id": "P2003", "quantity": 2, "color": null, "city": "همدان"}}
+{"message": "سلام وقت بخیر، کولر گری ۱۸ هزار به رنگ سفید دارید؟ یه لازم دارم آدرسم همدانه", "order": {"product_id": "P4004", "quantity": 1, "color": "سفید", "city": "همدان"}}
+{"message": "یه سفارش داشتم: یک عدد تلویزیون ال‌جی 55 مشکی رنگ برای آمل لطفاً", "order": {"product_id": "P3001", "quantity": 1, "color": "مشکی", "city": "آمل"}}
+{"message": "سلام وقت بخیر، 5 تا کولر گازی گری می‌خوام بفرستید گرگان ممنون", "order": {"product_id": "P4004", "quantity": 5, "color": null, "city": "گرگان"}}
+{"message": "موجوده ماشین لباسشویی ۹ کیلویی سامسونگ؟ اگه هست ۱ عدد رنگ سفید برام بذارید ارسال به آمل مرسی", "order": {"product_id": "P4002", "quantity": 1, "color": "سفید", "city": "آمل"}}
+{"message": "ببخشید، لطفاً ۱ عدد تلویزیون ال‌جی 55 برای یزد بفرستید لطفاً", "order": {"product_id": "P3001", "quantity": 1, "color": null, "city": "یزد"}}
+{"message": "درود، MacBook Air رنگ خاکستری دارید؟ یه دونه لازم دارم تحویل در زنجان لطفاً", "order": {"product_id": "P2003", "quantity": 1, "color": "خاکستری", "city": "زنجان"}}
+{"message": "ببخشید، پاوربانک شیائومی به رنگ مشکی دارید؟ دو تا لازم دارم به مقصد اراک لطفاً", "order": {"product_id": "P5005", "quantity": 2, "color": "مشکی", "city": "اراک"}}
+{"message": "ببخشید، گلکسی واچ 7 دارید؟ 1 عدد لازم دارم ارسال به تهران", "order": {"product_id": "P5003", "quantity": 1, "color": null, "city": "تهران"}}
+{"message": "سلام وقت بخیر، لطفاً تلویزیون سامسونگ 65 بفرستید، سپاس", "order": {"product_id": "P3002", "quantity": 1, "color": null, "city": null}}
+{"message": "لطفاً دو عدد تلویزیون ال‌جی 55 مشکی تحویل در تبریز بفرستید مرسی", "order": {"product_id": "P3001", "quantity": 2, "color": "مشکی", "city": "تبریز"}}
+{"message": "سلام وقت بخیر، لطفاً تلویزیون شیائومی 43 مشکی تحویل در قزوین بفرستید مرسی", "order": {"product_id": "P3003", "quantity": 1, "color": "مشکی", "city": "قزوین"}}
+{"message": "ببخشید، 2 تا هدفون سونی می‌خوام ارسال به اصفهان مرسی", "order": {"product_id": "P5001", "quantity": 2, "color": null, "city": "اصفهان"}}
+{"message": "سلام، یه سفارش داشتم: ۱ عدد لنوو آیدیاپد ارسال به شیراز", "order": {"product_id": "P2001", "quantity": 1, "color": null, "city": "شیراز"}}
+{"message": "می‌خواستم تی‌وی ۶۵ اینچ سامسونگ سفارش بدم، ارسال به اهواز، سپاس", "order": {"product_id": "P3002", "quantity": 1, "color": null, "city": "اهواز"}}
+{"message": "سلام، گلکسی S24 FE به رنگ مشکی دارید؟ ۴ تا لازم دارم، سپاس", "order": {"product_id": "P1002", "quantity": 4, "color": "مشکی", "city": null}}
+{"message": "ببخشید، یه تلویزیون ال‌جی 55 به مقصد اهواز، سپاس", "order": {"product_id": "P3001", "quantity": 1, "color": null, "city": "اهواز"}}
+{"message": "ببخشید، یه سفارش داشتم: 1 عدد ایسوس TUF مشکی رنگ بفرستید تبریز ممنون", "order": {"product_id": "P2004", "quantity": 1, "color": "مشکی", "city": "تبریز"}}
+{"message": "سلام وقت بخیر، می‌خواستم 4 تا MacBook Air سفارش بدم، به رنگ خاکستری بفرستید شیراز مرسی", "order": {"product_id": "P2003", "quantity": 4, "color": "خاکستری", "city": "شیراز"}}
+{"message": "ببخشید، می‌خواستم دو عدد تلویزیون ۵۵ اینچ ال جی سفارش بدم، مشکی رنگ، سپاس", "order": {"product_id": "P3001", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "ببخشید، موجوده تلویزیون ال‌جی 55؟ اگه هست پنج عدد برام بذارید آدرسم ارومیهه، سپاس", "order": {"product_id": "P3001", "quantity": 5, "color": null, "city": "ارومیه"}}
+{"message": "سلام وقت بخیر، ۵ تا اس ۲۴ اف ای رنگ سبز", "order": {"product_id": "P1002", "quantity": 5, "color": "سبز", "city": null}}
+{"message": "سلام وقت بخیر، چهار تا گوشی نوکیا G42 خاکستری رنگ برای کرمان", "order": {"product_id": "P1006", "quantity": 4, "color": "خاکستری", "city": "کرمان"}}
+{"message": "سلام، ۵ تا IdeaPad Slim 3 خاکستری رنگ می‌خوام به مقصد زنجان لطفاً", "order": {"product_id": "P2001", "quantity": 5, "color": "خاکستری", "city": "زنجان"}}
+{"message": "ببخشید، لطفاً ۵ تا تی وی شیائومی ۴۳ اینچ مشکی برای آمل بفرستید", "order": {"product_id": "P3003", "quantity": 5, "color": "مشکی", "city": "آمل"}}
+{"message": "ارسال به تبریز لنوو آیدیاپد ثبت کنید، سپاس", "order": {"product_id": "P2001", "quantity": 1, "color": null, "city": "تبریز"}}
+{"message": "چهار تا لنوو آیدیاپد خاکستری به مقصد مشهد لطفاً", "order": {"product_id": "P2001", "quantity": 4, "color": "خاکستری", "city": "مشهد"}}
+{"message": "می‌خواستم گوشی نوکیا G42 سفارش بدم", "order": {"product_id": "P1006", "quantity": 1, "color": null, "city": null}}
+{"message": "سلام، بفرستید اصفهان دو تا ردمی بادز 6 ثبت کنید لطفاً", "order": {"product_id": "P5002", "quantity": 2, "color": null, "city": "اصفهان"}}
+{"message": "۲ تا ماشین لباسشویی ۹ کیلویی سامسونگ نقره‌ای رنگ می‌خوام لطفاً", "order": {"product_id": "P4002", "quantity": 2, "color": "نقره‌ای", "city": null}}
+{"message": "سلام، گلکسی A55 دارید؟ ۲ تا لازم دارم آدرسم اهوازه مرسی", "order": {"product_id": "P1001", "quantity": 2, "color": null, "city": "اهواز"}}
+{"message": "موجوده شیائومی پوکو X7؟ اگه هست یک عدد برام بذارید به مقصد ارومیه", "order": {"product_id": "P1004", "quantity": 1, "color": null, "city": "ارومیه"}}
+{"message": "سلام، لطفاً یه دونه گلکسی S24 FE ارسال به شیراز بفرستید، سپاس", "order": {"product_id": "P1002", "quantity": 1, "color": null, "city": "شیراز"}}
+{"message": "لطفاً پنج تا ویووبوک 15 نقره‌ای رنگ آدرسم بابله بفرستید، سپاس", "order": {"product_id": "P2002", "quantity": 5, "color": "نقره‌ای", "city": "بابل"}}
+{"message": "درود، موجوده تلویزیون ۵۵ اینچ ال جی؟ اگه هست یه دونه به رنگ مشکی برام بذارید تحویل در قم لطفاً", "order": {"product_id": "P3001", "quantity": 1, "color": "مشکی", "city": "قم"}}
+{"message": "سه عدد هندزفری ردمی بادز ۶ مشکی بفرستید شیراز، سپاس", "order": {"product_id": "P5002", "quantity": 3, "color": "مشکی", "city": "شیراز"}}
+{"message": "ببخشید، 1 عدد شیائومی نوت 14 پرو می‌خوام بفرستید تبریز مرسی", "order": {"product_id": "P1003", "quantity": 1, "color": null, "city": "تبریز"}}
+{"message": "سلام، کولر گازی گری رنگ سفید دارید؟ ۱ عدد لازم دارم آدرسم مشهده", "order": {"product_id": "P4004", "quantity": 1, "color": "سفید", "city": "مشهد"}}
+{"message": "لپ‌تاپ گیمینگ ایسوس TUF دارید؟ ۲ عدد لازم دارم برای کرمان", "order": {"product_id": "P2004", "quantity": 2, "color": null, "city": "کرمان"}}
+{"message": "موجوده گلکسی واچ 7؟ اگه هست یه دونه سبز برام بذارید برای اهواز مرسی", "order": {"product_id": "P5003", "quantity": 1, "color": "سبز", "city": "اهواز"}}
+{"message": "سلام وقت بخیر، می‌خواستم چهار تا هدفون سونی سفارش بدم، به رنگ مشکی ارسال به اهواز ممنون", "order": {"product_id": "P5001", "quantity": 4, "color": "مشکی", "city": "اهواز"}}
+{"message": "ببخشید، می‌خواستم ۱ عدد تی وی شیائومی ۴۳ اینچ سفارش بدم، مشکی رنگ آدرسم بابله مرسی", "order": {"product_id": "P3003", "quantity": 1, "color": "مشکی", "city": "بابل"}}
+{"message": "درود، لطفاً 4 تا آیفون ۱۶ ارسال به اراک بفرستید مرسی", "order": {"product_id": "P1005", "quantity": 4, "color": null, "city": "اراک"}}
+{"message": "سلام، سه تا تلویزیون سامسونگ 65 می‌خوام", "order": {"product_id": "P3002", "quantity": 3, "color": null, "city": null}}
+{"message": "سلام، یه دونه WH-1000XM5 تحویل در تبریز، سپاس", "order": {"product_id": "P5001", "quantity": 1, "color": null, "city": "تبریز"}}
+{"message": "سلام، موجوده پایه دیواری تلویزیون؟ اگه هست دو تا مشکی رنگ برام بذارید آدرسم همدانه", "order": {"product_id": "P5006", "quantity": 2, "color": "مشکی", "city": "همدان"}}
+{"message": "می‌خواستم کولر گازی گری سفارش بدم، بفرستید اراک", "order": {"product_id": "P4004", "quantity": 1, "color": null, "city": "اراک"}}
+{"message": "سلام وقت بخیر، موجوده تلویزیون ال‌جی 55؟ اگه هست دو تا رنگ مشکی برام بذارید ارسال به شیراز مرسی", "order": {"product_id": "P3001", "quantity": 2, "color": "مشکی", "city": "شیراز"}}
+{"message": "سلام، تحویل در اراک دو تا اس ۲۴ اف ای رنگ مشکی ثبت کنید لطفاً", "order": {"product_id": "P1002", "quantity": 2, "color": "مشکی", "city": "اراک"}}
+{"message": "درود، موجوده لپ‌تاپ گیمینگ ایسوس TUF؟ اگه هست یه دونه برام بذارید به مقصد زنجان", "order": {"product_id": "P2004", "quantity": 1, "color": null, "city": "زنجان"}}
+{"message": "سلام، یه سفارش داشتم: ۴ تا لپ‌تاپ گیمینگ ایسوس TUF تحویل در قزوین", "order": {"product_id": "P2004", "quantity": 4, "color": null, "city": "قزوین"}}
+{"message": "سلام وقت بخیر، می‌خواستم iPhone 16 سفارش بدم، مشکی بفرستید یزد مرسی", "order": {"product_id": "P1005", "quantity": 1, "color": "مشکی", "city": "یزد"}}
+{"message": "سلام، یه دونه پوکو X7 رنگ زرد می‌خوام تحویل در اراک لطفاً", "order": {"product_id": "P1004", "quantity": 1, "color": "زرد", "city": "اراک"}}
+{"message": "ببخشید، یه سفارش داشتم: کولر گری ۱۸ هزار رنگ سفید لطفاً", "order": {"product_id": "P4004", "quantity": 1, "color": "سفید", "city": null}}
+{"message": "سلام، لطفاً ۲ عدد شارژر انکر رنگ سفید بفرستید ارومیه بفرستید، سپاس", "order": {"product_id": "P5004", "quantity": 2, "color": "سفید", "city": "ارومیه"}}
+{"message": "سلام وقت بخیر، لطفاً IdeaPad Slim 3 خاکستری رنگ بفرستید کرج بفرستید مرسی", "order": {"product_id": "P2001", "quantity": 1, "color": "خاکستری", "city": "کرج"}}
+{"message": "یه دونه نوکیا G42 خاکستری رنگ ارسال به گرگان", "order": {"product_id": "P1006", "quantity": 1, "color": "خاکستری", "city": "گرگان"}}
+{"message": "3 تا لنوو آیدیاپد ارسال به قم", "order": {"product_id": "P2001", "quantity": 3, "color": null, "city": "قم"}}
+{"message": "ببخشید، می‌خواستم ۵ تا گوشی نوکیا G42 سفارش بدم، ارسال به آمل ممنون", "order": {"product_id": "P1006", "quantity": 5, "color": null, "city": "آمل"}}
+{"message": "موجوده پاوربانک شیائومی؟ اگه هست دو تا برام بذارید مرسی", "order": {"product_id": "P5005", "quantity": 2, "color": null, "city": null}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: یک تی‌وی ۶۵ اینچ سامسونگ برای یزد", "order": {"product_id": "P3002", "quantity": 1, "color": null, "city": "یزد"}}
+{"message": "درود، موجوده گلکسی A55؟ اگه هست ۲ عدد برام بذارید برای کرمان، سپاس", "order": {"product_id": "P1001", "quantity": 2, "color": null, "city": "کرمان"}}
+{"message": "می‌خواستم ۳ تا ویووبوک 15 سفارش بدم، ارسال به آمل، سپاس", "order": {"product_id": "P2002", "quantity": 3, "color": null, "city": "آمل"}}
+{"message": "سلام وقت بخیر، موجوده گلکسی A55؟ اگه هست یک برام بذارید تحویل در آمل", "order": {"product_id": "P1001", "quantity": 1, "color": null, "city": "آمل"}}
+{"message": "لنوو آیدیاپد دارید؟ 4 تا لازم دارم بفرستید رشت", "order": {"product_id": "P2001", "quantity": 4, "color": null, "city": "رشت"}}
+{"message": "4 تا تی‌وی ۶۵ اینچ سامسونگ مشکی رنگ به مقصد رشت لطفاً", "order": {"product_id": "P3002", "quantity": 4, "color": "مشکی", "city": "رشت"}}
+{"message": "درود، ارسال به ساری 2 تا لپ‌تاپ لنوو IdeaPad ثبت کنید لطفاً", "order": {"product_id": "P2001", "quantity": 2, "color": null, "city": "ساری"}}
+{"message": "۴ تا لباسشویی سامسونگ", "order": {"product_id": "P4002", "quantity": 4, "color": null, "city": null}}
+{"message": "سلام، ارسال به قزوین هدفون سونی رنگ نقره‌ای ثبت کنید مرسی", "order": {"product_id": "P5001", "quantity": 1, "color": "نقره‌ای", "city": "قزوین"}}
+{"message": "سلام وقت بخیر، موجوده براکت تلویزیون؟ اگه هست ۲ تا مشکی برام بذارید ارسال به قزوین لطفاً", "order": {"product_id": "P5006", "quantity": 2, "color": "مشکی", "city": "قزوین"}}
+{"message": "ببخشید، بفرستید بابل یه براکت تلویزیون مشکی ثبت کنید مرسی", "order": {"product_id": "P5006", "quantity": 1, "color": "مشکی", "city": "بابل"}}
+{"message": "ببخشید، برای اهواز چهار عدد ماشین لباسشویی ۹ کیلویی سامسونگ رنگ سفید ثبت کنید مرسی", "order": {"product_id": "P4002", "quantity": 4, "color": "سفید", "city": "اهواز"}}
+{"message": "به مقصد قزوین 4 تا ویووبوک 15 ثبت کنید", "order": {"product_id": "P2002", "quantity": 4, "color": null, "city": "قزوین"}}
+{"message": "گلکسی واچ 7 نقره‌ای رنگ بفرستید کرج مرسی", "order": {"product_id": "P5003", "quantity": 1, "color": "نقره‌ای", "city": "کرج"}}
+{"message": "درود، تلویزیون ال‌جی 55 دارید؟ ۵ تا لازم دارم لطفاً", "order": {"product_id": "P3001", "quantity": 5, "color": null, "city": null}}
+{"message": "سلام، می‌خواستم پنج تا ایسوس TUF سفارش بدم، تحویل در کرمان", "order": {"product_id": "P2004", "quantity": 5, "color": null, "city": "کرمان"}}
+{"message": "سلام وقت بخیر، دو تا لپ‌تاپ لنوو IdeaPad به رنگ خاکستری مرسی", "order": {"product_id": "P2001", "quantity": 2, "color": "خاکستری", "city": null}}
+{"message": "سلام، می‌خواستم چهار تا ماشین لباسشویی ۹ کیلویی سامسونگ سفارش بدم، نقره‌ای برای آمل ممنون", "order": {"product_id": "P4002", "quantity": 4, "color": "نقره‌ای", "city": "آمل"}}
+{"message": "۵ تا تی وی شیائومی ۴۳ اینچ ثبت کنید", "order": {"product_id": "P3003", "quantity": 5, "color": null, "city": null}}
+{"message": "سلام، گوشی A55 رنگ آبی دارید؟ یه دونه لازم دارم به مقصد اهواز، سپاس", "order": {"product_id": "P1001", "quantity": 1, "color": "آبی", "city": "اهواز"}}
+{"message": "سلام وقت بخیر، می‌خواستم 4 تا شیائومی پوکو X7 سفارش بدم، تحویل در مشهد لطفاً", "order": {"product_id": "P1004", "quantity": 4, "color": null, "city": "مشهد"}}
+{"message": "سلام وقت بخیر، می‌خواستم ۲ عدد پایه دیواری تلویزیون سفارش بدم، بفرستید قزوین، سپاس", "order": {"product_id": "P5006", "quantity": 2, "color": null, "city": "قزوین"}}
+{"message": "ببخشید، یه دونه سامسونگ S24 FE به مقصد اراک مرسی", "order": {"product_id": "P1002", "quantity": 1, "color": null, "city": "اراک"}}
+{"message": "ببخشید، 4 تا ساعت سامسونگ واچ ۷ مشکی رنگ برای مشهد ممنون", "order": {"product_id": "P5003", "quantity": 4, "color": "مشکی", "city": "مشهد"}}
+{"message": "سلام، 4 تا اس ۲۴ اف ای می‌خوام ارسال به رشت", "order": {"product_id": "P1002", "quantity": 4, "color": null, "city": "رشت"}}
+{"message": "سلام، می‌خواستم 4 تا لپ‌تاپ لنوو IdeaPad سفارش بدم، به رنگ خاکستری", "order": {"product_id": "P2001", "quantity": 4, "color": "خاکستری", "city": null}}
+{"message": "سلام، موجوده کولر گری ۱۸ هزار؟ اگه هست ۴ تا به رنگ سفید برام بذارید تحویل در تبریز لطفاً", "order": {"product_id": "P4004", "quantity": 4, "color": "سفید", "city": "تبریز"}}
+{"message": "یه IdeaPad Slim 3 می‌خوام به مقصد قم", "order": {"product_id": "P2001", "quantity": 1, "color": null, "city": "قم"}}
+{"message": "تحویل در زنجان ۳ تا ویووبوک 15 به رنگ نقره‌ای ثبت کنید", "order": {"product_id": "P2002", "quantity": 3, "color": "نقره‌ای", "city": "زنجان"}}
+{"message": "سلام، یک عدد MacBook Air به رنگ نقره‌ای لطفاً", "order": {"product_id": "P2003", "quantity": 1, "color": "نقره‌ای", "city": null}}
+{"message": "ببخشید، ۴ تا لپ‌تاپ لنوو IdeaPad ممنون", "order": {"product_id": "P2001", "quantity": 4, "color": null, "city": null}}
+{"message": "ساعت سامسونگ واچ ۷ دارید؟ دو عدد لازم دارم ممنون", "order": {"product_id": "P5003", "quantity": 2, "color": null, "city": null}}
+{"message": "ببخشید، یه سفارش داشتم: 5 تا تلویزیون سامسونگ 65 مشکی رنگ به مقصد تبریز", "order": {"product_id": "P3002", "quantity": 5, "color": "مشکی", "city": "تبریز"}}
+{"message": "آیفون 16 به رنگ مشکی دارید؟ یه لازم دارم برای ارومیه مرسی", "order": {"product_id": "P1005", "quantity": 1, "color": "مشکی", "city": "ارومیه"}}
+{"message": "درود، لطفاً یه دونه تلویزیون شیائومی 43 مشکی بفرستید مرسی", "order": {"product_id": "P3003", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "سلام وقت بخیر، ردمی بادز 6 دارید؟ ۲ عدد لازم دارم", "order": {"product_id": "P5002", "quantity": 2, "color": null, "city": null}}
+{"message": "می‌خواستم گوشی A55 سفارش بدم ممنون", "order": {"product_id": "P1001", "quantity": 1, "color": null, "city": null}}
+{"message": "۲ تا لباسشویی سامسونگ می‌خوام بفرستید اهواز، سپاس", "order": {"product_id": "P4002", "quantity": 2, "color": null, "city": "اهواز"}}
+{"message": "پایه دیواری تلویزیون دارید؟ لازم دارم بفرستید گرگان", "order": {"product_id": "P5006", "quantity": 1, "color": null, "city": "گرگان"}}
+{"message": "درود، ۴ تا ویووبوک 15 می‌خوام مرسی", "order": {"product_id": "P2002", "quantity": 4, "color": null, "city": null}}
+{"message": "موجوده سامسونگ S24 FE؟ اگه هست 5 تا به رنگ سبز برام بذارید آدرسم گرگانه، سپاس", "order": {"product_id": "P1002", "quantity": 5, "color": "سبز", "city": "گرگان"}}
+{"message": "ببخشید، برای قم پنج تا کولر گری ۱۸ هزار به رنگ سفید ثبت کنید", "order": {"product_id": "P4004", "quantity": 5, "color": "سفید", "city": "قم"}}
+{"message": "ببخشید، پنج عدد گلکسی واچ 7 مشکی رنگ آدرسم کرجه، سپاس", "order": {"product_id": "P5003", "quantity": 5, "color": "مشکی", "city": "کرج"}}
+{"message": "سلام، ۲ عدد ساعت سامسونگ واچ ۷ رنگ سبز ممنون", "order": {"product_id": "P5003", "quantity": 2, "color": "سبز", "city": null}}
+{"message": "ببخشید، 4 تا شارژر ۶۵ وات انکر سفید رنگ تحویل در تبریز لطفاً", "order": {"product_id": "P5004", "quantity": 4, "color": "سفید", "city": "تبریز"}}
+{"message": "درود، لطفاً پنج عدد گلکسی واچ 7 تحویل در اصفهان بفرستید", "order": {"product_id": "P5003", "quantity": 5, "color": null, "city": "اصفهان"}}
+{"message": "می‌خواستم ۳ تا iPhone 16 سفارش بدم، تحویل در اهواز", "order": {"product_id": "P1005", "quantity": 3, "color": null, "city": "اهواز"}}
+{"message": "سلام وقت بخیر، دو عدد شارژر ۶۵ وات انکر رنگ سفید می‌خوام بفرستید تبریز لطفاً", "order": {"product_id": "P5004", "quantity": 2, "color": "سفید", "city": "تبریز"}}
+{"message": "ببخشید، موجوده نوکیا G42؟ اگه هست خاکستری برام بذارید بفرستید اصفهان", "order": {"product_id": "P1006", "quantity": 1, "color": "خاکستری", "city": "اصفهان"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: سه عدد مک‌بوک ایر لطفاً", "order": {"product_id": "P2003", "quantity": 3, "color": null, "city": null}}
+{"message": "موجوده کولر گری ۱۸ هزار؟ اگه هست یه سفید برام بذارید ارسال به قم ممنون", "order": {"product_id": "P4004", "quantity": 1, "color": "سفید", "city": "قم"}}
+{"message": "سلام وقت بخیر، آیفون 16 می‌خوام", "order": {"product_id": "P1005", "quantity": 1, "color": null, "city": null}}
+{"message": "چهار تا تلویزیون سامسونگ 65 برای رشت", "order": {"product_id": "P3002", "quantity": 4, "color": null, "city": "رشت"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: 3 تا ردمی نوت 14 پرو رنگ مشکی بفرستید تبریز", "order": {"product_id": "P1003", "quantity": 3, "color": "مشکی", "city": "تبریز"}}
+{"message": "سلام، لطفاً ۵ تا کولر گری ۱۸ هزار سفید بفرستید تبریز بفرستید ممنون", "order": {"product_id": "P4004", "quantity": 5, "color": "سفید", "city": "تبریز"}}
+{"message": "ماشین لباسشویی ۹ کیلویی سامسونگ نقره‌ای رنگ دارید؟ لازم دارم آدرسم قزوینه ممنون", "order": {"product_id": "P4002", "quantity": 1, "color": "نقره‌ای", "city": "قزوین"}}
+{"message": "پنج تا گلکسی A55 بفرستید رشت لطفاً", "order": {"product_id": "P1001", "quantity": 5, "color": null, "city": "رشت"}}
+{"message": "۲ عدد گوشی نوکیا G42 خاکستری ارسال به اراک لطفاً", "order": {"product_id": "P1006", "quantity": 2, "color": "خاکستری", "city": "اراک"}}
+{"message": "لطفاً سامسونگ S24 FE بفرستید لطفاً", "order": {"product_id": "P1002", "quantity": 1, "color": null, "city": null}}
+{"message": "ببخشید، می‌خواستم ۴ تا لپ‌تاپ ایسوس ویووبوک سفارش بدم، تحویل در آمل، سپاس", "order": {"product_id": "P2002", "quantity": 4, "color": null, "city": "آمل"}}
+{"message": "لطفاً ۴ تا گوشی نوکیا G42 تحویل در اراک بفرستید لطفاً", "order": {"product_id": "P1006", "quantity": 4, "color": null, "city": "اراک"}}
+{"message": "می‌خواستم دو عدد گوشی نوکیا G42 سفارش بدم، به رنگ خاکستری مرسی", "order": {"product_id": "P1006", "quantity": 2, "color": "خاکستری", "city": null}}
+{"message": "لطفاً چهار تا هندزفری ردمی بادز ۶ بفرستید", "order": {"product_id": "P5002", "quantity": 4, "color": null, "city": null}}
+{"message": "می‌خواستم ۲ عدد پاوربانک شیائومی سفارش بدم، مشکی آدرسم همدانه مرسی", "order": {"product_id": "P5005", "quantity": 2, "color": "مشکی", "city": "همدان"}}
+{"message": "می‌خواستم یه پاوربانک شیائومی سفارش بدم، مشکی رنگ به مقصد اراک لطفاً", "order": {"product_id": "P5005", "quantity": 1, "color": "مشکی", "city": "اراک"}}
+{"message": "ببخشید، می‌خواستم چهار تا MacBook Air سفارش بدم، تحویل در اصفهان مرسی", "order": {"product_id": "P2003", "quantity": 4, "color": null, "city": "اصفهان"}}
+{"message": "گلکسی A55 رنگ آبی تحویل در گرگان، سپاس", "order": {"product_id": "P1001", "quantity": 1, "color": "آبی", "city": "گرگان"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: تلویزیون شیائومی 43 مشکی رنگ لطفاً", "order": {"product_id": "P3003", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: سه عدد آیفون 16 بفرستید تبریز، سپاس", "order": {"product_id": "P1005", "quantity": 3, "color": null, "city": "تبریز"}}
+{"message": "موجوده لپ‌تاپ لنوو IdeaPad؟ اگه هست یک عدد رنگ خاکستری برام بذارید آدرسم مشهده لطفاً", "order": {"product_id": "P2001", "quantity": 1, "color": "خاکستری", "city": "مشهد"}}
+{"message": "سلام، یه سفارش داشتم: سه عدد ردمی بادز 6 آدرسم اراکه، سپاس", "order": {"product_id": "P5002", "quantity": 3, "color": null, "city": "اراک"}}
+{"message": "می‌خواستم لباسشویی سامسونگ سفارش بدم، رنگ نقره‌ای برای قم", "order": {"product_id": "P4002", "quantity": 1, "color": "نقره‌ای", "city": "قم"}}
+{"message": "سلام، لطفاً چهار تا هدفون سونی به رنگ مشکی بفرستید", "order": {"product_id": "P5001", "quantity": 4, "color": "مشکی", "city": null}}
+{"message": "ببخشید، یه سفارش داشتم: 2 تا گوشی نوکیا G42 به رنگ خاکستری ارسال به گرگان، سپاس", "order": {"product_id": "P1006", "quantity": 2, "color": "خاکستری", "city": "گرگان"}}
+{"message": "می‌خواستم دو تا سامسونگ S24 FE سفارش بدم، رنگ سبز برای گرگان ممنون", "order": {"product_id": "P1002", "quantity": 2, "color": "سبز", "city": "گرگان"}}
+{"message": "پاوربانک شیائومی دارید؟ لازم دارم به مقصد کرج، سپاس", "order": {"product_id": "P5005", "quantity": 1, "color": null, "city": "کرج"}}
+{"message": "می‌خواستم یک عدد ویووبوک 15 سفارش بدم، نقره‌ای رنگ آدرسم زنجانه ممنون", "order": {"product_id": "P2002", "quantity": 1, "color": "نقره‌ای", "city": "زنجان"}}
+{"message": "سلام، ۴ تا لپ‌تاپ ایسوس ویووبوک می‌خوام به مقصد ساری", "order": {"product_id": "P2002", "quantity": 4, "color": null, "city": "ساری"}}
+{"message": "چهار تا شارژر ۶۵ وات انکر سفید می‌خوام ارسال به ساری مرسی", "order": {"product_id": "P5004", "quantity": 4, "color": "سفید", "city": "ساری"}}
+{"message": "سلام وقت بخیر، کولر گازی گری دارید؟ لازم دارم", "order": {"product_id": "P4004", "quantity": 1, "color": null, "city": null}}
+{"message": "لطفاً ۳ تا نوکیا G42 برای شیراز بفرستید", "order": {"product_id": "P1006", "quantity": 3, "color": null, "city": "شیراز"}}
+{"message": "سلام وقت بخیر، 1 عدد پاوربانک شیائومی مشکی می‌خوام", "order": {"product_id": "P5005", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "درود، نوکیا G42 به رنگ خاکستری دارید؟ لازم دارم", "order": {"product_id": "P1006", "quantity": 1, "color": "خاکستری", "city": null}}
+{"message": "می‌خواستم چهار عدد لپ‌تاپ ایسوس ویووبوک سفارش بدم، رنگ نقره‌ای بفرستید آمل", "order": {"product_id": "P2002", "quantity": 4, "color": "نقره‌ای", "city": "آمل"}}
+{"message": "درود، ۱ عدد لپ‌تاپ لنوو IdeaPad ثبت کنید ممنون", "order": {"product_id": "P2001", "quantity": 1, "color": null, "city": null}}
+{"message": "می‌خواستم ۳ تا آیفون 16 سفارش بدم مرسی", "order": {"product_id": "P1005", "quantity": 3, "color": null, "city": null}}
+{"message": "سلام، موجوده گوشی نوکیا G42؟ اگه هست 3 تا برام بذارید برای ساری لطفاً", "order": {"product_id": "P1006", "quantity": 3, "color": null, "city": "ساری"}}
+{"message": "لطفاً ۲ تا شارژر انکر بفرستید اراک بفرستید، سپاس", "order": {"product_id": "P5004", "quantity": 2, "color": null, "city": "اراک"}}
+{"message": "سلام، موجوده IdeaPad Slim 3؟ اگه هست 2 تا برام بذارید بفرستید قم ممنون", "order": {"product_id": "P2001", "quantity": 2, "color": null, "city": "قم"}}
+{"message": "چهار عدد براکت تلویزیون می‌خوام بفرستید ساری، سپاس", "order": {"product_id": "P5006", "quantity": 4, "color": null, "city": "ساری"}}
+{"message": "سلام، ردمی نوت ۱۴ پرو دارید؟ لازم دارم بفرستید کرج مرسی", "order": {"product_id": "P1003", "quantity": 1, "color": null, "city": "کرج"}}
+{"message": "ببخشید، یه سفارش داشتم: پنج عدد ساعت سامسونگ واچ ۷ لطفاً", "order": {"product_id": "P5003", "quantity": 5, "color": null, "city": null}}
+{"message": "سلام وقت بخیر، به مقصد بابل ۱ عدد کولر گری ۱۸ هزار سفید رنگ ثبت کنید مرسی", "order": {"product_id": "P4004", "quantity": 1, "color": "سفید", "city": "بابل"}}
+{"message": "ببخشید، موجوده آیفون 16؟ اگه هست ۳ تا صورتی برام بذارید برای تبریز لطفاً", "order": {"product_id": "P1005", "quantity": 3, "color": "صورتی", "city": "تبریز"}}
+{"message": "سلام، می‌خواستم 5 تا گوشی A55 سفارش بدم، رنگ آبی برای قم", "order": {"product_id": "P1001", "quantity": 5, "color": "آبی", "city": "قم"}}
+{"message": "۵ تا سامسونگ S24 FE می‌خوام برای قم ممنون", "order": {"product_id": "P1002", "quantity": 5, "color": null, "city": "قم"}}
+{"message": "سلام وقت بخیر، 4 تا براکت تلویزیون مشکی ارسال به یزد", "order": {"product_id": "P5006", "quantity": 4, "color": "مشکی", "city": "یزد"}}
+{"message": "می‌خواستم آیفون ۱۶ سفارش بدم، سفید رنگ", "order": {"product_id": "P1005", "quantity": 1, "color": "سفید", "city": null}}
+{"message": "آدرسم شیرازه چهار عدد ماشین لباسشویی ۹ کیلویی سامسونگ رنگ نقره‌ای ثبت کنید، سپاس", "order": {"product_id": "P4002", "quantity": 4, "color": "نقره‌ای", "city": "شیراز"}}
+{"message": "سلام وقت بخیر، سه عدد هدفون سونی نقره‌ای رنگ ممنون", "order": {"product_id": "P5001", "quantity": 3, "color": "نقره‌ای", "city": null}}
+{"message": "سلام وقت بخیر، موجوده ردمی نوت 14 پرو؟ اگه هست ۱ عدد برام بذارید", "order": {"product_id": "P1003", "quantity": 1, "color": null, "city": null}}
+{"message": "آدرسم زنجانه چهار تا نوکیا G42 خاکستری ثبت کنید", "order": {"product_id": "P1006", "quantity": 4, "color": "خاکستری", "city": "زنجان"}}
+{"message": "درود، بفرستید یزد یه تلویزیون ال‌جی 55 ثبت کنید ممنون", "order": {"product_id": "P3001", "quantity": 1, "color": null, "city": "یزد"}}
+{"message": "سلام، 2 تا کولر گازی گری به رنگ سفید آدرسم ساریه", "order": {"product_id": "P4004", "quantity": 2, "color": "سفید", "city": "ساری"}}
+{"message": "سلام وقت بخیر، یه IdeaPad Slim 3 ثبت کنید ممنون", "order": {"product_id": "P2001", "quantity": 1, "color": null, "city": null}}
+{"message": "سلام، ۱ عدد هندزفری ردمی بادز ۶ مشکی رنگ بفرستید زنجان", "order": {"product_id": "P5002", "quantity": 1, "color": "مشکی", "city": "زنجان"}}
+{"message": "درود، لطفاً ۵ تا کولر گری ۱۸ هزار رنگ سفید ارسال به قم بفرستید مرسی", "order": {"product_id": "P4004", "quantity": 5, "color": "سفید", "city": "قم"}}
+{"message": "ببخشید، سه عدد لپ‌تاپ لنوو IdeaPad ممنون", "order": {"product_id": "P2001", "quantity": 3, "color": null, "city": null}}
+{"message": "سلام، موجوده براکت تلویزیون؟ اگه هست ۲ تا مشکی برام بذارید مرسی", "order": {"product_id": "P5006", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "سلام وقت بخیر، 1 عدد ویووبوک 15 ثبت کنید، سپاس", "order": {"product_id": "P2002", "quantity": 1, "color": null, "city": null}}
+{"message": "درود، تحویل در آمل تلویزیون ۵۵ اینچ ال جی مشکی ثبت کنید، سپاس", "order": {"product_id": "P3001", "quantity": 1, "color": "مشکی", "city": "آمل"}}
+{"message": "ببخشید، 2 تا اس ۲۴ اف ای", "order": {"product_id": "P1002", "quantity": 2, "color": null, "city": null}}
+{"message": "سلام، 4 تا کولر گری ۱۸ هزار به رنگ سفید ثبت کنید", "order": {"product_id": "P4004", "quantity": 4, "color": "سفید", "city": null}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: ۳ تا گلکسی واچ 7 به رنگ مشکی", "order": {"product_id": "P5003", "quantity": 3, "color": "مشکی", "city": null}}
+{"message": "موجوده گلکسی واچ 7؟ اگه هست سه عدد نقره‌ای برام بذارید ارسال به ساری", "order": {"product_id": "P5003", "quantity": 3, "color": "نقره‌ای", "city": "ساری"}}
+{"message": "یه دونه پوکو X7 می‌خوام ارسال به آمل مرسی", "order": {"product_id": "P1004", "quantity": 1, "color": null, "city": "آمل"}}
+{"message": "سلام وقت بخیر، لطفاً پنج عدد تی‌وی ۶۵ اینچ سامسونگ بفرستید، سپاس", "order": {"product_id": "P3002", "quantity": 5, "color": null, "city": null}}
+{"message": "اس ۲۴ اف ای سبز دارید؟ ۳ تا لازم دارم ارسال به شیراز", "order": {"product_id": "P1002", "quantity": 3, "color": "سبز", "city": "شیراز"}}
+{"message": "۲ عدد پایه دیواری تلویزیون می‌خوام بفرستید کرج", "order": {"product_id": "P5006", "quantity": 2, "color": null, "city": "کرج"}}
+{"message": "می‌خواستم 3 تا شارژر ۶۵ وات انکر سفارش بدم، برای کرج", "order": {"product_id": "P5004", "quantity": 3, "color": null, "city": "کرج"}}
+{"message": "درود، آیفون 16 سفید رنگ دارید؟ لازم دارم، سپاس", "order": {"product_id": "P1005", "quantity": 1, "color": "سفید", "city": null}}
+{"message": "سلام، می‌خواستم دو عدد گلکسی واچ 7 سفارش بدم، سبز رنگ بفرستید کرج، سپاس", "order": {"product_id": "P5003", "quantity": 2, "color": "سبز", "city": "کرج"}}
+{"message": "سلام، می‌خواستم ۲ عدد MacBook Air سفارش بدم، برای ساری لطفاً", "order": {"product_id": "P2003", "quantity": 2, "color": null, "city": "ساری"}}
+{"message": "سلام وقت بخیر، می‌خواستم ۴ تا لباسشویی سامسونگ سفارش بدم، ارسال به تهران", "order": {"product_id": "P4002", "quantity": 4, "color": null, "city": "تهران"}}
+{"message": "ببخشید، یه سفارش داشتم: ۵ تا براکت تلویزیون مشکی رنگ ارسال به کرمان، سپاس", "order": {"product_id": "P5006", "quantity": 5, "color": "مشکی", "city": "کرمان"}}
+{"message": "ببخشید، می‌خواستم ۱ عدد ساعت سامسونگ واچ ۷ سفارش بدم، رنگ نقره‌ای بفرستید کرمان", "order": {"product_id": "P5003", "quantity": 1, "color": "نقره‌ای", "city": "کرمان"}}
+{"message": "می‌خواستم لپ‌تاپ ایسوس ویووبوک سفارش بدم، ارسال به اراک", "order": {"product_id": "P2002", "quantity": 1, "color": null, "city": "اراک"}}
+{"message": "ببخشید، لطفاً یک تی وی شیائومی ۴۳ اینچ مشکی برای قم بفرستید", "order": {"product_id": "P3003", "quantity": 1, "color": "مشکی", "city": "قم"}}
+{"message": "لطفاً IdeaPad Slim 3 بفرستید لطفاً", "order": {"product_id": "P2001", "quantity": 1, "color": null, "city": null}}
+{"message": "سلام، ارسال به زنجان دو تا کولر گازی گری رنگ سفید ثبت کنید مرسی", "order": {"product_id": "P4004", "quantity": 2, "color": "سفید", "city": "زنجان"}}
+{"message": "سلام وقت بخیر، موجوده مک‌بوک ایر؟ اگه هست 5 تا رنگ نقره‌ای برام بذارید به مقصد یزد ممنون", "order": {"product_id": "P2003", "quantity": 5, "color": "نقره‌ای", "city": "یزد"}}
+{"message": "سلام، IdeaPad Slim 3 خاکستری رنگ دارید؟ 2 تا لازم دارم برای ارومیه، سپاس", "order": {"product_id": "P2001", "quantity": 2, "color": "خاکستری", "city": "ارومیه"}}
+{"message": "سلام، می‌خواستم یک عدد گلکسی واچ 7 سفارش بدم", "order": {"product_id": "P5003", "quantity": 1, "color": null, "city": null}}
+{"message": "سه عدد تلویزیون سامسونگ 65 مشکی می‌خوام آدرسم زنجانه مرسی", "order": {"product_id": "P3002", "quantity": 3, "color": "مشکی", "city": "زنجان"}}
+{"message": "ببخشید، تی‌وی ۶۵ اینچ سامسونگ به رنگ مشکی دارید؟ چهار تا لازم دارم تحویل در آمل، سپاس", "order": {"product_id": "P3002", "quantity": 4, "color": "مشکی", "city": "آمل"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: ۴ تا ساعت سامسونگ واچ ۷ نقره‌ای برای رشت ممنون", "order": {"product_id": "P5003", "quantity": 4, "color": "نقره‌ای", "city": "رشت"}}
+{"message": "درود، لطفاً لپ‌تاپ ایسوس ویووبوک به مقصد اراک بفرستید ممنون", "order": {"product_id": "P2002", "quantity": 1, "color": null, "city": "اراک"}}
+{"message": "لطفاً ۵ تا IdeaPad Slim 3 رنگ خاکستری برای تبریز بفرستید، سپاس", "order": {"product_id": "P2001", "quantity": 5, "color": "خاکستری", "city": "تبریز"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: ۲ عدد ردمی بادز 6 برای آمل ممنون", "order": {"product_id": "P5002", "quantity": 2, "color": null, "city": "آمل"}}
+{"message": "سلام وقت بخیر، موجوده کولر گری ۱۸ هزار؟ اگه هست برام بذارید به مقصد قزوین", "order": {"product_id": "P4004", "quantity": 1, "color": null, "city": "قزوین"}}
+{"message": "پنج عدد تلویزیون شیائومی 43 به رنگ مشکی می‌خوام به مقصد بابل لطفاً", "order": {"product_id": "P3003", "quantity": 5, "color": "مشکی", "city": "بابل"}}
+{"message": "iPhone 16 مشکی رنگ دارید؟ لازم دارم به مقصد گرگان ممنون", "order": {"product_id": "P1005", "quantity": 1, "color": "مشکی", "city": "گرگان"}}
+{"message": "موجوده IdeaPad Slim 3؟ اگه هست دو تا خاکستری رنگ برام بذارید بفرستید بابل ممنون", "order": {"product_id": "P2001", "quantity": 2, "color": "خاکستری", "city": "بابل"}}
+{"message": "سلام، ویووبوک 15 به رنگ نقره‌ای تحویل در شیراز لطفاً", "order": {"product_id": "P2002", "quantity": 1, "color": "نقره‌ای", "city": "شیراز"}}
+{"message": "2 تا ردمی نوت ۱۴ پرو", "order": {"product_id": "P1003", "quantity": 2, "color": null, "city": null}}
+{"message": "درود، ویووبوک 15 نقره‌ای ممنون", "order": {"product_id": "P2002", "quantity": 1, "color": "نقره‌ای", "city": null}}
+{"message": "یه سفارش داشتم: 2 تا گلکسی S24 FE تحویل در ساری", "order": {"product_id": "P1002", "quantity": 2, "color": null, "city": "ساری"}}
+{"message": "ببخشید، لطفاً یه دونه گلکسی S24 FE به رنگ سبز آدرسم ساریه بفرستید", "order": {"product_id": "P1002", "quantity": 1, "color": "سبز", "city": "ساری"}}
+{"message": "سلام، موجوده تلویزیون ۵۵ اینچ ال جی؟ اگه هست 2 تا مشکی برام بذارید بفرستید اصفهان لطفاً", "order": {"product_id": "P3001", "quantity": 2, "color": "مشکی", "city": "اصفهان"}}
+{"message": "سامسونگ S24 FE به رنگ مشکی دارید؟ پنج عدد لازم دارم بفرستید ساری لطفاً", "order": {"product_id": "P1002", "quantity": 5, "color": "مشکی", "city": "ساری"}}
+{"message": "لطفاً ۵ تا براکت تلویزیون مشکی به مقصد زنجان بفرستید ممنون", "order": {"product_id": "P5006", "quantity": 5, "color": "مشکی", "city": "زنجان"}}
+{"message": "سلام وقت بخیر، لطفاً یه شارژر انکر به مقصد کرمان بفرستید ممنون", "order": {"product_id": "P5004", "quantity": 1, "color": null, "city": "کرمان"}}
+{"message": "سلام وقت بخیر، می‌خواستم 3 تا سامسونگ S24 FE سفارش بدم، مشکی تحویل در قم", "order": {"product_id": "P1002", "quantity": 3, "color": "مشکی", "city": "قم"}}
+{"message": "سلام، می‌خواستم ۳ تا ویووبوک 15 سفارش بدم، رنگ نقره‌ای تحویل در قم", "order": {"product_id": "P2002", "quantity": 3, "color": "نقره‌ای", "city": "قم"}}
+{"message": "ببخشید، موجوده تی‌وی ۶۵ اینچ سامسونگ؟ اگه هست چهار تا مشکی برام بذارید به مقصد قم ممنون", "order": {"product_id": "P3002", "quantity": 4, "color": "مشکی", "city": "قم"}}
+{"message": "سلام وقت بخیر، یک ویووبوک 15 ارسال به شیراز لطفاً", "order": {"product_id": "P2002", "quantity": 1, "color": null, "city": "شیراز"}}
+{"message": "درود، گلکسی واچ 7 دارید؟ ۲ تا لازم دارم بفرستید اهواز", "order": {"product_id": "P5003", "quantity": 2, "color": null, "city": "اهواز"}}
+{"message": "کولر گازی گری دارید؟ ۲ عدد لازم دارم برای ساری", "order": {"product_id": "P4004", "quantity": 2, "color": null, "city": "ساری"}}
+{"message": "موجوده IdeaPad Slim 3؟ اگه هست دو تا رنگ خاکستری برام بذارید تحویل در رشت مرسی", "order": {"product_id": "P2001", "quantity": 2, "color": "خاکستری", "city": "رشت"}}
+{"message": "درود، پنج عدد شارژر انکر سفید ثبت کنید لطفاً", "order": {"product_id": "P5004", "quantity": 5, "color": "سفید", "city": null}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: گلکسی S24 FE مرسی", "order": {"product_id": "P1002", "quantity": 1, "color": null, "city": null}}
+{"message": "سلام، می‌خواستم ۴ تا اس ۲۴ اف ای سفارش بدم، مشکی رنگ", "order": {"product_id": "P1002", "quantity": 4, "color": "مشکی", "city": null}}
+{"message": "2 تا تلویزیون ۵۵ اینچ ال جی می‌خوام آدرسم کرجه ممنون", "order": {"product_id": "P3001", "quantity": 2, "color": null, "city": "کرج"}}
+{"message": "4 تا ماشین لباسشویی ۹ کیلویی سامسونگ رنگ سفید برای کرج، سپاس", "order": {"product_id": "P4002", "quantity": 4, "color": "سفید", "city": "کرج"}}
+{"message": "ببخشید، دو عدد تلویزیون ال‌جی 55 مشکی رنگ می‌خوام", "order": {"product_id": "P3001", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "پاوربانک شیائومی دارید؟ 3 تا لازم دارم مرسی", "order": {"product_id": "P5005", "quantity": 3, "color": null, "city": null}}
+{"message": "درود، لطفاً ۴ تا شیائومی پوکو X7 به رنگ زرد بفرستید قم بفرستید، سپاس", "order": {"product_id": "P1004", "quantity": 4, "color": "زرد", "city": "قم"}}
+{"message": "درود، پاوربانک شیائومی مشکی رنگ ارسال به قزوین، سپاس", "order": {"product_id": "P5005", "quantity": 1, "color": "مشکی", "city": "قزوین"}}
+{"message": "ببخشید، لطفاً یه دونه هدفون سونی XM5 مشکی ارسال به تبریز بفرستید لطفاً", "order": {"product_id": "P5001", "quantity": 1, "color": "مشکی", "city": "تبریز"}}
+{"message": "درود، پاوربانک شیائومی مشکی دارید؟ ۳ تا لازم دارم آدرسم همدانه", "order": {"product_id": "P5005", "quantity": 3, "color": "مشکی", "city": "همدان"}}
+{"message": "سلام وقت بخیر، سامسونگ A55 مشکی دارید؟ سه عدد لازم دارم", "order": {"product_id": "P1001", "quantity": 3, "color": "مشکی", "city": null}}
+{"message": "می‌خواستم یه دونه ویووبوک 15 سفارش بدم، به رنگ نقره‌ای برای قم لطفاً", "order": {"product_id": "P2002", "quantity": 1, "color": "نقره‌ای", "city": "قم"}}
+{"message": "یک ساعت سامسونگ واچ ۷ به رنگ مشکی می‌خوام", "order": {"product_id": "P5003", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "سلام وقت بخیر، 1 عدد تلویزیون شیائومی 43 تحویل در گرگان ممنون", "order": {"product_id": "P3003", "quantity": 1, "color": null, "city": "گرگان"}}
+{"message": "سلام وقت بخیر، دو تا پایه دیواری تلویزیون به رنگ مشکی آدرسم تبریزه مرسی", "order": {"product_id": "P5006", "quantity": 2, "color": "مشکی", "city": "تبریز"}}
+{"message": "درود، موجوده ردمی بادز 6؟ اگه هست ۲ تا به رنگ مشکی برام بذارید مرسی", "order": {"product_id": "P5002", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "ببخشید، یه سفارش داشتم: دو تا ساعت سامسونگ واچ ۷ آدرسم قمه مرسی", "order": {"product_id": "P5003", "quantity": 2, "color": null, "city": "قم"}}
+{"message": "ببخشید، شارژر ۶۵ وات انکر می‌خوام برای یزد مرسی", "order": {"product_id": "P5004", "quantity": 1, "color": null, "city": "یزد"}}
+{"message": "درود، ماشین لباسشویی ۹ کیلویی سامسونگ دارید؟ لازم دارم تحویل در کرج، سپاس", "order": {"product_id": "P4002", "quantity": 1, "color": null, "city": "کرج"}}
+{"message": "ببخشید، لپ‌تاپ گیمینگ ایسوس TUF می‌خوام برای اصفهان", "order": {"product_id": "P2004", "quantity": 1, "color": null, "city": "اصفهان"}}
+{"message": "درود، لطفاً مک بوک ایر M3 خاکستری ارسال به اهواز بفرستید مرسی", "order": {"product_id": "P2003", "quantity": 1, "color": "خاکستری", "city": "اهواز"}}
+{"message": "یه سفارش داشتم: ۲ عدد تی وی شیائومی ۴۳ اینچ رنگ مشکی تحویل در اهواز، سپاس", "order": {"product_id": "P3003", "quantity": 2, "color": "مشکی", "city": "اهواز"}}
+{"message": "سلام وقت بخیر، می‌خواستم لپ‌تاپ ایسوس ویووبوک سفارش بدم، نقره‌ای رنگ ارسال به تبریز", "order": {"product_id": "P2002", "quantity": 1, "color": "نقره‌ای", "city": "تبریز"}}
+{"message": "شارژر ۶۵ وات انکر سفید رنگ دارید؟ 1 عدد لازم دارم ارسال به مشهد", "order": {"product_id": "P5004", "quantity": 1, "color": "سفید", "city": "مشهد"}}
+{"message": "ببخشید، شیائومی نوت 14 پرو دارید؟ دو تا لازم دارم بفرستید شیراز مرسی", "order": {"product_id": "P1003", "quantity": 2, "color": null, "city": "شیراز"}}
+{"message": "موجوده گوشی نوکیا G42؟ اگه هست یه خاکستری رنگ برام بذارید ارسال به بابل ممنون", "order": {"product_id": "P1006", "quantity": 1, "color": "خاکستری", "city": "بابل"}}
+{"message": "درود، یه کولر گازی گری رنگ سفید ثبت کنید ممنون", "order": {"product_id": "P4004", "quantity": 1, "color": "سفید", "city": null}}
+{"message": "سلام، شارژر ۶۵ وات انکر به رنگ سفید می‌خوام، سپاس", "order": {"product_id": "P5004", "quantity": 1, "color": "سفید", "city": null}}
+{"message": "سلام وقت بخیر، کولر گری ۱۸ هزار سفید دارید؟ ۱ عدد لازم دارم آدرسم آمله مرسی", "order": {"product_id": "P4004", "quantity": 1, "color": "سفید", "city": "آمل"}}
+{"message": "4 تا کولر گازی گری سفید رنگ ارسال به ارومیه ممنون", "order": {"product_id": "P4004", "quantity": 4, "color": "سفید", "city": "ارومیه"}}
+{"message": "سلام، لطفاً ۲ عدد نوکیا G42 برای ارومیه بفرستید ممنون", "order": {"product_id": "P1006", "quantity": 2, "color": null, "city": "ارومیه"}}
+{"message": "درود، ۲ عدد MacBook Air تحویل در اصفهان، سپاس", "order": {"product_id": "P2003", "quantity": 2, "color": null, "city": "اصفهان"}}
+{"message": "۱ عدد تلویزیون شیائومی 43 برای مشهد، سپاس", "order": {"product_id": "P3003", "quantity": 1, "color": null, "city": "مشهد"}}
+{"message": "سلام وقت بخیر، یک پایه دیواری تلویزیون رنگ مشکی می‌خوام ممنون", "order": {"product_id": "P5006", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "ببخشید، یک گلکسی A55 آبی رنگ", "order": {"product_id": "P1001", "quantity": 1, "color": "آبی", "city": null}}
+{"message": "دو تا نوکیا G42 رنگ خاکستری ثبت کنید", "order": {"product_id": "P1006", "quantity": 2, "color": "خاکستری", "city": null}}
+{"message": "سلام وقت بخیر، موجوده مک بوک ایر M3؟ اگه هست ۲ تا به رنگ نقره‌ای برام بذارید آدرسم اصفهانه لطفاً", "order": {"product_id": "P2003", "quantity": 2, "color": "نقره‌ای", "city": "اصفهان"}}
+{"message": "سلام، موجوده گوشی نوکیا G42؟ اگه هست دو تا برام بذارید ارسال به ساری", "order": {"product_id": "P1006", "quantity": 2, "color": null, "city": "ساری"}}
+{"message": "سلام وقت بخیر، لپ‌تاپ لنوو IdeaPad رنگ خاکستری می‌خوام بفرستید قزوین مرسی", "order": {"product_id": "P2001", "quantity": 1, "color": "خاکستری", "city": "قزوین"}}
+{"message": "ببخشید، لطفاً سه تا تی‌وی ۶۵ اینچ سامسونگ بفرستید، سپاس", "order": {"product_id": "P3002", "quantity": 3, "color": null, "city": null}}
+{"message": "درود، یه سفارش داشتم: 1 عدد تی‌وی ۶۵ اینچ سامسونگ به رنگ مشکی لطفاً", "order": {"product_id": "P3002", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "یه سفارش داشتم: ۲ تا تلویزیون شیائومی 43 مشکی رنگ ارسال به مشهد، سپاس", "order": {"product_id": "P3003", "quantity": 2, "color": "مشکی", "city": "مشهد"}}
+{"message": "۲ عدد سامسونگ S24 FE به رنگ مشکی می‌خوام بفرستید زنجان ممنون", "order": {"product_id": "P1002", "quantity": 2, "color": "مشکی", "city": "زنجان"}}
+{"message": "سلام، لنوو آیدیاپد دارید؟ 2 تا لازم دارم بفرستید قزوین", "order": {"product_id": "P2001", "quantity": 2, "color": null, "city": "قزوین"}}
+{"message": "می‌خواستم سه عدد تلویزیون ال‌جی 55 سفارش بدم، برای اراک مرسی", "order": {"product_id": "P3001", "quantity": 3, "color": null, "city": "اراک"}}
+{"message": "یک گلکسی واچ 7 برای قزوین", "order": {"product_id": "P5003", "quantity": 1, "color": null, "city": "قزوین"}}
+{"message": "سلام وقت بخیر، پنج تا WH-1000XM5 برای اصفهان", "order": {"product_id": "P5001", "quantity": 5, "color": null, "city": "اصفهان"}}
+{"message": "2 تا اس ۲۴ اف ای مشکی رنگ می‌خوام به مقصد شیراز ممنون", "order": {"product_id": "P1002", "quantity": 2, "color": "مشکی", "city": "شیراز"}}
+{"message": "سلام، موجوده گوشی نوکیا G42؟ اگه هست رنگ خاکستری برام بذارید لطفاً", "order": {"product_id": "P1006", "quantity": 1, "color": "خاکستری", "city": null}}
+{"message": "درود، یک کولر گری ۱۸ هزار رنگ سفید", "order": {"product_id": "P4004", "quantity": 1, "color": "سفید", "city": null}}
+{"message": "ببخشید، 4 تا گلکسی واچ 7 به مقصد ساری", "order": {"product_id": "P5003", "quantity": 4, "color": null, "city": "ساری"}}
+{"message": "چهار تا سامسونگ S24 FE لطفاً", "order": {"product_id": "P1002", "quantity": 4, "color": null, "city": null}}
+{"message": "درود، ۳ تا کولر گری ۱۸ هزار می‌خوام به مقصد ساری، سپاس", "order": {"product_id": "P4004", "quantity": 3, "color": null, "city": "ساری"}}
+{"message": "سلام، سامسونگ S24 FE مشکی رنگ دارید؟ یه لازم دارم آدرسم اصفهانه، سپاس", "order": {"product_id": "P1002", "quantity": 1, "color": "مشکی", "city": "اصفهان"}}
+{"message": "موجوده تلویزیون شیائومی 43؟ اگه هست ۲ عدد به رنگ مشکی برام بذارید", "order": {"product_id": "P3003", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "2 تا گوشی نوکیا G42 خاکستری ثبت کنید", "order": {"product_id": "P1006", "quantity": 2, "color": "خاکستری", "city": null}}
+{"message": "ارسال به تبریز ۱ عدد لپ‌تاپ گیمینگ ایسوس TUF ثبت کنید", "order": {"product_id": "P2004", "quantity": 1, "color": null, "city": "تبریز"}}
+{"message": "سلام، می‌خواستم ۲ تا تی وی شیائومی ۴۳ اینچ سفارش بدم، مشکی ارسال به رشت مرسی", "order": {"product_id": "P3003", "quantity": 2, "color": "مشکی", "city": "رشت"}}
+{"message": "لطفاً سه عدد پایه دیواری تلویزیون رنگ مشکی بفرستید", "order": {"product_id": "P5006", "quantity": 3, "color": "مشکی", "city": null}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: یک نوکیا G42 تحویل در کرج", "order": {"product_id": "P1006", "quantity": 1, "color": null, "city": "کرج"}}
+{"message": "سلام، یه سفارش داشتم: تی‌وی ۶۵ اینچ سامسونگ مشکی رنگ تحویل در کرمان", "order": {"product_id": "P3002", "quantity": 1, "color": "مشکی", "city": "کرمان"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: 4 تا هدفون سونی رنگ نقره‌ای ممنون", "order": {"product_id": "P5001", "quantity": 4, "color": "نقره‌ای", "city": null}}
+{"message": "سلام، ساعت سامسونگ واچ ۷ نقره‌ای دارید؟ 2 تا لازم دارم", "order": {"product_id": "P5003", "quantity": 2, "color": "نقره‌ای", "city": null}}
+{"message": "تلویزیون ال‌جی 55 مشکی دارید؟ ۲ عدد لازم دارم ارسال به گرگان لطفاً", "order": {"product_id": "P3001", "quantity": 2, "color": "مشکی", "city": "گرگان"}}
+{"message": "درود، هندزفری ردمی بادز ۶ سفید رنگ، سپاس", "order": {"product_id": "P5002", "quantity": 1, "color": "سفید", "city": null}}
+{"message": "درود، دو تا گلکسی A55 سفید رنگ می‌خوام برای کرج مرسی", "order": {"product_id": "P1001", "quantity": 2, "color": "سفید", "city": "کرج"}}
+{"message": "موجوده سامسونگ S24 FE؟ اگه هست دو تا برام بذارید تحویل در ساری ممنون", "order": {"product_id": "P1002", "quantity": 2, "color": null, "city": "ساری"}}
+{"message": "یک هدفون سونی XM5 ثبت کنید", "order": {"product_id": "P5001", "quantity": 1, "color": null, "city": null}}
+{"message": "۴ تا لپ‌تاپ لنوو IdeaPad می‌خوام ممنون", "order": {"product_id": "P2001", "quantity": 4, "color": null, "city": null}}
+{"message": "سلام، می‌خواستم 4 تا ویووبوک 15 سفارش بدم، بفرستید آمل، سپاس", "order": {"product_id": "P2002", "quantity": 4, "color": null, "city": "آمل"}}
+{"message": "درود، لطفاً دو عدد شیائومی پوکو X7 بفرستید", "order": {"product_id": "P1004", "quantity": 2, "color": null, "city": null}}
+{"message": "سلام وقت بخیر، می‌خواستم سه عدد پایه دیواری تلویزیون سفارش بدم، مشکی", "order": {"product_id": "P5006", "quantity": 3, "color": "مشکی", "city": null}}
+{"message": "درود، موجوده شیائومی پوکو X7؟ اگه هست رنگ مشکی برام بذارید به مقصد تبریز ممنون", "order": {"product_id": "P1004", "quantity": 1, "color": "مشکی", "city": "تبریز"}}
+{"message": "ببخشید، یه سفارش داشتم: ۲ عدد ردمی نوت ۱۴ پرو لطفاً", "order": {"product_id": "P1003", "quantity": 2, "color": null, "city": null}}
+{"message": "درود، لطفاً ۲ تا هدفون سونی رنگ مشکی بفرستید مرسی", "order": {"product_id": "P5001", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "سه عدد تلویزیون ال‌جی 55 به رنگ مشکی تحویل در قم", "order": {"product_id": "P3001", "quantity": 3, "color": "مشکی", "city": "قم"}}
+{"message": "سلام وقت بخیر، ۴ تا ساعت سامسونگ واچ ۷ رنگ نقره‌ای می‌خوام برای تبریز مرسی", "order": {"product_id": "P5003", "quantity": 4, "color": "نقره‌ای", "city": "تبریز"}}
+{"message": "نوکیا G42 خاکستری رنگ دارید؟ 1 عدد لازم دارم آدرسم کرجه ممنون", "order": {"product_id": "P1006", "quantity": 1, "color": "خاکستری", "city": "کرج"}}
+{"message": "لطفاً 1 عدد تلویزیون شیائومی 43 مشکی رنگ آدرسم زنجانه بفرستید ممنون", "order": {"product_id": "P3003", "quantity": 1, "color": "مشکی", "city": "زنجان"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: 1 عدد IdeaPad Slim 3 خاکستری رنگ", "order": {"product_id": "P2001", "quantity": 1, "color": "خاکستری", "city": null}}
+{"message": "می‌خواستم پنج عدد تی وی شیائومی ۴۳ اینچ سفارش بدم، ارسال به اهواز لطفاً", "order": {"product_id": "P3003", "quantity": 5, "color": null, "city": "اهواز"}}
+{"message": "درود، براکت تلویزیون دارید؟ سه عدد لازم دارم به مقصد گرگان", "order": {"product_id": "P5006", "quantity": 3, "color": null, "city": "گرگان"}}
+{"message": "سلام، دو عدد پایه دیواری تلویزیون می‌خوام مرسی", "order": {"product_id": "P5006", "quantity": 2, "color": null, "city": null}}
+{"message": "برای قزوین ۲ عدد مک بوک ایر M3 نقره‌ای ثبت کنید", "order": {"product_id": "P2003", "quantity": 2, "color": "نقره‌ای", "city": "قزوین"}}
+{"message": "یک لباسشویی سامسونگ", "order": {"product_id": "P4002", "quantity": 1, "color": null, "city": null}}
+{"message": "می‌خواستم لنوو آیدیاپد سفارش بدم، رنگ خاکستری بفرستید گرگان", "order": {"product_id": "P2001", "quantity": 1, "color": "خاکستری", "city": "گرگان"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: سه تا آیفون 16 صورتی بفرستید یزد", "order": {"product_id": "P1005", "quantity": 3, "color": "صورتی", "city": "یزد"}}
+{"message": "سلام وقت بخیر، ردمی بادز 6 دارید؟ یه لازم دارم به مقصد کرج مرسی", "order": {"product_id": "P5002", "quantity": 1, "color": null, "city": "کرج"}}
+{"message": "سامسونگ S24 FE دارید؟ یه لازم دارم برای ساری لطفاً", "order": {"product_id": "P1002", "quantity": 1, "color": null, "city": "ساری"}}
+{"message": "چهار تا تلویزیون ال‌جی 55 مشکی ثبت کنید", "order": {"product_id": "P3001", "quantity": 4, "color": "مشکی", "city": null}}
+{"message": "ببخشید، یک ردمی نوت ۱۴ پرو رنگ بنفش می‌خوام ارسال به قزوین", "order": {"product_id": "P1003", "quantity": 1, "color": "بنفش", "city": "قزوین"}}
+{"message": "پاوربانک ۲۰ هزار شیائومی دارید؟ دو عدد لازم دارم آدرسم بابله", "order": {"product_id": "P5005", "quantity": 2, "color": null, "city": "بابل"}}
+{"message": "درود، ارسال به بابل یک پوکو X7 به رنگ مشکی ثبت کنید مرسی", "order": {"product_id": "P1004", "quantity": 1, "color": "مشکی", "city": "بابل"}}
+{"message": "۱ عدد گوشی A55 رنگ سفید برای ارومیه ممنون", "order": {"product_id": "P1001", "quantity": 1, "color": "سفید", "city": "ارومیه"}}
+{"message": "IdeaPad Slim 3 به رنگ خاکستری دارید؟ لازم دارم آدرسم شیرازه", "order": {"product_id": "P2001", "quantity": 1, "color": "خاکستری", "city": "شیراز"}}
+{"message": "ببخشید، موجوده لپ‌تاپ ایسوس ویووبوک؟ اگه هست 2 تا نقره‌ای برام بذارید لطفاً", "order": {"product_id": "P2002", "quantity": 2, "color": "نقره‌ای", "city": null}}
+{"message": "ببخشید، موجوده ردمی بادز 6؟ اگه هست 4 تا برام بذارید ممنون", "order": {"product_id": "P5002", "quantity": 4, "color": null, "city": null}}
+{"message": "موجوده تلویزیون شیائومی 43؟ اگه هست یک عدد به رنگ مشکی برام بذارید، سپاس", "order": {"product_id": "P3003", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "ببخشید، یه سفارش داشتم: لنوو آیدیاپد بفرستید قم، سپاس", "order": {"product_id": "P2001", "quantity": 1, "color": null, "city": "قم"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: یه شیائومی نوت 14 پرو آدرسم قزوینه ممنون", "order": {"product_id": "P1003", "quantity": 1, "color": null, "city": "قزوین"}}
+{"message": "سلام وقت بخیر، لپ‌تاپ ایسوس ویووبوک دارید؟ یک عدد لازم دارم لطفاً", "order": {"product_id": "P2002", "quantity": 1, "color": null, "city": null}}
+{"message": "ببخشید، موجوده لپ‌تاپ ایسوس ویووبوک؟ اگه هست ۳ تا نقره‌ای برام بذارید آدرسم زنجانه ممنون", "order": {"product_id": "P2002", "quantity": 3, "color": "نقره‌ای", "city": "زنجان"}}
+{"message": "۲ عدد سامسونگ S24 FE مشکی رنگ ارسال به اصفهان ممنون", "order": {"product_id": "P1002", "quantity": 2, "color": "مشکی", "city": "اصفهان"}}
+{"message": "چهار عدد ویووبوک 15 آدرسم کرمانه لطفاً", "order": {"product_id": "P2002", "quantity": 4, "color": null, "city": "کرمان"}}
+{"message": "ببخشید، به مقصد همدان 4 تا گلکسی S24 FE به رنگ مشکی ثبت کنید، سپاس", "order": {"product_id": "P1002", "quantity": 4, "color": "مشکی", "city": "همدان"}}
+{"message": "مک‌بوک ایر دارید؟ دو تا لازم دارم تحویل در همدان", "order": {"product_id": "P2003", "quantity": 2, "color": null, "city": "همدان"}}
+{"message": "سلام وقت بخیر، لطفاً یه گوشی A55 ارسال به آمل بفرستید", "order": {"product_id": "P1001", "quantity": 1, "color": null, "city": "آمل"}}
+{"message": "می‌خواستم یک نوکیا G42 سفارش بدم، ارسال به ارومیه لطفاً", "order": {"product_id": "P1006", "quantity": 1, "color": null, "city": "ارومیه"}}
+{"message": "سلام، لطفاً ۵ تا ماشین لباسشویی ۹ کیلویی سامسونگ به مقصد زنجان بفرستید", "order": {"product_id": "P4002", "quantity": 5, "color": null, "city": "زنجان"}}
+{"message": "لطفاً 4 تا تلویزیون سامسونگ 65 ارسال به ساری بفرستید، سپاس", "order": {"product_id": "P3002", "quantity": 4, "color": null, "city": "ساری"}}
+{"message": "ببخشید، یه سفارش داشتم: ۲ تا ردمی نوت 14 پرو، سپاس", "order": {"product_id": "P1003", "quantity": 2, "color": null, "city": null}}
+{"message": "1 عدد لپ‌تاپ لنوو IdeaPad می‌خوام آدرسم کرجه لطفاً", "order": {"product_id": "P2001", "quantity": 1, "color": null, "city": "کرج"}}
+{"message": "سلام وقت بخیر، ویووبوک 15 نقره‌ای دارید؟ دو تا لازم دارم به مقصد آمل مرسی", "order": {"product_id": "P2002", "quantity": 2, "color": "نقره‌ای", "city": "آمل"}}
+{"message": "یه سفارش داشتم: 5 تا شارژر ۶۵ وات انکر تحویل در کرمان لطفاً", "order": {"product_id": "P5004", "quantity": 5, "color": null, "city": "کرمان"}}
+{"message": "ببخشید، لطفاً شیائومی پوکو X7 به رنگ زرد بفرستید لطفاً", "order": {"product_id": "P1004", "quantity": 1, "color": "زرد", "city": null}}
+{"message": "سلام وقت بخیر، 1 عدد هندزفری ردمی بادز ۶ رنگ سفید تحویل در همدان", "order": {"product_id": "P5002", "quantity": 1, "color": "سفید", "city": "همدان"}}
+{"message": "ببخشید، لطفاً دو عدد تلویزیون ال‌جی 55 بفرستید یزد بفرستید، سپاس", "order": {"product_id": "P3001", "quantity": 2, "color": null, "city": "یزد"}}
+{"message": "درود، می‌خواستم دو تا تلویزیون ۵۵ اینچ ال جی سفارش بدم، رنگ مشکی تحویل در اراک لطفاً", "order": {"product_id": "P3001", "quantity": 2, "color": "مشکی", "city": "اراک"}}
+{"message": "ببخشید، ۲ تا ردمی بادز 6 می‌خوام برای قم، سپاس", "order": {"product_id": "P5002", "quantity": 2, "color": null, "city": "قم"}}
+{"message": "سلام وقت بخیر، 3 تا ساعت سامسونگ واچ ۷ مشکی می‌خوام", "order": {"product_id": "P5003", "quantity": 3, "color": "مشکی", "city": null}}
+{"message": "ببخشید، ۱ عدد ساعت سامسونگ واچ ۷ رنگ سبز بفرستید ارومیه", "order": {"product_id": "P5003", "quantity": 1, "color": "سبز", "city": "ارومیه"}}
+{"message": "چهار تا پایه دیواری تلویزیون مشکی ثبت کنید لطفاً", "order": {"product_id": "P5006", "quantity": 4, "color": "مشکی", "city": null}}
+{"message": "درود، یه سفارش داشتم: یک عدد شیائومی پوکو X7 رنگ زرد مرسی", "order": {"product_id": "P1004", "quantity": 1, "color": "زرد", "city": null}}
+{"message": "می‌خواستم 3 تا ردمی نوت 14 پرو سفارش بدم، رنگ آبی ارسال به قم", "order": {"product_id": "P1003", "quantity": 3, "color": "آبی", "city": "قم"}}
+{"message": "سلام، لطفاً یک هدفون سونی XM5 مشکی رنگ بفرستید مرسی", "order": {"product_id": "P5001", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "درود، پنج عدد تلویزیون سامسونگ 65 ثبت کنید", "order": {"product_id": "P3002", "quantity": 5, "color": null, "city": null}}
+{"message": "لطفاً ۲ تا لنوو آیدیاپد خاکستری به مقصد همدان بفرستید", "order": {"product_id": "P2001", "quantity": 2, "color": "خاکستری", "city": "همدان"}}
+{"message": "موجوده تی وی شیائومی ۴۳ اینچ؟ اگه هست ۲ عدد برام بذارید تحویل در اصفهان مرسی", "order": {"product_id": "P3003", "quantity": 2, "color": null, "city": "اصفهان"}}
+{"message": "سلام، ۲ تا گلکسی S24 FE به رنگ سبز آدرسم تهرانه ممنون", "order": {"product_id": "P1002", "quantity": 2, "color": "سبز", "city": "تهران"}}
+{"message": "ببخشید، موجوده تلویزیون ال‌جی 55؟ اگه هست 1 عدد مشکی رنگ برام بذارید به مقصد قم", "order": {"product_id": "P3001", "quantity": 1, "color": "مشکی", "city": "قم"}}
+{"message": "سلام، تی وی شیائومی ۴۳ اینچ به رنگ مشکی مرسی", "order": {"product_id": "P3003", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "سلام وقت بخیر، یه پوکو X7 به رنگ مشکی ارسال به بابل لطفاً", "order": {"product_id": "P1004", "quantity": 1, "color": "مشکی", "city": "بابل"}}
+{"message": "سلام وقت بخیر، می‌خواستم یه دونه آیفون ۱۶ سفارش بدم، رنگ صورتی بفرستید رشت", "order": {"product_id": "P1005", "quantity": 1, "color": "صورتی", "city": "رشت"}}
+{"message": "سلام وقت بخیر، بفرستید بابل ۱ عدد سامسونگ S24 FE رنگ سبز ثبت کنید، سپاس", "order": {"product_id": "P1002", "quantity": 1, "color": "سبز", "city": "بابل"}}
+{"message": "دو تا هندزفری ردمی بادز ۶ می‌خوام آدرسم ارومیهه", "order": {"product_id": "P5002", "quantity": 2, "color": null, "city": "ارومیه"}}
+{"message": "سلام وقت بخیر، موجوده نوکیا G42؟ اگه هست یک عدد به رنگ خاکستری برام بذارید آدرسم یزده، سپاس", "order": {"product_id": "P1006", "quantity": 1, "color": "خاکستری", "city": "یزد"}}
+{"message": "درود، 4 تا تلویزیون شیائومی 43 به رنگ مشکی می‌خوام به مقصد بابل لطفاً", "order": {"product_id": "P3003", "quantity": 4, "color": "مشکی", "city": "بابل"}}
+{"message": "سلام وقت بخیر، تلویزیون ال‌جی 55 دارید؟ ۱ عدد لازم دارم برای تبریز مرسی", "order": {"product_id": "P3001", "quantity": 1, "color": null, "city": "تبریز"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: پنج عدد پاوربانک شیائومی به رنگ آبی به مقصد همدان ممنون", "order": {"product_id": "P5005", "quantity": 5, "color": "آبی", "city": "همدان"}}
+{"message": "سلام، ۳ تا هدفون سونی XM5 آدرسم قزوینه", "order": {"product_id": "P5001", "quantity": 3, "color": null, "city": "قزوین"}}
+{"message": "سلام، پنج تا تلویزیون ۵۵ اینچ ال جی می‌خوام ارسال به همدان مرسی", "order": {"product_id": "P3001", "quantity": 5, "color": null, "city": "همدان"}}
+{"message": "ببخشید، تلویزیون سامسونگ 65 مشکی رنگ دارید؟ پنج تا لازم دارم ممنون", "order": {"product_id": "P3002", "quantity": 5, "color": "مشکی", "city": null}}
+{"message": "سلام، تلویزیون شیائومی 43 دارید؟ دو عدد لازم دارم ارسال به شیراز", "order": {"product_id": "P3003", "quantity": 2, "color": null, "city": "شیراز"}}
+{"message": "هدفون سونی XM5 مشکی دارید؟ چهار تا لازم دارم بفرستید گرگان ممنون", "order": {"product_id": "P5001", "quantity": 4, "color": "مشکی", "city": "گرگان"}}
+{"message": "سلام وقت بخیر، ۲ عدد پاوربانک شیائومی می‌خوام", "order": {"product_id": "P5005", "quantity": 2, "color": null, "city": null}}
+{"message": "سلام، لطفاً دو عدد پاوربانک شیائومی به رنگ مشکی ارسال به مشهد بفرستید", "order": {"product_id": "P5005", "quantity": 2, "color": "مشکی", "city": "مشهد"}}
+{"message": "درود، 1 عدد IdeaPad Slim 3 به رنگ خاکستری بفرستید بابل", "order": {"product_id": "P2001", "quantity": 1, "color": "خاکستری", "city": "بابل"}}
+{"message": "یک عدد ایسوس TUF به رنگ مشکی می‌خوام", "order": {"product_id": "P2004", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "درود، لطفاً 2 تا گلکسی واچ 7 به مقصد قزوین بفرستید ممنون", "order": {"product_id": "P5003", "quantity": 2, "color": null, "city": "قزوین"}}
+{"message": "درود، بفرستید گرگان سه تا ایسوس TUF به رنگ مشکی ثبت کنید", "order": {"product_id": "P2004", "quantity": 3, "color": "مشکی", "city": "گرگان"}}
+{"message": "می‌خواستم یک عدد iPhone 16 سفارش بدم، رنگ سفید لطفاً", "order": {"product_id": "P1005", "quantity": 1, "color": "سفید", "city": null}}
+{"message": "سلام، لطفاً دو تا کولر گازی گری سفید رنگ آدرسم اصفهانه بفرستید لطفاً", "order": {"product_id": "P4004", "quantity": 2, "color": "سفید", "city": "اصفهان"}}
+{"message": "درود، موجوده ماشین لباسشویی ۹ کیلویی سامسونگ؟ اگه هست برام بذارید تحویل در ارومیه لطفاً", "order": {"product_id": "P4002", "quantity": 1, "color": null, "city": "ارومیه"}}
+{"message": "موجوده لپ‌تاپ ایسوس ویووبوک؟ اگه هست 2 تا نقره‌ای برام بذارید", "order": {"product_id": "P2002", "quantity": 2, "color": "نقره‌ای", "city": null}}
+{"message": "سلام، موجوده ویووبوک 15؟ اگه هست 4 تا برام بذارید به مقصد مشهد، سپاس", "order": {"product_id": "P2002", "quantity": 4, "color": null, "city": "مشهد"}}
+{"message": "درود، سه تا لپ‌تاپ ایسوس ویووبوک می‌خوام برای بابل، سپاس", "order": {"product_id": "P2002", "quantity": 3, "color": null, "city": "بابل"}}
+{"message": "گلکسی واچ 7 دارید؟ یک عدد لازم دارم بفرستید ساری لطفاً", "order": {"product_id": "P5003", "quantity": 1, "color": null, "city": "ساری"}}
+{"message": "سلام وقت بخیر، می‌خواستم ۵ تا گلکسی واچ 7 سفارش بدم، رنگ مشکی آدرسم شیرازه ممنون", "order": {"product_id": "P5003", "quantity": 5, "color": "مشکی", "city": "شیراز"}}
+{"message": "سلام، پایه دیواری تلویزیون رنگ مشکی دارید؟ 4 تا لازم دارم آدرسم قمه لطفاً", "order": {"product_id": "P5006", "quantity": 4, "color": "مشکی", "city": "قم"}}
+{"message": "درود، موجوده شیائومی نوت 14 پرو؟ اگه هست چهار تا برام بذارید مرسی", "order": {"product_id": "P1003", "quantity": 4, "color": null, "city": null}}
+{"message": "ببخشید، موجوده آیفون 16؟ اگه هست صورتی رنگ برام بذارید ارسال به رشت", "order": {"product_id": "P1005", "quantity": 1, "color": "صورتی", "city": "رشت"}}
+{"message": "2 تا ماشین لباسشویی ۹ کیلویی سامسونگ می‌خوام ارسال به تهران ممنون", "order": {"product_id": "P4002", "quantity": 2, "color": null, "city": "تهران"}}
+{"message": "سلام وقت بخیر، دو تا پاوربانک شیائومی مشکی می‌خوام به مقصد رشت مرسی", "order": {"product_id": "P5005", "quantity": 2, "color": "مشکی", "city": "رشت"}}
+{"message": "می‌خواستم شارژر ۶۵ وات انکر سفارش بدم، رنگ سفید", "order": {"product_id": "P5004", "quantity": 1, "color": "سفید", "city": null}}
+{"message": "براکت تلویزیون رنگ مشکی به مقصد شیراز", "order": {"product_id": "P5006", "quantity": 1, "color": "مشکی", "city": "شیراز"}}
+{"message": "ببخشید، موجوده پاوربانک شیائومی؟ اگه هست آبی رنگ برام بذارید ممنون", "order": {"product_id": "P5005", "quantity": 1, "color": "آبی", "city": null}}
+{"message": "درود، تحویل در ساری دو تا ردمی نوت ۱۴ پرو به رنگ مشکی ثبت کنید ممنون", "order": {"product_id": "P1003", "quantity": 2, "color": "مشکی", "city": "ساری"}}
+{"message": "ببخشید، لطفاً IdeaPad Slim 3 رنگ خاکستری ارسال به آمل بفرستید ممنون", "order": {"product_id": "P2001", "quantity": 1, "color": "خاکستری", "city": "آمل"}}
+{"message": "ببخشید، لپ‌تاپ ایسوس ویووبوک دارید؟ یک عدد لازم دارم آدرسم اراکه، سپاس", "order": {"product_id": "P2002", "quantity": 1, "color": null, "city": "اراک"}}
+{"message": "ببخشید، ۳ تا لباسشویی سامسونگ رنگ سفید آدرسم اهوازه، سپاس", "order": {"product_id": "P4002", "quantity": 3, "color": "سفید", "city": "اهواز"}}
+{"message": "سلام وقت بخیر، شیائومی پوکو X7 دارید؟ دو عدد لازم دارم", "order": {"product_id": "P1004", "quantity": 2, "color": null, "city": null}}
+{"message": "سلام وقت بخیر، ۲ تا تی وی شیائومی ۴۳ اینچ مشکی تحویل در آمل", "order": {"product_id": "P3003", "quantity": 2, "color": "مشکی", "city": "آمل"}}
+{"message": "لطفاً پنج تا ردمی نوت ۱۴ پرو ارسال به آمل بفرستید لطفاً", "order": {"product_id": "P1003", "quantity": 5, "color": null, "city": "آمل"}}
+{"message": "لطفاً 3 تا ساعت سامسونگ واچ ۷ بفرستید ممنون", "order": {"product_id": "P5003", "quantity": 3, "color": null, "city": null}}
+{"message": "ببخشید، می‌خواستم ۲ تا نوکیا G42 سفارش بدم، به رنگ خاکستری برای زنجان لطفاً", "order": {"product_id": "P1006", "quantity": 2, "color": "خاکستری", "city": "زنجان"}}
+{"message": "سلام وقت بخیر، ۳ تا تلویزیون ال‌جی 55 مشکی", "order": {"product_id": "P3001", "quantity": 3, "color": "مشکی", "city": null}}
+{"message": "تحویل در ارومیه هندزفری ردمی بادز ۶ مشکی رنگ ثبت کنید مرسی", "order": {"product_id": "P5002", "quantity": 1, "color": "مشکی", "city": "ارومیه"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: سه تا تی وی شیائومی ۴۳ اینچ مشکی رنگ بفرستید اهواز لطفاً", "order": {"product_id": "P3003", "quantity": 3, "color": "مشکی", "city": "اهواز"}}
+{"message": "سلام، ۲ عدد لپ‌تاپ گیمینگ ایسوس TUF لطفاً", "order": {"product_id": "P2004", "quantity": 2, "color": null, "city": null}}
+{"message": "درود، iPhone 16 رنگ مشکی دارید؟ 2 تا لازم دارم ممنون", "order": {"product_id": "P1005", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "سلام وقت بخیر، لطفاً ۵ تا ردمی نوت 14 پرو مشکی رنگ به مقصد اهواز بفرستید مرسی", "order": {"product_id": "P1003", "quantity": 5, "color": "مشکی", "city": "اهواز"}}
+{"message": "درود، تی‌وی ۶۵ اینچ سامسونگ رنگ مشکی دارید؟ یه دونه لازم دارم تحویل در قم مرسی", "order": {"product_id": "P3002", "quantity": 1, "color": "مشکی", "city": "قم"}}
+{"message": "ببخشید، می‌خواستم 3 تا شارژر ۶۵ وات انکر سفارش بدم، سفید رنگ ارسال به آمل مرسی", "order": {"product_id": "P5004", "quantity": 3, "color": "سفید", "city": "آمل"}}
+{"message": "سلام، ردمی بادز 6", "order": {"product_id": "P5002", "quantity": 1, "color": null, "city": null}}
+{"message": "ببخشید، برای رشت چهار تا کولر گازی گری به رنگ سفید ثبت کنید", "order": {"product_id": "P4004", "quantity": 4, "color": "سفید", "city": "رشت"}}
+{"message": "سلام وقت بخیر، می‌خواستم پایه دیواری تلویزیون سفارش بدم مرسی", "order": {"product_id": "P5006", "quantity": 1, "color": null, "city": null}}
+{"message": "سلام وقت بخیر، لطفاً یه دونه WH-1000XM5 مشکی بفرستید ممنون", "order": {"product_id": "P5001", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "سلام، تلویزیون شیائومی 43 دارید؟ ۱ عدد لازم دارم آدرسم تبریزه", "order": {"product_id": "P3003", "quantity": 1, "color": null, "city": "تبریز"}}
+{"message": "ببخشید، سه تا گوشی A55 مشکی رنگ بفرستید قم", "order": {"product_id": "P1001", "quantity": 3, "color": "مشکی", "city": "قم"}}
+{"message": "لطفاً دو تا لپ‌تاپ گیمینگ ایسوس TUF به رنگ مشکی بفرستید مرسی", "order": {"product_id": "P2004", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "موجوده ویووبوک 15؟ اگه هست 3 تا برام بذارید مرسی", "order": {"product_id": "P2002", "quantity": 3, "color": null, "city": null}}
+{"message": "ببخشید، هندزفری ردمی بادز ۶ دارید؟ ۳ تا لازم دارم", "order": {"product_id": "P5002", "quantity": 3, "color": null, "city": null}}
+{"message": "ببخشید، می‌خواستم 1 عدد گلکسی S24 FE سفارش بدم، مشکی رنگ برای اراک لطفاً", "order": {"product_id": "P1002", "quantity": 1, "color": "مشکی", "city": "اراک"}}
+{"message": "درود، بفرستید مشهد ۲ تا پاوربانک شیائومی آبی ثبت کنید", "order": {"product_id": "P5005", "quantity": 2, "color": "آبی", "city": "مشهد"}}
+{"message": "درود، تلویزیون سامسونگ 65 دارید؟ 2 تا لازم دارم لطفاً", "order": {"product_id": "P3002", "quantity": 2, "color": null, "city": null}}
+{"message": "درود، سه عدد سامسونگ A55 رنگ سفید بفرستید شیراز ممنون", "order": {"product_id": "P1001", "quantity": 3, "color": "سفید", "city": "شیراز"}}
+{"message": "درود، لطفاً سه عدد کولر گری ۱۸ هزار سفید رنگ بفرستید لطفاً", "order": {"product_id": "P4004", "quantity": 3, "color": "سفید", "city": null}}
+{"message": "درود، چهار تا گلکسی A55 مشکی می‌خوام به مقصد اراک مرسی", "order": {"product_id": "P1001", "quantity": 4, "color": "مشکی", "city": "اراک"}}
+{"message": "سلام، ۵ تا گلکسی واچ 7 مشکی می‌خوام تحویل در کرج", "order": {"product_id": "P5003", "quantity": 5, "color": "مشکی", "city": "کرج"}}
+{"message": "ببخشید، می‌خواستم یه کولر گری ۱۸ هزار سفارش بدم، برای رشت ممنون", "order": {"product_id": "P4004", "quantity": 1, "color": null, "city": "رشت"}}
+{"message": "ببخشید، لطفاً یه تی وی شیائومی ۴۳ اینچ برای تبریز بفرستید", "order": {"product_id": "P3003", "quantity": 1, "color": null, "city": "تبریز"}}
+{"message": "۱ عدد لپ‌تاپ لنوو IdeaPad می‌خوام آدرسم قزوینه لطفاً", "order": {"product_id": "P2001", "quantity": 1, "color": null, "city": "قزوین"}}
+{"message": "سلام، گلکسی A55 دارید؟ لازم دارم ارسال به همدان لطفاً", "order": {"product_id": "P1001", "quantity": 1, "color": null, "city": "همدان"}}
+{"message": "ببخشید، 5 تا مک بوک ایر M3 ارسال به ساری، سپاس", "order": {"product_id": "P2003", "quantity": 5, "color": null, "city": "ساری"}}
+{"message": "یه سفارش داشتم: یه ردمی نوت ۱۴ پرو بنفش رنگ", "order": {"product_id": "P1003", "quantity": 1, "color": "بنفش", "city": null}}
+{"message": "می‌خواستم یک آیفون ۱۶ سفارش بدم مرسی", "order": {"product_id": "P1005", "quantity": 1, "color": null, "city": null}}
+{"message": "تحویل در بابل یه گلکسی S24 FE ثبت کنید لطفاً", "order": {"product_id": "P1002", "quantity": 1, "color": null, "city": "بابل"}}
+{"message": "ببخشید، لطفاً یه دونه مک بوک ایر M3 نقره‌ای رنگ ارسال به کرمان بفرستید مرسی", "order": {"product_id": "P2003", "quantity": 1, "color": "نقره‌ای", "city": "کرمان"}}
+{"message": "ببخشید، می‌خواستم 5 تا شیائومی نوت 14 پرو سفارش بدم، به رنگ آبی برای تهران لطفاً", "order": {"product_id": "P1003", "quantity": 5, "color": "آبی", "city": "تهران"}}
+{"message": "سلام وقت بخیر، پایه دیواری تلویزیون دارید؟ ۵ تا لازم دارم تحویل در کرمان", "order": {"product_id": "P5006", "quantity": 5, "color": null, "city": "کرمان"}}
+{"message": "1 عدد WH-1000XM5 رنگ نقره‌ای به مقصد اصفهان لطفاً", "order": {"product_id": "P5001", "quantity": 1, "color": "نقره‌ای", "city": "اصفهان"}}
+{"message": "یه سفارش داشتم: سامسونگ A55 ممنون", "order": {"product_id": "P1001", "quantity": 1, "color": null, "city": null}}
+{"message": "ببخشید، موجوده تلویزیون ۵۵ اینچ ال جی؟ اگه هست یک مشکی رنگ برام بذارید لطفاً", "order": {"product_id": "P3001", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "درود، می‌خواستم ۲ عدد تلویزیون شیائومی 43 سفارش بدم، تحویل در تهران لطفاً", "order": {"product_id": "P3003", "quantity": 2, "color": null, "city": "تهران"}}
+{"message": "سلام وقت بخیر، دو تا گلکسی واچ 7 به رنگ سبز", "order": {"product_id": "P5003", "quantity": 2, "color": "سبز", "city": null}}
+{"message": "سلام، یک ویووبوک 15 نقره‌ای رنگ ثبت کنید لطفاً", "order": {"product_id": "P2002", "quantity": 1, "color": "نقره‌ای", "city": null}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: تی‌وی ۶۵ اینچ سامسونگ به رنگ مشکی آدرسم گرگانه، سپاس", "order": {"product_id": "P3002", "quantity": 1, "color": "مشکی", "city": "گرگان"}}
+{"message": "۳ تا ردمی نوت 14 پرو می‌خوام به مقصد ارومیه لطفاً", "order": {"product_id": "P1003", "quantity": 3, "color": null, "city": "ارومیه"}}
+{"message": "سلام، تحویل در همدان لنوو آیدیاپد به رنگ خاکستری ثبت کنید، سپاس", "order": {"product_id": "P2001", "quantity": 1, "color": "خاکستری", "city": "همدان"}}
+{"message": "سلام، تحویل در اهواز ۵ تا لپ‌تاپ گیمینگ ایسوس TUF ثبت کنید، سپاس", "order": {"product_id": "P2004", "quantity": 5, "color": null, "city": "اهواز"}}
+{"message": "سلام وقت بخیر، برای اصفهان دو تا تلویزیون ۵۵ اینچ ال جی ثبت کنید مرسی", "order": {"product_id": "P3001", "quantity": 2, "color": null, "city": "اصفهان"}}
+{"message": "دو عدد اس ۲۴ اف ای به رنگ سبز تحویل در ارومیه مرسی", "order": {"product_id": "P1002", "quantity": 2, "color": "سبز", "city": "ارومیه"}}
+{"message": "سلام وقت بخیر، می‌خواستم 3 تا براکت تلویزیون سفارش بدم ممنون", "order": {"product_id": "P5006", "quantity": 3, "color": null, "city": null}}
+{"message": "ببخشید، پایه دیواری تلویزیون رنگ مشکی دارید؟ 4 تا لازم دارم ارسال به اراک ممنون", "order": {"product_id": "P5006", "quantity": 4, "color": "مشکی", "city": "اراک"}}
+{"message": "ببخشید، به مقصد قم ردمی نوت ۱۴ پرو آبی رنگ ثبت کنید مرسی", "order": {"product_id": "P1003", "quantity": 1, "color": "آبی", "city": "قم"}}
+{"message": "ببخشید، IdeaPad Slim 3 دارید؟ سه عدد لازم دارم به مقصد زنجان", "order": {"product_id": "P2001", "quantity": 3, "color": null, "city": "زنجان"}}
+{"message": "۲ عدد شارژر انکر سفید رنگ می‌خوام بفرستید اهواز لطفاً", "order": {"product_id": "P5004", "quantity": 2, "color": "سفید", "city": "اهواز"}}
+{"message": "گوشی A55 مشکی رنگ برای قزوین لطفاً", "order": {"product_id": "P1001", "quantity": 1, "color": "مشکی", "city": "قزوین"}}
+{"message": "لپ‌تاپ ایسوس ویووبوک نقره‌ای به مقصد شیراز", "order": {"product_id": "P2002", "quantity": 1, "color": "نقره‌ای", "city": "شیراز"}}
+{"message": "پنج تا شیائومی نوت 14 پرو بنفش تحویل در قم", "order": {"product_id": "P1003", "quantity": 5, "color": "بنفش", "city": "قم"}}
+{"message": "درود، می‌خواستم دو عدد هدفون سونی سفارش بدم، نقره‌ای رنگ ارسال به زنجان", "order": {"product_id": "P5001", "quantity": 2, "color": "نقره‌ای", "city": "زنجان"}}
+{"message": "2 تا شارژر انکر لطفاً", "order": {"product_id": "P5004", "quantity": 2, "color": null, "city": null}}
+{"message": "سلام وقت بخیر، تی وی شیائومی ۴۳ اینچ به رنگ مشکی دارید؟ یک لازم دارم آدرسم گرگانه لطفاً", "order": {"product_id": "P3003", "quantity": 1, "color": "مشکی", "city": "گرگان"}}
+{"message": "درود، لباسشویی سامسونگ رنگ سفید می‌خوام بفرستید اراک لطفاً", "order": {"product_id": "P4002", "quantity": 1, "color": "سفید", "city": "اراک"}}
+{"message": "سلام وقت بخیر، ایسوس TUF دارید؟ لازم دارم ارسال به قزوین، سپاس", "order": {"product_id": "P2004", "quantity": 1, "color": null, "city": "قزوین"}}
+{"message": "موجوده ردمی نوت 14 پرو؟ اگه هست سه تا برام بذارید تحویل در کرمان، سپاس", "order": {"product_id": "P1003", "quantity": 3, "color": null, "city": "کرمان"}}
+{"message": "لطفاً براکت تلویزیون به رنگ مشکی بفرستید، سپاس", "order": {"product_id": "P5006", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "سلام وقت بخیر، یه تی‌وی ۶۵ اینچ سامسونگ می‌خوام بفرستید ارومیه مرسی", "order": {"product_id": "P3002", "quantity": 1, "color": null, "city": "ارومیه"}}
+{"message": "سلام، یک ماشین لباسشویی ۹ کیلویی سامسونگ به رنگ سفید مرسی", "order": {"product_id": "P4002", "quantity": 1, "color": "سفید", "city": null}}
+{"message": "درود، یه سفارش داشتم: یک لنوو آیدیاپد به رنگ خاکستری ارسال به اصفهان", "order": {"product_id": "P2001", "quantity": 1, "color": "خاکستری", "city": "اصفهان"}}
+{"message": "ببخشید، یه سفارش داشتم: ۲ عدد کولر گازی گری بفرستید تهران لطفاً", "order": {"product_id": "P4004", "quantity": 2, "color": null, "city": "تهران"}}
+{"message": "موجوده پاوربانک شیائومی؟ اگه هست سه عدد مشکی رنگ برام بذارید", "order": {"product_id": "P5005", "quantity": 3, "color": "مشکی", "city": null}}
+{"message": "سلام، iPhone 16 به رنگ صورتی می‌خوام، سپاس", "order": {"product_id": "P1005", "quantity": 1, "color": "صورتی", "city": null}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: 4 تا ردمی نوت ۱۴ پرو آبی رنگ به مقصد رشت لطفاً", "order": {"product_id": "P1003", "quantity": 4, "color": "آبی", "city": "رشت"}}
+{"message": "یه سفارش داشتم: یه دونه تلویزیون سامسونگ 65 به رنگ مشکی", "order": {"product_id": "P3002", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "ارسال به کرمان ۲ عدد آیفون ۱۶ مشکی رنگ ثبت کنید", "order": {"product_id": "P1005", "quantity": 2, "color": "مشکی", "city": "کرمان"}}
+{"message": "سلام، ارسال به ارومیه ۲ عدد آیفون 16 ثبت کنید مرسی", "order": {"product_id": "P1005", "quantity": 2, "color": null, "city": "ارومیه"}}
+{"message": "سلام وقت بخیر، موجوده سامسونگ A55؟ اگه هست دو تا آبی برام بذارید به مقصد یزد مرسی", "order": {"product_id": "P1001", "quantity": 2, "color": "آبی", "city": "یزد"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: شیائومی پوکو X7 آدرسم اراکه ممنون", "order": {"product_id": "P1004", "quantity": 1, "color": null, "city": "اراک"}}
+{"message": "سلام وقت بخیر، می‌خواستم یک ساعت سامسونگ واچ ۷ سفارش بدم، به رنگ سبز بفرستید یزد ممنون", "order": {"product_id": "P5003", "quantity": 1, "color": "سبز", "city": "یزد"}}
+{"message": "دو تا لنوو آیدیاپد به رنگ خاکستری ارسال به مشهد ممنون", "order": {"product_id": "P2001", "quantity": 2, "color": "خاکستری", "city": "مشهد"}}
+{"message": "سلام وقت بخیر، لطفاً 5 تا گوشی نوکیا G42 خاکستری رنگ بفرستید لطفاً", "order": {"product_id": "P1006", "quantity": 5, "color": "خاکستری", "city": null}}
+{"message": "سلام، موجوده ماشین لباسشویی ۹ کیلویی سامسونگ؟ اگه هست برام بذارید برای یزد", "order": {"product_id": "P4002", "quantity": 1, "color": null, "city": "یزد"}}
+{"message": "سلام وقت بخیر، یه سفارش داشتم: ۲ عدد سامسونگ A55 به مقصد آمل", "order": {"product_id": "P1001", "quantity": 2, "color": null, "city": "آمل"}}
+{"message": "درود، کولر گازی گری سفید رنگ دارید؟ پنج تا لازم دارم مرسی", "order": {"product_id": "P4004", "quantity": 5, "color": "سفید", "city": null}}
+{"message": "سلام، یه سفارش داشتم: دو عدد تلویزیون سامسونگ 65 مشکی، سپاس", "order": {"product_id": "P3002", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "سلام، یه سفارش داشتم: 3 تا ردمی نوت ۱۴ پرو لطفاً", "order": {"product_id": "P1003", "quantity": 3, "color": null, "city": null}}
+{"message": "می‌خواستم 2 تا تلویزیون شیائومی 43 سفارش بدم، تحویل در مشهد", "order": {"product_id": "P3003", "quantity": 2, "color": null, "city": "مشهد"}}
+{"message": "سلام، بفرستید آمل WH-1000XM5 ثبت کنید لطفاً", "order": {"product_id": "P5001", "quantity": 1, "color": null, "city": "آمل"}}
+{"message": "سلام وقت بخیر، موجوده ردمی بادز 6؟ اگه هست ۴ تا برام بذارید", "order": {"product_id": "P5002", "quantity": 4, "color": null, "city": null}}
+{"message": "ببخشید، ۵ تا ردمی نوت ۱۴ پرو مشکی رنگ می‌خوام به مقصد یزد، سپاس", "order": {"product_id": "P1003", "quantity": 5, "color": "مشکی", "city": "یزد"}}
+{"message": "ببخشید، موجوده کولر گری ۱۸ هزار؟ اگه هست رنگ سفید برام بذارید آدرسم کرمانه ممنون", "order": {"product_id": "P4004", "quantity": 1, "color": "سفید", "city": "کرمان"}}
+{"message": "سلام، 2 تا پایه دیواری تلویزیون به رنگ مشکی می‌خوام بفرستید رشت، سپاس", "order": {"product_id": "P5006", "quantity": 2, "color": "مشکی", "city": "رشت"}}
+{"message": "ببخشید، ارسال به مشهد ۲ عدد ویووبوک 15 ثبت کنید، سپاس", "order": {"product_id": "P2002", "quantity": 2, "color": null, "city": "مشهد"}}
+{"message": "سلام وقت بخیر، لطفاً پاوربانک ۲۰ هزار شیائومی برای بابل بفرستید ممنون", "order": {"product_id": "P5005", "quantity": 1, "color": null, "city": "بابل"}}
+{"message": "درود، برای اصفهان 2 تا کولر گری ۱۸ هزار ثبت کنید، سپاس", "order": {"product_id": "P4004", "quantity": 2, "color": null, "city": "اصفهان"}}
+{"message": "ببخشید، هدفون سونی XM5 رنگ نقره‌ای دارید؟ سه عدد لازم دارم برای همدان ممنون", "order": {"product_id": "P5001", "quantity": 3, "color": "نقره‌ای", "city": "همدان"}}
+{"message": "لطفاً پاوربانک شیائومی بفرستید", "order": {"product_id": "P5005", "quantity": 1, "color": null, "city": null}}
+{"message": "سلام، گلکسی واچ 7 می‌خوام به مقصد رشت مرسی", "order": {"product_id": "P5003", "quantity": 1, "color": null, "city": "رشت"}}
+{"message": "درود، لطفاً چهار عدد تلویزیون ال‌جی 55 بفرستید", "order": {"product_id": "P3001", "quantity": 4, "color": null, "city": null}}
+{"message": "سلام وقت بخیر، موجوده ایسوس TUF؟ اگه هست ۱ عدد برام بذارید برای گرگان ممنون", "order": {"product_id": "P2004", "quantity": 1, "color": null, "city": "گرگان"}}
+{"message": "آدرسم قزوینه یه ردمی نوت ۱۴ پرو مشکی رنگ ثبت کنید، سپاس", "order": {"product_id": "P1003", "quantity": 1, "color": "مشکی", "city": "قزوین"}}
+{"message": "درود، لطفاً یک WH-1000XM5 مشکی رنگ به مقصد مشهد بفرستید لطفاً", "order": {"product_id": "P5001", "quantity": 1, "color": "مشکی", "city": "مشهد"}}
+{"message": "یک IdeaPad Slim 3 به رنگ خاکستری می‌خوام لطفاً", "order": {"product_id": "P2001", "quantity": 1, "color": "خاکستری", "city": null}}
+{"message": "سلام، یه سفارش داشتم: ۵ تا تی وی شیائومی ۴۳ اینچ ارسال به کرمان، سپاس", "order": {"product_id": "P3003", "quantity": 5, "color": null, "city": "کرمان"}}
+{"message": "یک عدد تلویزیون ۵۵ اینچ ال جی می‌خوام", "order": {"product_id": "P3001", "quantity": 1, "color": null, "city": null}}
+{"message": "ببخشید، می‌خواستم 1 عدد آیفون 16 سفارش بدم، مشکی", "order": {"product_id": "P1005", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "یه سفارش داشتم: یک گوشی نوکیا G42 به رنگ خاکستری ارسال به تبریز ممنون", "order": {"product_id": "P1006", "quantity": 1, "color": "خاکستری", "city": "تبریز"}}
+{"message": "می‌خواستم پنج تا تلویزیون ال‌جی 55 سفارش بدم، به مقصد ارومیه", "order": {"product_id": "P3001", "quantity": 5, "color": null, "city": "ارومیه"}}
+{"message": "ببخشید، یه سفارش داشتم: پنج تا گوشی نوکیا G42 مرسی", "order": {"product_id": "P1006", "quantity": 5, "color": null, "city": null}}
+{"message": "۳ تا IdeaPad Slim 3 رنگ خاکستری بفرستید بابل", "order": {"product_id": "P2001", "quantity": 3, "color": "خاکستری", "city": "بابل"}}
+{"message": "درود، می‌خواستم ۴ تا گوشی نوکیا G42 سفارش بدم، ارسال به همدان لطفاً", "order": {"product_id": "P1006", "quantity": 4, "color": null, "city": "همدان"}}
+{"message": "سلام وقت بخیر، ۱ عدد ایسوس TUF به رنگ مشکی می‌خوام", "order": {"product_id": "P2004", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "درود، دو تا گوشی A55 سفید رنگ ثبت کنید", "order": {"product_id": "P1001", "quantity": 2, "color": "سفید", "city": null}}
+{"message": "ببخشید، یه سفارش داشتم: ۳ تا گوشی نوکیا G42 به رنگ خاکستری لطفاً", "order": {"product_id": "P1006", "quantity": 3, "color": "خاکستری", "city": null}}
+{"message": "یه سفارش داشتم: دو عدد تلویزیون شیائومی 43 رنگ مشکی برای گرگان لطفاً", "order": {"product_id": "P3003", "quantity": 2, "color": "مشکی", "city": "گرگان"}}
+{"message": "می‌خواستم ۲ تا مک بوک ایر M3 سفارش بدم لطفاً", "order": {"product_id": "P2003", "quantity": 2, "color": null, "city": null}}
+{"message": "پنج تا تلویزیون شیائومی 43 رنگ مشکی می‌خوام به مقصد شیراز", "order": {"product_id": "P3003", "quantity": 5, "color": "مشکی", "city": "شیراز"}}
+{"message": "درود، پوکو X7 مشکی رنگ دارید؟ لازم دارم", "order": {"product_id": "P1004", "quantity": 1, "color": "مشکی", "city": null}}
+{"message": "ببخشید، سه عدد ردمی بادز 6 می‌خوام آدرسم تبریزه", "order": {"product_id": "P5002", "quantity": 3, "color": null, "city": "تبریز"}}
+{"message": "سلام، ۳ تا گوشی نوکیا G42 رنگ خاکستری", "order": {"product_id": "P1006", "quantity": 3, "color": "خاکستری", "city": null}}
+{"message": "سلام، شارژر ۶۵ وات انکر رنگ سفید دارید؟ 3 تا لازم دارم لطفاً", "order": {"product_id": "P5004", "quantity": 3, "color": "سفید", "city": null}}
+{"message": "ببخشید، یه سفارش داشتم: سه تا تلویزیون شیائومی 43 آدرسم تهرانه ممنون", "order": {"product_id": "P3003", "quantity": 3, "color": null, "city": "تهران"}}
+{"message": "سلام وقت بخیر، ساعت سامسونگ واچ ۷ به رنگ سبز دارید؟ ۲ عدد لازم دارم برای رشت ممنون", "order": {"product_id": "P5003", "quantity": 2, "color": "سبز", "city": "رشت"}}
+{"message": "ببخشید، دو عدد سامسونگ S24 FE سبز رنگ تحویل در بابل", "order": {"product_id": "P1002", "quantity": 2, "color": "سبز", "city": "بابل"}}
+{"message": "سلام، گوشی نوکیا G42 خاکستری ممنون", "order": {"product_id": "P1006", "quantity": 1, "color": "خاکستری", "city": null}}
+{"message": "درود، یه سفارش داشتم: ۱ عدد پاوربانک ۲۰ هزار شیائومی آبی رنگ به مقصد رشت لطفاً", "order": {"product_id": "P5005", "quantity": 1, "color": "آبی", "city": "رشت"}}
+{"message": "۳ تا لنوو آیدیاپد می‌خوام بفرستید شیراز", "order": {"product_id": "P2001", "quantity": 3, "color": null, "city": "شیراز"}}
+{"message": "موجوده MacBook Air؟ اگه هست سه تا نقره‌ای رنگ برام بذارید تحویل در اهواز", "order": {"product_id": "P2003", "quantity": 3, "color": "نقره‌ای", "city": "اهواز"}}
+{"message": "سلام، موجوده پوکو X7؟ اگه هست برام بذارید، سپاس", "order": {"product_id": "P1004", "quantity": 1, "color": null, "city": null}}
+{"message": "ببخشید، دو تا پوکو X7 می‌خوام ممنون", "order": {"product_id": "P1004", "quantity": 2, "color": null, "city": null}}
+{"message": "سلام، ۲ تا هدفون سونی XM5 رنگ نقره‌ای می‌خوام", "order": {"product_id": "P5001", "quantity": 2, "color": "نقره‌ای", "city": null}}
+{"message": "سلام، یک عدد براکت تلویزیون مشکی می‌خوام برای ساری", "order": {"product_id": "P5006", "quantity": 1, "color": "مشکی", "city": "ساری"}}
+{"message": "موجوده MacBook Air؟ اگه هست یک خاکستری برام بذارید ممنون", "order": {"product_id": "P2003", "quantity": 1, "color": "خاکستری", "city": null}}
+{"message": "موجوده ساعت سامسونگ واچ ۷؟ اگه هست دو تا نقره‌ای برام بذارید برای قم", "order": {"product_id": "P5003", "quantity": 2, "color": "نقره‌ای", "city": "قم"}}
+{"message": "۳ تا تلویزیون شیائومی 43 رنگ مشکی به مقصد ارومیه، سپاس", "order": {"product_id": "P3003", "quantity": 3, "color": "مشکی", "city": "ارومیه"}}
+{"message": "سلام وقت بخیر، سه تا شیائومی پوکو X7 زرد می‌خوام", "order": {"product_id": "P1004", "quantity": 3, "color": "زرد", "city": null}}
+{"message": "درود، لطفاً سامسونگ A55 آبی آدرسم اراکه بفرستید", "order": {"product_id": "P1001", "quantity": 1, "color": "آبی", "city": "اراک"}}
+{"message": "درود، تلویزیون ال‌جی 55 مشکی به مقصد زنجان، سپاس", "order": {"product_id": "P3001", "quantity": 1, "color": "مشکی", "city": "زنجان"}}
+{"message": "درود، یه سفارش داشتم: 2 تا تلویزیون سامسونگ 65 به رنگ مشکی مرسی", "order": {"product_id": "P3002", "quantity": 2, "color": "مشکی", "city": null}}
+{"message": "درود، یه سفارش داشتم: شیائومی پوکو X7 زرد تحویل در مشهد، سپاس", "order": {"product_id": "P1004", "quantity": 1, "color": "زرد", "city": "مشهد"}}
+{"message": "موجوده براکت تلویزیون؟ اگه هست ۱ عدد برام بذارید ارسال به گرگان ممنون", "order": {"product_id": "P5006", "quantity": 1, "color": null, "city": "گرگان"}}

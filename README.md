@@ -1,82 +1,80 @@
-# LLM Engineering and Generative AI Course
+# LLM Engineering Course
 
-Notebooks and slides for a 16-session course on building applications with large language models. Each session is designed for a 90-minute class and has a Jupyter notebook for the hands-on part and a slide deck (PDF and PowerPoint) for the lecture. The explanations in the notebooks and slides are in Persian, with technical terms in English; all code is in English.
+<div dir="rtl">
 
-This is the fifth course in a series, after [Python](https://github.com/keyvanmahmoudi/Python_Course), [Data Science](https://github.com/keyvanmahmoudi/Data_Science_Course), [Machine Learning](https://github.com/keyvanmahmoudi/Machine_Learning_Course) and [Deep Learning](https://github.com/keyvanmahmoudi/Deep_Learning_Course). It starts where the deep learning course ends (Transformers and Hugging Face) and covers working with LLMs through an API, AI-assisted programming, prompt engineering and evaluation, retrieval-augmented generation (RAG), fine-tuning with LoRA, tool calling and agents, and dialogue systems. Most sessions build parts of one running project: an assistant for **Novin Kala**, a fictional Iranian online electronics store.
+دورهٔ **مهندسی مدل‌های زبانی بزرگ (LLM) و برنامه‌نویسی با کمک هوش مصنوعی** به زبان فارسی، برای کسانی که یادگیری عمیق و Transformer را گذرانده‌اند و می‌خواهند با مدل‌های زبانی بزرگ برنامهٔ واقعی بسازند. این دوره ترم پنجم از یک مسیر شش ترمی است و در ۱۶ جلسهٔ ۹۰ دقیقه‌ای، از کار با LLM از طریق API و اجرای مدل‌های متن‌باز با Ollama تا برنامه‌نویسی با دستیار هوش مصنوعی (Vibe Coding)، پرامپت‌نویسی و ارزیابی، RAG روی اسناد فارسی، فاین‌تیون با LoRA، فراخوانی ابزار، ساخت Agent و سیستم‌های دیالوگ را پوشش می‌دهد. بیشتر جلسه‌ها بخشی از یک پروژهٔ پیوسته را می‌سازند: دستیار هوشمند **نوین‌کالا**، یک فروشگاه اینترنتی فرضی.
 
-## Contents
+برای هر جلسه سه فایل وجود دارد:
 
-| # | Session | Topics | Data | Slides |
+- **نوت‌بوک درس** (پوشهٔ `sessions`): توضیحات کامل، مثال‌های قابل اجرا و تمرین‌های پایان جلسه
+- **پاسخ تمرین‌ها** (پوشهٔ `solutions`): پاسخ پیشنهادی هر تمرین
+- **اسلاید** (پوشهٔ `slides`): ارائهٔ پاورپوینت جلسه برای کلاس
+
+## جلسه‌ها
+
+| جلسه | موضوع | درس | پاسخ‌ها | اسلاید |
 |---|---|---|---|---|
-| 1 | [Getting started with large language models](01.%20Getting_Started_with_LLMs.ipynb) | Next-token prediction, temperature and sampling, tokenization of Persian text, base vs. instruct models, chat templates, Ollama, the OpenAI-compatible API, streaming, speed and cost | — | [PDF](slides/01.%20Getting_Started_with_LLMs.pdf) · [PPTX](slides/01.%20Getting_Started_with_LLMs.pptx) |
-| 2 | [Vibe coding: building software with AI coding assistants](02.%20Vibe_Coding_Workflow.ipynb) | Autocomplete, chat and agentic tools, a professional workflow, specs and test-first prompting, a minimal coding agent loop, project rules files (AGENTS.md, CLAUDE.md), git as a safety net, Continue + Ollama | — | [PDF](slides/02.%20Vibe_Coding_Workflow.pdf) · [PPTX](slides/02.%20Vibe_Coding_Workflow.pptx) |
-| 3 | [Reviewing, debugging and testing AI-generated code](03.%20Reviewing_and_Testing_AI_Code.ipynb) | Edge cases in Persian text, parametrised pytest, hallucinated and deprecated APIs, SQL injection, `eval` and secrets in code, tests that lock in bugs | Novin Kala products | [PDF](slides/03.%20Reviewing_and_Testing_AI_Code.pdf) · [PPTX](slides/03.%20Reviewing_and_Testing_AI_Code.pptx) |
-| 4 | [Prompt engineering and structured outputs](04.%20Prompt_Engineering.ipynb) | Anatomy of a prompt, zero-shot and few-shot classification, error analysis, chain of thought, JSON mode, JSON Schema with Pydantic, separating instructions from data | Novin Kala reviews | [PDF](slides/04.%20Prompt_Engineering.pdf) · [PPTX](slides/04.%20Prompt_Engineering.pptx) |
-| 5 | [Evaluating LLM applications](05.%20Evaluating_LLM_Applications.ipynb) | Test sets, classification metrics, confusion matrices, LLM-as-a-judge with rubrics, judge biases, comparing prompts and models on quality, latency and cost | Novin Kala reviews | [PDF](slides/05.%20Evaluating_LLM_Applications.pdf) · [PPTX](slides/05.%20Evaluating_LLM_Applications.pptx) |
-| 6 | [Embeddings and vector search](06.%20Embeddings_and_Vector_Search.ipynb) | Sentence embeddings, cosine similarity, semantic vs. keyword search, multilingual E5, FAISS and Chroma, metadata filters | Novin Kala policies | [PDF](slides/06.%20Embeddings_and_Vector_Search.pdf) · [PPTX](slides/06.%20Embeddings_and_Vector_Search.pptx) |
-| 7 | [Preparing Persian documents for RAG](07.%20Document_Processing_for_RAG.ipynb) | Reading PDF and Word files, broken Persian PDF text, normalisation with hazm, fixed-size, recursive and sentence chunking, chunk overlap and metadata | Novin Kala handbook (PDF, DOCX) | [PDF](slides/07.%20Document_Processing_for_RAG.pdf) · [PPTX](slides/07.%20Document_Processing_for_RAG.pptx) |
-| 8 | [Building a retrieval-augmented generation system](08.%20Building_a_RAG_System.ipynb) | The RAG pipeline, grounded prompts, citations, refusing when the answer is not in the documents, conversational RAG with query rewriting | Novin Kala policies | [PDF](slides/08.%20Building_a_RAG_System.pdf) · [PPTX](slides/08.%20Building_a_RAG_System.pptx) |
-| 9 | [Evaluating and improving RAG](09.%20Evaluating_and_Improving_RAG.ipynb) | Recall@k and MRR, BM25, hybrid search with reciprocal rank fusion, cross-encoder rerankers, faithfulness and answer correctness with an LLM judge | Novin Kala QA set | [PDF](slides/09.%20Evaluating_and_Improving_RAG.pdf) · [PPTX](slides/09.%20Evaluating_and_Improving_RAG.pptx) |
-| 10 | Fine-tuning LLMs with LoRA and QLoRA | When to fine-tune, instruction datasets, chat templates, LoRA, 4-bit quantisation, PEFT and TRL `SFTTrainer` | Synthetic Persian orders | *in preparation* |
-| 11 | Evaluating and publishing fine-tuned models | Before/after evaluation, merging adapters, model cards, publishing on the Hugging Face Hub, GGUF conversion and serving with Ollama | Synthetic Persian orders | *in preparation* |
-| 12 | Tool calling | Tool definitions with JSON Schema, the tool-call loop, parallel calls, argument validation, error handling | Novin Kala products | *in preparation* |
-| 13 | Building agents from scratch | The ReAct loop, an agent with search, product and calculator tools, step limits, traces, when not to use an agent | Novin Kala | *in preparation* |
-| 14 | LangGraph, MCP and agent safety | State graphs with LangGraph, writing an MCP server and client, prompt injection, least privilege and human confirmation | Novin Kala | *in preparation* |
-| 15 | Chatbots and task-oriented dialogue systems | Conversation memory, intent detection, slot filling, dialogue state tracking, clarification questions, an order-taking assistant | Novin Kala | *in preparation* |
-| 16 | Final project: an AI shopping assistant | Project guidelines and rubric, a complete assistant that combines RAG, tools and an order dialogue, a Gradio interface | Novin Kala | *in preparation* |
+| ۱ | شروع کار با مدل‌های زبانی بزرگ: توکن، دما، Ollama و API سازگار با OpenAI | [نوت‌بوک](sessions/Session01_getting_started_with_llms.ipynb) | به‌زودی | [اسلاید](slides/Session01_getting_started_with_llms.pptx) |
+| ۲ | وایب کدینگ: برنامه‌نویسی با دستیار هوش مصنوعی | [نوت‌بوک](sessions/Session02_vibe_coding_workflow.ipynb) | به‌زودی | [اسلاید](slides/Session02_vibe_coding_workflow.pptx) |
+| ۳ | بازبینی، دیباگ و تست کد تولیدشده با هوش مصنوعی | [نوت‌بوک](sessions/Session03_reviewing_and_testing_ai_code.ipynb) | به‌زودی | [اسلاید](slides/Session03_reviewing_and_testing_ai_code.pptx) |
+| ۴ | پرامپت‌نویسی و خروجی ساختاریافته (JSON Schema و Pydantic) | [نوت‌بوک](sessions/Session04_prompt_engineering.ipynb) | به‌زودی | [اسلاید](slides/Session04_prompt_engineering.pptx) |
+| ۵ | ارزیابی برنامه‌های مبتنی بر LLM و LLM-as-a-Judge | [نوت‌بوک](sessions/Session05_evaluating_llm_applications.ipynb) | به‌زودی | [اسلاید](slides/Session05_evaluating_llm_applications.pptx) |
+| ۶ | امبدینگ، جستجوی معنایی، FAISS و Chroma | [نوت‌بوک](sessions/Session06_embeddings_and_vector_search.ipynb) | به‌زودی | [اسلاید](slides/Session06_embeddings_and_vector_search.pptx) |
+| ۷ | آماده‌سازی اسناد فارسی برای RAG: استخراج، نرمال‌سازی و Chunking | [نوت‌بوک](sessions/Session07_document_processing_for_rag.ipynb) | به‌زودی | [اسلاید](slides/Session07_document_processing_for_rag.pptx) |
+| ۸ | ساخت سیستم RAG با ارجاع به منبع و RAG گفتگومحور | [نوت‌بوک](sessions/Session08_building_a_rag_system.ipynb) | به‌زودی | [اسلاید](slides/Session08_building_a_rag_system.pptx) |
+| ۹ | ارزیابی و بهبود RAG: BM25، جستجوی ترکیبی و Reranker | [نوت‌بوک](sessions/Session09_evaluating_and_improving_rag.ipynb) | به‌زودی | [اسلاید](slides/Session09_evaluating_and_improving_rag.pptx) |
+| ۱۰ | فاین‌تیون مدل‌های زبانی با LoRA و QLoRA | به‌زودی | به‌زودی | به‌زودی |
+| ۱۱ | ارزیابی و انتشار مدل فاین‌تیون‌شده: Hugging Face Hub و GGUF | به‌زودی | به‌زودی | به‌زودی |
+| ۱۲ | فراخوانی ابزار (Tool Calling) | به‌زودی | به‌زودی | به‌زودی |
+| ۱۳ | ساخت ایجنت از صفر با حلقه ReAct | به‌زودی | به‌زودی | به‌زودی |
+| ۱۴ | LangGraph، MCP و ایمنی ایجنت | به‌زودی | به‌زودی | به‌زودی |
+| ۱۵ | چت‌بات و سیستم دیالوگ وظیفه‌محور | به‌زودی | به‌زودی | به‌زودی |
+| ۱۶ | پروژه پایانی: دستیار هوشمند فروشگاه | به‌زودی | به‌زودی | به‌زودی |
 
-## The running example: Novin Kala
+## مسیر یادگیری
 
-The [`data`](data) folder holds a small, fully synthetic dataset written for this course:
+| ترم | دوره |
+|---|---|
+| ۱ | [برنامه‌نویسی پایتون](https://github.com/keyvanmahmoudi/Python_Course) |
+| ۲ | [علم داده](https://github.com/keyvanmahmoudi/Data_Science_Course) |
+| ۳ | [یادگیری ماشین](https://github.com/keyvanmahmoudi/Machine_Learning_Course) |
+| ۴ | [یادگیری عمیق و شبکه‌های عصبی](https://github.com/keyvanmahmoudi/Deep_Learning_Course) |
+| ۵ | **مهندسی مدل‌های زبانی بزرگ (LLM) و برنامه‌نویسی با کمک هوش مصنوعی (Vibe Coding)** (همین دوره) |
+| ۶ | [ساخت محصول هوش مصنوعی با FastAPI و کسب درآمد](https://github.com/keyvanmahmoudi/AI_Product_Course) |
 
-| File | Content | Used in sessions |
-|---|---|---|
-| [`novinkala_docs/`](data/novinkala_docs) | 12 policy documents (shipping, returns, warranty, payment, ...) in Persian Markdown | 6–9, 13–16 |
-| [`novinkala_chunks.jsonl`](data/novinkala_chunks.jsonl) | The documents normalised and split into 42 chunks (output of session 7) | 8, 9, 13–16 |
-| [`novinkala_handbook.pdf`](data/novinkala_handbook.pdf), [`.docx`](data/novinkala_handbook.docx) | The same documents as one PDF and one Word file | 7 |
-| [`rag_eval.jsonl`](data/rag_eval.jsonl) | 30 questions with reference answers, source documents and the evidence sentence that contains each answer | 5, 7–9 |
-| [`products.csv`](data/products.csv) | 24 products with prices, stock and colours | 3, 12–16 |
-| [`reviews.csv`](data/reviews.csv) | 48 short customer reviews labelled positive, negative or neutral | 4, 5 |
+پیش‌نیاز این دوره، جلسه‌های ۱۳ و ۱۴ دورهٔ یادگیری عمیق (Transformer و Hugging Face) است.
 
-The store, its policies, phone number and products are invented; prices are illustrative.
+## اجرا
 
-## Getting started
+ساده‌ترین راه، باز کردن نوت‌بوک‌ها در Google Colab با دکمهٔ **Open in Colab** بالای هر نوت‌بوک است. نوت‌بوک‌ها از طریق API سازگار با OpenAI با مدل زبانی کار می‌کنند و تابع `setup_llm` در فایل [`llm_utils.py`](llm_utils.py) دو حالت دارد:
 
-Every notebook has an **Open in Colab** badge at the top. The notebooks talk to a language model through the OpenAI-compatible API, using the helper in [`llm_utils.py`](llm_utils.py):
+- `setup_llm("ollama")`: مدل متن‌باز `qwen2.5:7b` با Ollama روی همان ماشین اجرا می‌شود (رایگان). در Colab از منوی `Runtime → Change runtime type` گزینهٔ **T4 GPU** را انتخاب کنید. اجرای اول برای نصب Ollama و دانلود مدل چند دقیقه طول می‌کشد.
+- `setup_llm("api")`: اتصال به هر سرویس سازگار با OpenAI (OpenAI، OpenRouter، درگاه‌های داخلی یا سرور vLLM). نشانی، کلید و نام مدل را با نام‌های `LLM_BASE_URL`، `LLM_API_KEY` و `LLM_MODEL` در بخش **Secrets** کولب ذخیره کنید.
 
-```python
-client, MODEL = setup_llm("ollama")   # open model (qwen2.5:7b) served by Ollama on the same machine
-client, MODEL = setup_llm("api")      # any OpenAI-compatible service
-```
+جلسهٔ ۳ به مدل زبانی نیاز ندارد. برای اجرا روی سیستم خودتان، ابتدا [Ollama](https://ollama.com) را نصب کنید:
 
-- **Ollama (default, free):** on Colab, switch the runtime to a GPU (`Runtime → Change runtime type → T4 GPU`). The first run installs Ollama and downloads the model, which takes a few minutes.
-- **API:** add `LLM_BASE_URL`, `LLM_API_KEY` and `LLM_MODEL` as Colab secrets (the key icon in the left sidebar) or as environment variables. Any OpenAI-compatible endpoint works: OpenAI, OpenRouter, Iranian gateways or your own vLLM server.
-
-Sessions 1, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16 need a GPU. Sessions 2–5 can run with either back-end on a CPU runtime when an API is used.
-
-To run locally, install [Ollama](https://ollama.com), then:
+</div>
 
 ```bash
 git clone https://github.com/keyvanmahmoudi/LLM_Engineering_Course.git
 cd LLM_Engineering_Course
-pip install openai pydantic pandas matplotlib pytest jupyter
+python -m venv .venv
+source .venv/bin/activate        # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
 ollama pull qwen2.5:7b
 jupyter notebook
 ```
 
-## Slides
+<div dir="rtl">
 
-The slides use the free [Vazirmatn](https://github.com/rastikerdar/vazirmatn) font. The PDF files display correctly everywhere; to edit the PowerPoint files, install Vazirmatn first.
+## داده‌ها
 
-## Prerequisites
+داده‌های دوره در پوشهٔ [`data`](data) قرار دارند و نوت‌بوک‌ها آن‌ها را هنگام اجرا به‌طور خودکار دانلود می‌کنند. همهٔ داده‌ها برای این دوره ساخته شده‌اند و فروشگاه نوین‌کالا، سیاست‌ها، کالاها و نظرات آن فرضی‌اند. توضیح هر فایل در [`data/README.md`](data/README.md) آمده است.
 
-Python and the material of the [Deep Learning Course](https://github.com/keyvanmahmoudi/Deep_Learning_Course), especially sessions 13 and 14 (the Transformer and pretrained models with Hugging Face). Basic familiarity with git and the command line helps from session 2 onwards.
+مدل‌های ازپیش‌آموزش‌دیده (Qwen2.5، multilingual-e5، bge-reranker) از Ollama و Hugging Face Hub دانلود می‌شوند.
 
-## Author
+## اسلایدها
 
-**Keyvan Mahmoudi**, PhD student in Natural Language Processing, University of Tehran
-[LinkedIn](https://www.linkedin.com/in/keyvan-mahmoudi-7b3280103) · [Hugging Face](https://huggingface.co/KeyvanMahmoudi)
+اسلایدها با فونت‌های Vazirmatn و Lalezar ساخته شده‌اند. فایل فونت‌ها در پوشهٔ [`fonts`](fonts) قرار دارد. پیش از باز کردن اسلایدها آن‌ها را نصب کنید.
 
-## License
-
-The code in this repository is released under the [MIT License](LICENSE). The slides, notebook text and the Novin Kala dataset may be used for teaching with attribution.
+</div>
