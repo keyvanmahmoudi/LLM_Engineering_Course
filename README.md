@@ -14,15 +14,15 @@
 
 | جلسه | موضوع | درس | پاسخ‌ها | اسلاید |
 |---|---|---|---|---|
-| ۱ | شروع کار با مدل‌های زبانی بزرگ: توکن، دما، Ollama و API سازگار با OpenAI | [نوت‌بوک](sessions/Session01_getting_started_with_llms.ipynb) | به‌زودی | [اسلاید](slides/Session01_getting_started_with_llms.pptx) |
-| ۲ | وایب کدینگ: برنامه‌نویسی با دستیار هوش مصنوعی | [نوت‌بوک](sessions/Session02_vibe_coding_workflow.ipynb) | به‌زودی | [اسلاید](slides/Session02_vibe_coding_workflow.pptx) |
-| ۳ | بازبینی، دیباگ و تست کد تولیدشده با هوش مصنوعی | [نوت‌بوک](sessions/Session03_reviewing_and_testing_ai_code.ipynb) | به‌زودی | [اسلاید](slides/Session03_reviewing_and_testing_ai_code.pptx) |
-| ۴ | پرامپت‌نویسی و خروجی ساختاریافته (JSON Schema و Pydantic) | [نوت‌بوک](sessions/Session04_prompt_engineering.ipynb) | به‌زودی | [اسلاید](slides/Session04_prompt_engineering.pptx) |
-| ۵ | ارزیابی برنامه‌های مبتنی بر LLM و LLM-as-a-Judge | [نوت‌بوک](sessions/Session05_evaluating_llm_applications.ipynb) | به‌زودی | [اسلاید](slides/Session05_evaluating_llm_applications.pptx) |
-| ۶ | امبدینگ، جستجوی معنایی، FAISS و Chroma | [نوت‌بوک](sessions/Session06_embeddings_and_vector_search.ipynb) | به‌زودی | [اسلاید](slides/Session06_embeddings_and_vector_search.pptx) |
-| ۷ | آماده‌سازی اسناد فارسی برای RAG: استخراج، نرمال‌سازی و Chunking | [نوت‌بوک](sessions/Session07_document_processing_for_rag.ipynb) | به‌زودی | [اسلاید](slides/Session07_document_processing_for_rag.pptx) |
-| ۸ | ساخت سیستم RAG با ارجاع به منبع و RAG گفتگومحور | [نوت‌بوک](sessions/Session08_building_a_rag_system.ipynb) | به‌زودی | [اسلاید](slides/Session08_building_a_rag_system.pptx) |
-| ۹ | ارزیابی و بهبود RAG: BM25، جستجوی ترکیبی و Reranker | [نوت‌بوک](sessions/Session09_evaluating_and_improving_rag.ipynb) | به‌زودی | [اسلاید](slides/Session09_evaluating_and_improving_rag.pptx) |
+| ۱ | شروع کار با مدل‌های زبانی بزرگ: توکن، دما، Ollama و API سازگار با OpenAI | [نوت‌بوک](sessions/Session01_getting_started_with_llms.ipynb) | [پاسخ تمرین‌ها](solutions/Session01_getting_started_with_llms_solutions.ipynb) | [اسلاید](slides/Session01_getting_started_with_llms.pptx) |
+| ۲ | وایب کدینگ: برنامه‌نویسی با دستیار هوش مصنوعی | [نوت‌بوک](sessions/Session02_vibe_coding_workflow.ipynb) | [پاسخ تمرین‌ها](solutions/Session02_vibe_coding_workflow_solutions.ipynb) | [اسلاید](slides/Session02_vibe_coding_workflow.pptx) |
+| ۳ | بازبینی، دیباگ و تست کد تولیدشده با هوش مصنوعی | [نوت‌بوک](sessions/Session03_reviewing_and_testing_ai_code.ipynb) | [پاسخ تمرین‌ها](solutions/Session03_reviewing_and_testing_ai_code_solutions.ipynb) | [اسلاید](slides/Session03_reviewing_and_testing_ai_code.pptx) |
+| ۴ | پرامپت‌نویسی و خروجی ساختاریافته (JSON Schema و Pydantic) | [نوت‌بوک](sessions/Session04_prompt_engineering.ipynb) | [پاسخ تمرین‌ها](solutions/Session04_prompt_engineering_solutions.ipynb) | [اسلاید](slides/Session04_prompt_engineering.pptx) |
+| ۵ | ارزیابی برنامه‌های مبتنی بر LLM و LLM-as-a-Judge | [نوت‌بوک](sessions/Session05_evaluating_llm_applications.ipynb) | [پاسخ تمرین‌ها](solutions/Session05_evaluating_llm_applications_solutions.ipynb) | [اسلاید](slides/Session05_evaluating_llm_applications.pptx) |
+| ۶ | امبدینگ، جستجوی معنایی، FAISS و Chroma | [نوت‌بوک](sessions/Session06_embeddings_and_vector_search.ipynb) | [پاسخ تمرین‌ها](solutions/Session06_embeddings_and_vector_search_solutions.ipynb) | [اسلاید](slides/Session06_embeddings_and_vector_search.pptx) |
+| ۷ | آماده‌سازی اسناد فارسی برای RAG: استخراج، نرمال‌سازی و Chunking | [نوت‌بوک](sessions/Session07_document_processing_for_rag.ipynb) | [پاسخ تمرین‌ها](solutions/Session07_document_processing_for_rag_solutions.ipynb) | [اسلاید](slides/Session07_document_processing_for_rag.pptx) |
+| ۸ | ساخت سیستم RAG با ارجاع به منبع و RAG گفتگومحور | [نوت‌بوک](sessions/Session08_building_a_rag_system.ipynb) | [پاسخ تمرین‌ها](solutions/Session08_building_a_rag_system_solutions.ipynb) | [اسلاید](slides/Session08_building_a_rag_system.pptx) |
+| ۹ | ارزیابی و بهبود RAG: BM25، جستجوی ترکیبی و Reranker | [نوت‌بوک](sessions/Session09_evaluating_and_improving_rag.ipynb) | [پاسخ تمرین‌ها](solutions/Session09_evaluating_and_improving_rag_solutions.ipynb) | [اسلاید](slides/Session09_evaluating_and_improving_rag.pptx) |
 | ۱۰ | فاین‌تیون مدل‌های زبانی با LoRA و QLoRA | به‌زودی | به‌زودی | به‌زودی |
 | ۱۱ | ارزیابی و انتشار مدل فاین‌تیون‌شده: Hugging Face Hub و GGUF | به‌زودی | به‌زودی | به‌زودی |
 | ۱۲ | فراخوانی ابزار (Tool Calling) | به‌زودی | به‌زودی | به‌زودی |
