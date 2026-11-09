@@ -25,11 +25,11 @@
 | ۹ | ارزیابی و بهبود RAG: BM25، جستجوی ترکیبی و Reranker | [نوت‌بوک](sessions/Session09_evaluating_and_improving_rag.ipynb) | [پاسخ تمرین‌ها](solutions/Session09_evaluating_and_improving_rag_solutions.ipynb) | [اسلاید](slides/Session09_evaluating_and_improving_rag.pptx) |
 | ۱۰ | فاین‌تیون مدل‌های زبانی با LoRA و QLoRA | [نوت‌بوک](sessions/Session10_fine_tuning_with_lora.ipynb) | [پاسخ تمرین‌ها](solutions/Session10_fine_tuning_with_lora_solutions.ipynb) | [اسلاید](slides/Session10_fine_tuning_with_lora.pptx) |
 | ۱۱ | ارزیابی و انتشار مدل فاین‌تیون‌شده: Hugging Face Hub و GGUF | [نوت‌بوک](sessions/Session11_evaluating_and_publishing_models.ipynb) | [پاسخ تمرین‌ها](solutions/Session11_evaluating_and_publishing_models_solutions.ipynb) | [اسلاید](slides/Session11_evaluating_and_publishing_models.pptx) |
-| ۱۲ | فراخوانی ابزار (Tool Calling) | به‌زودی | به‌زودی | به‌زودی |
-| ۱۳ | ساخت ایجنت از صفر با حلقه ReAct | به‌زودی | به‌زودی | به‌زودی |
-| ۱۴ | LangGraph، MCP و ایمنی ایجنت | به‌زودی | به‌زودی | به‌زودی |
-| ۱۵ | چت‌بات و سیستم دیالوگ وظیفه‌محور | به‌زودی | به‌زودی | به‌زودی |
-| ۱۶ | پروژه پایانی: دستیار هوشمند فروشگاه | به‌زودی | به‌زودی | به‌زودی |
+| ۱۲ | فراخوانی ابزار (Tool Calling) | [نوت‌بوک](sessions/Session12_tool_calling.ipynb) | [پاسخ تمرین‌ها](solutions/Session12_tool_calling_solutions.ipynb) | [اسلاید](slides/Session12_tool_calling.pptx) |
+| ۱۳ | ساخت ایجنت از صفر با حلقه ReAct | [نوت‌بوک](sessions/Session13_building_agents.ipynb) | [پاسخ تمرین‌ها](solutions/Session13_building_agents_solutions.ipynb) | [اسلاید](slides/Session13_building_agents.pptx) |
+| ۱۴ | LangGraph، MCP و ایمنی ایجنت | [نوت‌بوک](sessions/Session14_langgraph_mcp_and_agent_safety.ipynb) | [پاسخ تمرین‌ها](solutions/Session14_langgraph_mcp_and_agent_safety_solutions.ipynb) | [اسلاید](slides/Session14_langgraph_mcp_and_agent_safety.pptx) |
+| ۱۵ | چت‌بات و سیستم دیالوگ وظیفه‌محور | [نوت‌بوک](sessions/Session15_dialogue_systems.ipynb) | [پاسخ تمرین‌ها](solutions/Session15_dialogue_systems_solutions.ipynb) | [اسلاید](slides/Session15_dialogue_systems.pptx) |
+| ۱۶ | پروژه پایانی: دستیار هوشمند فروشگاه | [نوت‌بوک](sessions/Session16_final_project.ipynb) | [پاسخ تمرین‌ها](solutions/Session16_final_project_solutions.ipynb) | [اسلاید](slides/Session16_final_project.pptx) |
 
 ## مسیر یادگیری
 
