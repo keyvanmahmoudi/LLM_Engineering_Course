@@ -23,8 +23,8 @@
 | ۷ | آماده‌سازی اسناد فارسی برای RAG: استخراج، نرمال‌سازی و Chunking | [نوت‌بوک](sessions/Session07_document_processing_for_rag.ipynb) | [پاسخ تمرین‌ها](solutions/Session07_document_processing_for_rag_solutions.ipynb) | [اسلاید](slides/Session07_document_processing_for_rag.pptx) |
 | ۸ | ساخت سیستم RAG با ارجاع به منبع و RAG گفتگومحور | [نوت‌بوک](sessions/Session08_building_a_rag_system.ipynb) | [پاسخ تمرین‌ها](solutions/Session08_building_a_rag_system_solutions.ipynb) | [اسلاید](slides/Session08_building_a_rag_system.pptx) |
 | ۹ | ارزیابی و بهبود RAG: BM25، جستجوی ترکیبی و Reranker | [نوت‌بوک](sessions/Session09_evaluating_and_improving_rag.ipynb) | [پاسخ تمرین‌ها](solutions/Session09_evaluating_and_improving_rag_solutions.ipynb) | [اسلاید](slides/Session09_evaluating_and_improving_rag.pptx) |
-| ۱۰ | فاین‌تیون مدل‌های زبانی با LoRA و QLoRA | به‌زودی | به‌زودی | به‌زودی |
-| ۱۱ | ارزیابی و انتشار مدل فاین‌تیون‌شده: Hugging Face Hub و GGUF | به‌زودی | به‌زودی | به‌زودی |
+| ۱۰ | فاین‌تیون مدل‌های زبانی با LoRA و QLoRA | [نوت‌بوک](sessions/Session10_fine_tuning_with_lora.ipynb) | [پاسخ تمرین‌ها](solutions/Session10_fine_tuning_with_lora_solutions.ipynb) | [اسلاید](slides/Session10_fine_tuning_with_lora.pptx) |
+| ۱۱ | ارزیابی و انتشار مدل فاین‌تیون‌شده: Hugging Face Hub و GGUF | [نوت‌بوک](sessions/Session11_evaluating_and_publishing_models.ipynb) | [پاسخ تمرین‌ها](solutions/Session11_evaluating_and_publishing_models_solutions.ipynb) | [اسلاید](slides/Session11_evaluating_and_publishing_models.pptx) |
 | ۱۲ | فراخوانی ابزار (Tool Calling) | به‌زودی | به‌زودی | به‌زودی |
 | ۱۳ | ساخت ایجنت از صفر با حلقه ReAct | به‌زودی | به‌زودی | به‌زودی |
 | ۱۴ | LangGraph، MCP و ایمنی ایجنت | به‌زودی | به‌زودی | به‌زودی |
